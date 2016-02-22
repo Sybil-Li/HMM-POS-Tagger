@@ -4,23 +4,11 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
+import java.util.regex.Pattern;
 
 public class BulkProcess {
 	public static void main (String[] args) {
 		// Read file content into String
-		// try {
-		// 	Files.walk(Paths.get("/Users/Sybil/Documents/College/Oxford/Computational Linguistics/Practical/WSJ-2-12")).forEach(file_path -> {
-		// 		try {
-		// 			Files.walk(Paths.get(file_path.toString())).forEach(filePath -> {
-		// 			    processFile(filePath);
-		// 			});
-		// 		} catch (IOException e) {
-		// 	    	System.out.println("1 " + e);
-		// 		}
-		// 	});
-		// } catch (IOException e) {
-		// System.out.println("2 " + e);
-		// }
 		for (int i = 2; i < 10; i++){
 			for (int j = i*100; j < i*100+100; j++) {
 				Path file_path = Paths.get("WSJ-2-12/0" + i, "WSJ_0" + j + ".POS");
@@ -33,6 +21,11 @@ public class BulkProcess {
 				processFile(file_path);
 			}
 		}
+
+		// for testing parsing
+		// Path file_path = Paths.get("WSJ-2-12/02/WSJ_0200.POS");
+		// 		processFile(file_path);
+		
 
 	}
 
@@ -47,11 +40,9 @@ public class BulkProcess {
 	    	System.out.println("3 " +e);
 	    }
 	    // split String to extract useful content
-	    String [] tokens = posString.split(" ");
+	    String [] tokens = posString.replaceAll("[\\[\\]\\n]", "").split(" ");
 	    // for (int i = 0; i < tokens.length; i++) {
-	    // 	if (!tokens[i].contains("[") && !tokens[i].contains("]") && !tokens[i].contains("========")) {
-	    // 		System.out.println(tokens[i]);
-	    // 	}
+	    // 		System.out.println("new token " + tokens[i]);
 	    // }
 
 	    // Write to a different file
@@ -66,7 +57,7 @@ public class BulkProcess {
 			FileWriter fw = new FileWriter(file.getAbsoluteFile());
 			BufferedWriter bw = new BufferedWriter(fw);
 			for (int i = 0; i < tokens.length; i++) {
-		    	if (!tokens[i].contains("[") && !tokens[i].contains("]") && !tokens[i].contains("========")) {
+				if (tokens[i].length() >= 3 && !tokens[i].contains("========")) {
 		    		bw.write(tokens[i]);
 		    		bw.newLine();
 		    	}
