@@ -18,19 +18,23 @@ public class POStagger {
 	private static String[] allTags = null;
 	public static void main (String[] args) {
 		// Read file content into String
-		// for (int i = 2; i < 10; i++){
-		// 	for (int j = i*100; j < i*100+100; j++) {
-		// 		Path file_path = Paths.get("processed/WSJ_0" + j + ".POS");
-		// 		trainModel(file_path);
-		// 	}	
-		// }
-		// for (int i = 10; i < 13; i++){
-		// 	for (int j = i*100; j < i*100+100; j++) {
-		// 		Path file_path = Paths.get("processed/WSJ_" + j + ".POS");
-		// 		trainModel(file_path);
-		// 	}
-		// }
-		trainModel(Paths.get("processed/WSJ_0200.POS"));
+		for (int i = 2; i < 10; i++){
+			for (int j = i*100; j < i*100+100; j++) {
+				Path file_path = Paths.get("processed/WSJ_0" + j + ".POS");
+				trainModel(file_path);
+			}	
+		}
+		for (int i = 10; i < 13; i++){
+			for (int j = i*100; j < i*100+100; j++) {
+				Path file_path = Paths.get("processed/WSJ_" + j + ".POS");
+				trainModel(file_path);
+			}
+		}
+
+		// testing code
+		// trainModel(Paths.get("processed/WSJ_0200.POS"));
+		// System.out.println("catTotal: " + catTotal.size());
+		// System.out.println("wordTotal: " + wordTotal.size());
 
 		// after training update set of tags
 		Object[] temp = catTotal.keySet().toArray();
@@ -39,7 +43,24 @@ public class POStagger {
 			allTags[i] = (String) temp[i];
 		}
 
-		testModel(Paths.get("processed/WSJ_0200.POS"));
+		int totalpredicted = 0;
+		int totalcorrect = 0;
+
+		for (int i = 2; i < 3; i++){
+			for (int j = i*100; j < i*100+100; j++) {
+				Path file_path = Paths.get("processed/WSJ_0" + j + ".POS");
+				int[] accuracy = testModel(file_path);
+				System.out.println("tested processed/WSJ_0" + j + ".POS");
+				totalpredicted += accuracy[0];
+				totalcorrect += accuracy[1];
+			}	
+		}
+		System.out.println("total number of words: " + totalpredicted);
+		System.out.println("correctly predicted: " + totalcorrect);
+
+		// testing code
+		// testModel(Paths.get("processed/WSJ_0200.POS"));
+
 	}
 
 	public static void trainModel(Path file_path) {
@@ -104,11 +125,11 @@ public class POStagger {
 				}
 			}
 		} catch (IOException e) {
-	    	System.out.println("3 " +e);
+	    	System.out.println(e);
 	    }
 	}
 
-	public static void testModel(Path file_path) {
+	public static int[] testModel(Path file_path) {
 		String posString = null;
 		try {
 	    	byte[] posArray = Files.readAllBytes(file_path);
@@ -123,10 +144,26 @@ public class POStagger {
 	    for (int i = 0; i < tokens.length; i++){
 	    	words_tags[i] = tokens[i].split("\\/");
 	    }
-	    for (int i = 0; i < tokens.length; i++){
-	    	System.out.println(words_tags[i][0] + " " + words_tags[i][1]);
-	    }
-	    Viterbi(words_tags);
+	    // debugging code for word-tag split
+	    // for (int i = 0; i < tokens.length; i++){
+		// 	System.out.println(words_tags[i][0] + " " + words_tags[i][1]);
+		// }
+	    String[] results = Viterbi(words_tags);
+
+	    // to be returned
+	    // accuracy[0] stores total number of words tagged
+	    // accuracy[1] stores number of correctly tagged words
+	    int[] accuracy = new int[2];
+	    accuracy[0] = results.length;
+
+		for (int i = 0; i < results.length; i++){
+			//System.out.println(results[i]);
+			if (results[i].equals(words_tags[i][1])){
+				accuracy[1]++;
+			}
+		}
+
+		return accuracy;
 	}
 
 	public static String[] Viterbi(String[][] words_tags) {
@@ -145,30 +182,34 @@ public class POStagger {
 			double pWordInCat = 0;
 			if (word2cat.get(w).containsKey(t)) {
 				// calculate smoothed probability
-				pWordInCat = (word2cat.get(w).get(t)+1)/(wordTotal.get(w)+K);
+				pWordInCat = -(Math.log(word2cat.get(w).get(t)+1)-Math.log(wordTotal.get(w)+K));
 			}
 			else {
 				// calculate default probability
-				pWordInCat = 1/(wordTotal.get(w)+K);
+				pWordInCat = -(Math.log(1)-Math.log(wordTotal.get(w)+K));
 			}
+			//System.out.println(pWordInCat);
 
 			double pCatAfterCat = 0; 
 			if (cat2cat.get(t).containsKey(prevt)) {
 				// calculate smoothed probability
-				pCatAfterCat = (cat2cat.get(t).get(prevt)+1)/(catTotal.get(t)+K);
+				pCatAfterCat = -(Math.log(cat2cat.get(t).get(prevt)+1)-Math.log(catTotal.get(t)+K));
 			}
 			else {
 				// calculate default probability
-				pCatAfterCat = 1/(catTotal.get(t)+K);
+				pCatAfterCat = -(Math.log(1)-Math.log(catTotal.get(t)+K));
 			}
+			//System.out.println(pCatAfterCat);
 
-			// calculate score
-			score[i][0] = pWordInCat*pCatAfterCat;
+			// calculate score (NLL)
+			score[i][0] = pWordInCat+pCatAfterCat;
+			//System.out.println(score[i][0]);
 		}
 
 		// induction
 		for (int j = 1; j < N; j++) {
-			w = words_tags[0][j];
+			w = words_tags[j][0];
+			//System.out.println(w + " " +word2cat.containsKey(w));
 			for (int i = 0; i < K; i++) {
 				t = allTags[i];
 				for (int k = 0; k < K; k++) {
@@ -176,42 +217,55 @@ public class POStagger {
 					double pWordInCat = 0;
 					if (word2cat.containsKey(w) && word2cat.get(w).containsKey(t)) {
 						// calculate smoothed probability
-						pWordInCat = (word2cat.get(w).get(t)+1)/(wordTotal.get(w)+K);
+						pWordInCat = -(Math.log(word2cat.get(w).get(t)+1)-Math.log(wordTotal.get(w)+K));
 					}
 					else {
 						// calculate default probability
-						pWordInCat = 1/(wordTotal.get(w)+K);
+						pWordInCat = -(Math.log(1)-Math.log(wordTotal.get(w)+K));
 					}
 
 					double pCatAfterCat = 0; 
 					if (cat2cat.containsKey(t) && cat2cat.get(t).containsKey(prevt)) {
 						// calculate smoothed probability
-						pCatAfterCat = (cat2cat.get(t).get(prevt)+1)/(catTotal.get(t)+K);
+						pCatAfterCat = -(Math.log(cat2cat.get(t).get(prevt)+1)-Math.log(catTotal.get(t)+K));
 					}
 					else {
 						// calculate default probability
-						pCatAfterCat = 1/(catTotal.get(t)+K);
+						pCatAfterCat = -(Math.log(1)-Math.log(catTotal.get(t)+K));
 					}
 
 					// update score and backpointer
-					if (pWordInCat*pCatAfterCat > score[i][j]) {
-						score[i][j] = pWordInCat*pCatAfterCat;
+					if (pWordInCat+pCatAfterCat < score[i][j] || score[i][j] == 0) {
+						score[i][j] = pWordInCat+pCatAfterCat;
 						backpointer[i][j] = k;
 					}
 				}
 			}
 		}
 
+		// for (int i = 0; i < K; i++) {
+		// 	for (int j = 1; j < N; j++) {
+		// 		System.out.print(backpointer[i][j] + " ");		
+		// 	}
+		// 	System.out.println();
+		// }
+		// for (int i = 0; i < K; i++) {
+		// 	for (int j = 1; j < N; j++) {
+		// 		System.out.print(score[i][j]);
+		// 	}
+		// 	System.out.println();
+		// }
+
 		// backtracing
 		int maxt = 0;
-		for (int i = 1; i < N; i++){
-			if (score[N-1][i] > score[maxt][N-1]){
+		for (int i = 1; i < K; i++){
+			if (score[i][N-1] < score[maxt][N-1]){
 				maxt = i;
 			}
 		}
 		String [] results = new String[N];
 		results[N-1] = allTags[backpointer[maxt][N-1]];
-		for (int i = N-2; i > 0; i--){
+		for (int i = N-2; i >= 0; i--){
 			maxt = backpointer[maxt][i+1];
 			results[i] = allTags[maxt];
 		}
