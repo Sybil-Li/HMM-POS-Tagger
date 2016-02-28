@@ -1,3 +1,4 @@
+In/IN
 an/DT
 age/NN
 of/IN
@@ -37,6 +38,7 @@ missing/VBG
 a/DT
 beat/NN
 ./.
+But/CC
 even/RB
 on/IN
 the/DT
@@ -196,6 +198,7 @@ the/DT
 Bush/NNP
 administration/NN
 ./.
+Since/IN
 1984/CD
 ,/,
 the/DT
@@ -550,6 +553,7 @@ litigation/NN
 )/)
 ./.
 ''/''
+Yet/CC
 some/DT
 lawyers/NNS
 point/VBP
@@ -602,6 +606,7 @@ three-member/JJ
 panel/NN
 ./.
 )/)
+In/IN
 the/DT
 Lilly/NNP
 case/NN
@@ -766,6 +771,7 @@ public/JJ
 interest/NN
 ./.
 ''/''
+Says/VBZ
 Ms./NNP
 Raines/NNP
 ,/,
@@ -790,3 +796,4 @@ could/MD
 prove/VB
 troublesome/JJ
 ./.
+''/''

@@ -152,6 +152,7 @@ movie/NN
 title/NN
 tracks/NNS
 ./.
+``/``
 Most/JJS
 of/IN
 what/WP
@@ -469,6 +470,7 @@ singers/NNS
 and/CC
 instruments/NNS
 ./.
+If/IN
 Ms./NNP
 Pfeiffer/NNP
 was/VBD
@@ -687,7 +689,8 @@ had/VBD
 hoped/VBN
 for/IN
 ./.
-''/''Accordingly/RB
+''/''
+Accordingly/RB
 ,/,
 Ms./NNP
 Pfeiffer/NNP
@@ -700,6 +703,7 @@ of/IN
 her/PRP$
 character/NN
 ./.
+As/IN
 for/IN
 Ms./NNP
 Pfeiffer/NNP
@@ -807,6 +811,7 @@ listened/VBN
 to/TO
 ./.
 ''/''
+From/IN
 the/DT
 way/NN
 she/PRP
@@ -1040,6 +1045,7 @@ vocal/JJ
 training/NN
 ./.
 ''/''
+So/RB
 what/WP
 Ms./NNP
 Stevens/NNP
@@ -1198,6 +1204,7 @@ cigarettes/NNS
 a/DT
 day/NN
 ?/.
+``/``
 It/PRP
 was/VBD
 a/DT

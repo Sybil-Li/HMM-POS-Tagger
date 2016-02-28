@@ -29,6 +29,7 @@ suitor/NN
 for/IN
 LIN/NNP
 ./.
+Moreover/RB
 ,/,
 the/DT
 amended/VBN
@@ -189,6 +190,7 @@ $/$
 a/DT
 share/NN
 ./.
+In/IN
 addition/NN
 ,/,
 New/NNP
@@ -254,6 +256,7 @@ earlier/RBR
 this/DT
 month/NN
 ./.
+``/``
 We/PRP
 're/VBP
 taking/VBG
@@ -451,6 +454,7 @@ the/DT
 bidding/NN
 again/RB
 ./.
+``/``
 This/DT
 game/NN
 is/VBZ
@@ -502,6 +506,7 @@ point/NN
 yet/RB
 ./.
 ''/''
+Under/IN
 its/PRP$
 revised/VBN
 proposal/NN
@@ -630,6 +635,7 @@ at/IN
 third-party/JJ
 prices/NNS
 ./.
+To/TO
 mollify/VB
 shareholders/NNS
 concerned/VBN
@@ -694,6 +700,7 @@ the/DT
 McCaw/NNP
 offer/NN
 ./.
+``/``
 We/PRP
 're/VBP
 very/RB
@@ -775,6 +782,7 @@ on/IN
 dilution/NN
 ./.
 ''/''
+But/CC
 Kenneth/NNP
 Leon/NNP
 ,/,
@@ -920,6 +928,7 @@ to/TO
 become/VB
 profitable/JJ
 ./.
+For/IN
 1988/CD
 ,/,
 BellSouth/NNP
@@ -970,6 +979,7 @@ being/VBG
 scaled/VBN
 back/RB
 ./.
+In/IN
 composite/JJ
 trading/NN
 Friday/NNP
@@ -989,6 +999,7 @@ to/TO
 $/$
 52.125/CD
 ./.
+In/IN
 national/JJ
 over-the-counter/JJ
 trading/NN
@@ -1101,6 +1112,7 @@ system/NN
 in/IN
 1984/CD
 ./.
+Indeed/RB
 ,/,
 McCaw/NNP
 seemed/VBD
@@ -1165,3 +1177,4 @@ top/JJ
 10/CD
 markets/NNS
 ./.
+''/''

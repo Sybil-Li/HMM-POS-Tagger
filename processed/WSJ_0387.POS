@@ -50,6 +50,7 @@ to/TO
 protect/VB
 him/PRP
 ./.
+``/``
 Suddenly/RB
 ,/,
 the/DT
@@ -290,6 +291,7 @@ killed/VBD
 112/CD
 people/NNS
 ./.
+``/``
 Infants/NNS
 '/POS
 ,/,
@@ -405,6 +407,7 @@ in/IN
 severe/JJ
 turbulence/NN
 ./.
+During/IN
 the/DT
 Sioux/NNP
 City/NNP
@@ -487,6 +490,7 @@ for/IN
 the/DT
 baby/NN
 ./.
+When/WRB
 Vanessa/NNP
 Merton/NNP
 ,/,
@@ -558,6 +562,7 @@ seats/NNS
 on/IN
 flights/NNS
 ./.
+After/IN
 the/DT
 Sioux/NNP
 City/NNP
@@ -645,6 +650,7 @@ complaints/NNS
 from/IN
 parents/NNS
 ./.
+``/``
 People/NNS
 are/VBP
 told/VBN
@@ -943,6 +949,7 @@ studying/VBG
 the/DT
 issue/NN
 ./.
+But/CC
 privately/RB
 some/DT
 airline/NN
@@ -987,6 +994,7 @@ increased/JJ
 infant/NN
 safety/NN
 ./.
+Generally/RB
 ,/,
 airlines/NNS
 say/VBP

@@ -102,6 +102,7 @@ Minister/NNP
 Margaret/NNP
 Thatcher/NNP
 ./.
+Indeed/RB
 ,/,
 only/RB
 hours/NNS
@@ -129,6 +130,7 @@ supported/VBN
 ''/''
 him/PRP
 ./.
+``/``
 There/EX
 was/VBD
 a/DT
@@ -206,6 +208,7 @@ unit/NN
 later/JJ
 decline/NN
 ./.
+``/``
 The/DT
 market/NN
 was/VBD
@@ -228,6 +231,7 @@ Mr./NNP
 Beale/NNP
 said/VBD
 ./.
+In/IN
 late/JJ
 New/NNP
 York/NNP
@@ -276,6 +280,7 @@ $/$
 late/JJ
 Wednesday/NNP
 ./.
+In/IN
 Tokyo/NNP
 Friday/NNP
 ,/,
@@ -370,6 +375,7 @@ in/IN
 volatile/JJ
 trade/NN
 ./.
+But/CC
 Mr./NNP
 Foley/NNP
 predicted/VBD
@@ -495,6 +501,7 @@ Mr./NNP
 Chandross/NNP
 concluded/VBD
 ./.
+Also/RB
 announcing/VBG
 his/PRP$
 resignation/NN
@@ -590,6 +597,7 @@ New/NNP
 York/NNP
 traders/NNS
 ./.
+Meanwhile/RB
 ,/,
 dollar/NN
 trading/NN
@@ -677,6 +685,7 @@ the/DT
 second/JJ
 quarter/NN
 ./.
+In/IN
 Europe/NNP
 ,/,
 the/DT
@@ -697,6 +706,7 @@ Lawson/NNP
 's/POS
 announcement/NN
 ./.
+On/IN
 the/DT
 Commodity/NNP
 Exchange/NNP
@@ -736,6 +746,7 @@ five/CD
 million/CD
 ounces/NNS
 ./.
+In/IN
 early/RB
 trading/NN
 in/IN

@@ -39,6 +39,7 @@ regulator/NN
 Danny/NNP
 Wall/NNP
 ./.
+In/IN
 a/DT
 riveting/JJ
 day/NN
@@ -245,6 +246,7 @@ failure/NN
 in/IN
 history/NN
 ./.
+``/``
 I/PRP
 think/VBP
 there/EX
@@ -391,6 +393,7 @@ immediately/RB
 grew/VBD
 suspicious/JJ
 ./.
+``/``
 Later/RB
 on/RB
 ,/,
@@ -464,6 +467,7 @@ its/PRP$
 officers/NNS
 ./.
 ''/''
+``/``
 Those/DT
 who/WP
 testified/VBD
@@ -580,6 +584,7 @@ from/IN
 his/PRP$
 job/NN
 ./.
+``/``
 A/DT
 couple/NN
 of/IN
@@ -647,6 +652,7 @@ adjustment/NN
 on/IN
 another/DT
 ./.
+``/``
 Our/PRP$
 response/NN
 to/TO

@@ -1,3 +1,4 @@
+Place/VB
 a/DT
 phone/NN
 order/NN
@@ -29,6 +30,7 @@ ears/NNS
 these/DT
 days/NNS
 ./.
+Or/CC
 open/VB
 up/RP
 an/DT
@@ -57,6 +59,7 @@ green/JJ
 with/IN
 envy/NN
 ./.
+Eavesdropping/NN
 --/:
 both/DT
 corporate/JJ
@@ -100,6 +103,7 @@ lawmakers/NNS
 are/VBP
 alarmed/JJ
 ./.
+``/``
 New/JJ
 technologies/NNS
 are/VBP
@@ -142,6 +146,7 @@ being/VBG
 eroded/VBN
 ./.
 ''/''
+On/IN
 the/DT
 corporate/JJ
 side/NN
@@ -445,6 +450,7 @@ safeguard/VB
 order/NN
 accuracy/NN
 ./.
+Eavesdropping/NN
 by/IN
 individuals/NNS
 is/VBZ
@@ -568,6 +574,7 @@ in/IN
 a/DT
 settlement/NN
 ./.
+Concerned/JJ
 with/IN
 the/DT
 increased/JJ
@@ -786,6 +793,7 @@ device/NN
 manufacturers/NNS
 object/VBP
 ./.
+``/``
 I/PRP
 'm/VBP
 sympathetic/JJ
@@ -1062,6 +1070,7 @@ but/CC
 increases/VBZ
 stress/NN
 ./.
+``/``
 Nine/CD
 to/TO
 Five/CD
@@ -1094,6 +1103,7 @@ alleged/VBN
 monitoring/NN
 abuses/NNS
 ./.
+Meanwhile/RB
 ,/,
 supporters/NNS
 of/IN
@@ -1299,6 +1309,7 @@ be/VB
 ludicrous/JJ
 ./.
 ''/''
+Still/RB
 ,/,
 Radio/NNP
 Shack/NNP

@@ -22,6 +22,7 @@ Clinic/NNP
 in/IN
 1978/CD
 ./.
+Using/VBG
 small/JJ
 electrical/JJ
 shocks/NNS
@@ -67,6 +68,7 @@ delicate/JJ
 spinal/JJ
 tissue/NN
 ./.
+Then/RB
 ,/,
 says/VBZ
 Dr./NNP
@@ -284,6 +286,7 @@ current/NN
 through/IN
 them/PRP
 ./.
+``/``
 Until/IN
 now/RB
 ,/,
@@ -520,6 +523,7 @@ to/TO
 physical/JJ
 therapy/NN
 ./.
+``/``
 We/PRP
 do/VBP
 n't/RB
@@ -642,6 +646,7 @@ would/MD
 be/VB
 beneficial/JJ
 ./.
+``/``
 The/DT
 cost/NN
 {/(
@@ -767,6 +772,7 @@ report/VBP
 temporary/JJ
 headaches/NNS
 ./.
+At/IN
 least/JJS
 two/CD
 companies/NNS
@@ -851,6 +857,7 @@ for/IN
 brain/NN
 studies/NNS
 ./.
+At/IN
 the/DT
 University/NNP
 of/IN
@@ -1081,6 +1088,7 @@ group/NN
 of/IN
 letters/NNS
 ./.
+``/``
 Where/WRB
 does/VBZ
 that/IN

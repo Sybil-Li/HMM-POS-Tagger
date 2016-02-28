@@ -31,6 +31,7 @@ hitting/VBG
 the/DT
 industry/NN
 ./.
+In/IN
 an/DT
 interview/NN
 with/IN
@@ -84,6 +85,7 @@ to/TO
 go/VB
 ./.
 ''/''
+According/VBG
 to/TO
 industry/NN
 analysts/NNS
@@ -164,6 +166,7 @@ vehicles/NNS
 built/VBN
 there/RB
 ./.
+At/IN
 Chrysler/NNP
 's/POS
 1990/CD
@@ -316,6 +319,7 @@ vehicles/NNS
 this/DT
 year/NN
 ./.
+``/``
 Unless/IN
 the/DT
 market/NN
@@ -395,6 +399,7 @@ somebody/NN
 he/PRP
 added/VBD
 ./.
+Already/RB
 Chrysler/NNP
 has/VBZ
 closed/VBN

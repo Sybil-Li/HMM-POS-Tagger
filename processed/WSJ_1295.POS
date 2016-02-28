@@ -130,6 +130,7 @@ on/IN
 Wall/NNP
 Street/NNP
 ./.
+``/``
 It/PRP
 certainly/RB
 was/VBD
@@ -164,6 +165,7 @@ Oppenheimer/NNP
 &/CC
 Co/NNP
 ./.
+In/IN
 New/NNP
 York/NNP
 Stock/NNP
@@ -292,6 +294,7 @@ to/TO
 hold/VB
 ./.
 ''/''
+For/IN
 the/DT
 third/JJ
 quarter/NN
@@ -450,6 +453,7 @@ making/VBG
 integrated/VBN
 circuits/NNS
 ./.
+For/IN
 the/DT
 nine/CD
 months/NNS

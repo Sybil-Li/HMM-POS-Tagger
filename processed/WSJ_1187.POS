@@ -426,6 +426,7 @@ gained/VBD
 points/NNS
 Monday/NNP
 ./.
+In/IN
 early/RB
 trading/NN
 in/IN
@@ -441,6 +442,7 @@ points/NNS
 to/TO
 35544.47/CD
 ./.
+On/IN
 Tuesday/NNP
 ,/,
 the/DT
@@ -592,6 +594,7 @@ to/TO
 market/NN
 observers/NNS
 ./.
+In/IN
 addition/NN
 to/TO
 a/DT
@@ -645,6 +648,7 @@ bad/JJ
 factors/NNS
 ./.
 ''/''
+Buying/NN
 activity/NN
 Tuesday/NNP
 centered/VBD
@@ -692,6 +696,7 @@ range/NN
 of/IN
 issues/NNS
 ./.
+On/IN
 the/DT
 other/JJ
 hand/NN
@@ -810,6 +815,7 @@ end/VB
 at/IN
 1507.37/CD
 ./.
+Cutting/VBG
 against/IN
 the/DT
 downward/JJ
@@ -895,6 +901,7 @@ in/IN
 West/NNP
 Germany/NNP
 ./.
+On/IN
 Sunday/NNP
 ,/,
 the/DT
@@ -949,6 +956,7 @@ end/NN
 of/IN
 1990/CD
 ./.
+And/CC
 statements/NNS
 by/IN
 the/DT
@@ -1063,6 +1071,7 @@ Volkswagen/NN
 lost/VBD
 7.1/CD
 ./.
+Elsewhere/RB
 ,/,
 share/NN
 prices/NNS
@@ -1115,6 +1124,7 @@ Brussels/NNP
 and/CC
 Seoul/NNP
 ./.
+Here/RB
 are/VBP
 price/NN
 trends/NNS

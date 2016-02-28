@@ -34,6 +34,7 @@ market/NN
 Oct./NNP
 13/CD
 ./.
+Testifying/VBG
 before/IN
 a/DT
 House/NNP
@@ -295,6 +296,7 @@ are/VBP
 minor/JJ
 ./.
 ''/''
+On/IN
 other/JJ
 matters/NNS
 ,/,

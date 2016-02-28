@@ -48,6 +48,7 @@ mixed/JJ
 in/IN
 Frankfurt/NNP
 ./.
+In/IN
 London/NNP
 ,/,
 ICI/NNP
@@ -100,6 +101,7 @@ of/IN
 market/NN
 expectations/NNS
 ./.
+As/IN
 ICI/NNP
 's/POS
 share/NN
@@ -125,6 +127,7 @@ down/RB
 32.5/CD
 points/NNS
 ./.
+``/``
 ICI/NNP
 is/VBZ
 a/DT
@@ -291,6 +294,7 @@ when/WRB
 London/NNP
 closed/VBD
 ./.
+In/IN
 other/JJ
 shares/NNS
 ,/,
@@ -397,6 +401,7 @@ from/IN
 billion/CD
 Wednesday/NNP
 ./.
+In/IN
 early/JJ
 trading/NN
 in/IN
@@ -412,6 +417,7 @@ points/NNS
 to/TO
 35714.85/CD
 ./.
+On/IN
 Thursday/NNP
 ,/,
 the/DT
@@ -486,6 +492,7 @@ recent/JJ
 record/JJ
 level/NN
 ./.
+Trading/NN
 focused/VBD
 on/IN
 large-capitalization/NN
@@ -786,6 +793,7 @@ along/RB
 traders/NNS
 said/VBD
 ./.
+But/CC
 profit-taking/NN
 soon/RB
 wiped/VBD
@@ -897,6 +905,7 @@ time/NN
 soon/RB
 ./.
 ''/''
+But/CC
 other/JJ
 traders/NNS
 said/VBD
@@ -942,6 +951,7 @@ the/DT
 Christmas/NNP
 holidays/NNS
 ./.
+Among/IN
 other/JJ
 banks/NNS
 ,/,
@@ -971,6 +981,7 @@ slipped/VBD
 to/TO
 246/CD
 ./.
+Elsewhere/RB
 ,/,
 share/NN
 prices/NNS
@@ -1017,6 +1028,7 @@ mixed/JJ
 in/IN
 Manila/NNP
 ./.
+Here/RB
 are/VBP
 price/NN
 trends/NNS

@@ -54,6 +54,7 @@ to/TO
 power/NN
 boost/NN
 ./.
+Up/IN
 to/TO
 now/RB
 ,/,
@@ -432,6 +433,7 @@ the/DT
 same/JJ
 time/NN
 ./.
+After/IN
 the/DT
 announcement/NN
 yesterday/NN
@@ -574,6 +576,7 @@ at/IN
 big/JJ
 companies/NNS
 ./.
+In/IN
 addition/NN
 to/TO
 commercial/JJ
@@ -715,6 +718,7 @@ to/TO
 12/CD
 %/NN
 ./.
+``/``
 Demand/NN
 for/IN
 these/DT
@@ -758,6 +762,7 @@ were/VBD
 announced/VBN
 yesterday/NN
 ./.
+But/CC
 the/DT
 3090/CD
 line/NN
@@ -846,6 +851,7 @@ before/IN
 year/NN
 end/NN
 ./.
+Still/RB
 ,/,
 Steve/NNP
 Cohen/NNP
@@ -953,6 +959,7 @@ a/DT
 year/NN
 earlier/RB
 ./.
+In/IN
 addition/NN
 to/TO
 the/DT

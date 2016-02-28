@@ -71,6 +71,7 @@ employees/NNS
 '/POS
 hands/NNS
 ./.
+As/IN
 part/NN
 of/IN
 a/DT
@@ -148,6 +149,7 @@ of/IN
 takeover/NN
 bids/NNS
 ./.
+With/IN
 its/PRP$
 fat/JJ
 profits/NNS
@@ -206,6 +208,7 @@ down/RB
 12.5/CD
 cents/NNS
 ./.
+Under/IN
 the/DT
 terms/NNS
 of/IN
@@ -298,6 +301,7 @@ Singapore/NNP
 Airlines/NNP
 holdings/NNS
 ./.
+As/IN
 part/NN
 of/IN
 the/DT

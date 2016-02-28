@@ -132,6 +132,7 @@ pushed/VBD
 prices/NNS
 higher/RBR
 ./.
+Buying/NN
 interest/NN
 in/IN
 Du/NNP
@@ -211,6 +212,7 @@ slid/VBD
 to/TO
 189.52/CD
 ./.
+But/CC
 advancing/VBG
 issues/NNS
 topped/VBD
@@ -314,6 +316,7 @@ trading/NN
 in/IN
 check/NN
 ./.
+``/``
 People/NNS
 are/VBP
 sort/RB
@@ -523,6 +526,7 @@ to/TO
 44/CD
 1\/2/CD
 ./.
+But/CC
 General/NNP
 Motors/NNPS
 dropped/VBD
@@ -550,6 +554,7 @@ from/IN
 a/DT
 year/NN
 earlier/RB
+./.
 Anheuser-Busch/NNP
 plunged/VBD
 4/CD

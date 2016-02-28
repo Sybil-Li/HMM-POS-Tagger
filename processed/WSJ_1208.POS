@@ -28,6 +28,7 @@ an/DT
 afternoon/NN
 comeback/NN
 ./.
+At/IN
 the/DT
 end/NN
 of/IN
@@ -131,6 +132,7 @@ volatility/NN
 to/TO
 come/VB
 ./.
+``/``
 October/NNP
 13th/JJ
 left/VBD
@@ -211,6 +213,7 @@ the/DT
 opening/NN
 bell/NN
 ./.
+For/IN
 many/JJ
 ,/,
 it/PRP
@@ -316,6 +319,7 @@ needed/VBD
 it/PRP
 most/JJS
 ./.
+At/IN
 about/IN
 10:40/CD
 a.m./NN
@@ -352,6 +356,7 @@ buying/NN
 of/IN
 stocks/NNS
 ./.
+``/``
 It/PRP
 is/VBZ
 very/RB
@@ -434,6 +439,7 @@ unavailable/JJ
 for/IN
 comment/NN
 ./.
+As/IN
 in/IN
 the/DT
 Oct./NNP
@@ -658,6 +664,7 @@ Jones/NNP
 Industrial/NNP
 Average/NNP
 ./.
+By/IN
 10:30/CD
 a.m./NN
 the/DT
@@ -686,6 +693,7 @@ to/TO
 $/$
 2/CD
 ./.
+At/IN
 10:33/CD
 ,/,
 when/WRB
@@ -811,6 +819,7 @@ bought/VBD
 futures/NNS
 aggressively/RB
 ./.
+``/``
 It/PRP
 was/VBD
 whooosh/JJ
@@ -932,6 +941,7 @@ to/TO
 buy/VB
 stocks/NNS
 ./.
+From/IN
 then/RB
 on/IN
 ,/,
@@ -1076,6 +1086,7 @@ get/VB
 rid/VB
 of/IN
 ./.
+But/CC
 traders/NNS
 who/WP
 risk/VBP

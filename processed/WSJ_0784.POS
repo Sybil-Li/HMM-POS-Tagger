@@ -11,6 +11,7 @@ Manhattan/NNP
 to/TO
 Dallas/NNP
 ./.
+Most/JJS
 of/IN
 the/DT
 300/CD
@@ -84,6 +85,7 @@ a/DT
 Japanese/JJ
 company/NN
 ./.
+But/CC
 the/DT
 pullout/NN
 is/VBZ
@@ -208,6 +210,7 @@ and/CC
 economic/JJ
 development/NN
 ./.
+Meanwhile/RB
 ,/,
 Dallas/NNP
 welcomed/VBD
@@ -248,6 +251,7 @@ name/NN
 Everglades/NNS
 ./.
 ''/''
+``/``
 When/WRB
 we/PRP
 were/VBD
@@ -476,6 +480,7 @@ lower/JJR
 they/PRP
 said/VBD
 ./.
+Plus/CC
 ,/,
 one/CD
 Exxon/NNP

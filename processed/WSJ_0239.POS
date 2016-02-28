@@ -170,6 +170,7 @@ hot-air/JJ
 balloonists/NNS
 )/)
 ./.
+Back/RB
 in/IN
 the/DT
 U.S.A./NNP
@@ -331,6 +332,7 @@ this/DT
 year/NN
 ./.
 )/)
+But/CC
 in/IN
 Epinal/NNP
 ,/,
@@ -524,6 +526,7 @@ speaks/VBZ
 no/DT
 English/NNP
 ./.
+To/TO
 wit/NN
 ,/,
 my/PRP$
@@ -885,6 +888,7 @@ a/DT
 picnic/NN
 basket/NN
 ./.
+``/``
 What/WP
 's/VBZ
 he/PRP
@@ -948,7 +952,8 @@ I/PRP
 wearing/VBG
 alligator/NN
 loafers/NNS
-!/.''/''
+!/.
+''/''
 Our/PRP$
 pilot/NN
 simply/RB
@@ -993,6 +998,7 @@ the/DT
 drink/NN
 again/RB
 ./.
+Eventually/RB
 we/PRP
 came/VBD
 to/TO
@@ -1237,6 +1243,7 @@ was/VBD
 near/RB
 peerless/JJ
 ./.
+As/IN
 for/IN
 the/DT
 ride/NN

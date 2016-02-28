@@ -11,6 +11,7 @@ relief/NN
 and/CC
 recovery/NN
 ./.
+Not/RB
 yet/RB
 ,/,
 anyway/RB
@@ -183,6 +184,7 @@ spending/VBG|NN
 very/RB
 difficult/JJ
 ./.
+But/CC
 some/DT
 legislators/NNS
 think/VBP
@@ -295,6 +297,7 @@ by/IN
 the/DT
 IRS/NNP
 ./.
+If/IN
 the/DT
 IRS/NNP
 asks/VBZ
@@ -370,6 +373,7 @@ Prentice/NNP
 Hall/NNP
 notes/VBZ
 ./.
+JUST/RB
 FIVE/CD
 ACRES/NNP
 MORE/JJR
@@ -483,6 +487,7 @@ for/IN
 mortgage-interest/JJ
 deductions/NNS
 ./.
+As/IN
 you/PRP
 can/MD
 guess/VB
@@ -571,6 +576,7 @@ of/IN
 one/CD
 residence/NN
 ./.
+Thus/RB
 ,/,
 the/DT
 IRS/NNP
@@ -745,6 +751,7 @@ of/IN
 unreported/JJ
 income/NN
 ./.
+WHY/WRB
 BE/VB
 A/DT
 MIDDLEMAN/NN
@@ -846,6 +853,7 @@ plan/NN
 would/MD
 work/VB
 ./.
+Well/RB
 ,/,
 notes/VBZ
 IRS/NNP

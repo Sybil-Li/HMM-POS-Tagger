@@ -253,6 +253,7 @@ over/IN
 national/JJ
 economies/NNS
 ./.
+``/``
 Demand/NN
 from/IN
 Japan/NNP
@@ -413,6 +414,7 @@ by/IN
 these/DT
 attacks/NNS
 ./.
+However/RB
 ,/,
 traders/NNS
 disregarded/VBD
@@ -478,6 +480,7 @@ copper/NN
 in/IN
 1988/CD
 ./.
+According/VBG
 to/TO
 Drexel/NNP
 's/POS
@@ -693,6 +696,7 @@ to/TO
 Mr./NNP
 Demler/NNP
 ./.
+In/IN
 other/JJ
 commodity/NN
 markets/NNS

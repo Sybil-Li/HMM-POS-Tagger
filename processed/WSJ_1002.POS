@@ -1,3 +1,4 @@
+At/IN
 a/DT
 time/NN
 when/WRB
@@ -38,6 +39,7 @@ customers/NNS
 Campeau/NNP
 Corp/NNP
 ./.
+``/``
 The/DT
 dress/NN
 business/NN
@@ -310,6 +312,7 @@ massive/JJ
 debt/NN
 load/NN
 ./.
+``/``
 It/PRP
 's/VBZ
 all/DT
@@ -385,6 +388,7 @@ to/TO
 Campeau/NNP
 stores/NNS
 ./.
+``/``
 The/DT
 few/JJ
 million/CD
@@ -594,6 +598,7 @@ to/TO
 analyze/VB
 ./.
 ''/''
+Because/IN
 of/IN
 those/DT
 concerns/NNS
@@ -761,6 +766,7 @@ as/RB
 well/RB
 ./.
 ''/''
+Typically/RB
 ,/,
 manufacturers/NNS
 are/VBP
@@ -798,6 +804,7 @@ by/IN
 Nov./NNP
 10/CD
 ./.
+But/CC
 manufacturers/NNS
 now/RB
 buying/VBG
@@ -837,6 +844,7 @@ at/IN
 that/DT
 time/NN
 ./.
+``/``
 Everybody/NN
 is/VBZ
 worried/VBN
@@ -1027,6 +1035,7 @@ to/TO
 the/DT
 anxiety/NN
 ./.
+``/``
 Right/RB
 now/RB
 ,/,
@@ -1192,6 +1201,7 @@ exposure/NN
 he/PRP
 says/VBZ
 ./.
+``/``
 The/DT
 branches/NNS
 are/VBP
@@ -1263,6 +1273,7 @@ just/RB
 nonsense/JJ
 ./.
 ''/''
+As/IN
 for/IN
 Mr./NNP
 Levy/NNP

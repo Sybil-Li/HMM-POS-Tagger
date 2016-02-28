@@ -1,3 +1,4 @@
+Since/IN
 its/PRP$
 founding/NN
 in/IN
@@ -58,6 +59,7 @@ a/DT
 smug/JJ
 attitude/NN
 ./.
+So/RB
 two/CD
 weeks/NNS
 ago/IN
@@ -205,6 +207,7 @@ father/NN
 Brooks/NNP
 Brothers/NNPS
 ./.
+As/IN
 part/NN
 of/IN
 its/PRP$
@@ -449,6 +452,7 @@ $/$
 286.8/CD
 million/CD
 ./.
+As/IN
 Brooks/NNP
 Brothers/NNPS
 jumps/VBZ
@@ -555,6 +559,7 @@ Louis/NNP
 ,/,
 Boston/NNP
 ./.
+``/``
 Brooks/NNP
 Brothers/NNPS
 no/RB
@@ -597,6 +602,7 @@ Cambridge/NNP
 ,/,
 Mass/NNP
 ./.
+By/IN
 making/VBG
 a/DT
 break/NN
@@ -704,6 +710,7 @@ current/JJ
 12/CD
 %/NN
 ./.
+``/``
 Everybody/NN
 forgets/VBZ
 that/IN
@@ -740,6 +747,7 @@ is/VBZ
 over/IN
 ./.
 ''/''
+Despite/IN
 these/DT
 challenges/NNS
 ,/,
@@ -972,6 +980,7 @@ Mr./NNP
 Roberti/NNP
 says/VBZ
 ./.
+Because/IN
 the/DT
 biggest/JJS
 growth/NN
@@ -1101,6 +1110,7 @@ and/CC
 boxy/JJ
 fit/NN
 ./.
+But/CC
 it/PRP
 now/RB
 offers/VBZ
@@ -1153,6 +1163,7 @@ of/IN
 years/NNS
 ago/IN
 ./.
+Says/VBZ
 Mr./NNP
 Roberti/NNP
 :/:
@@ -1165,3 +1176,4 @@ the/DT
 customer/NN
 on/RP
 ./.
+''/''

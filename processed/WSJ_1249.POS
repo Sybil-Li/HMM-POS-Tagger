@@ -185,6 +185,7 @@ for/IN
 minority/NN
 candidates/NNS
 ./.
+But/CC
 some/DT
 of/IN
 the/DT
@@ -908,6 +909,7 @@ chief/NN
 of/IN
 staff/NN
 ./.
+``/``
 There/EX
 are/VBP
 enough/RB

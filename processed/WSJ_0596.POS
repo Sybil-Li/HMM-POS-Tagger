@@ -129,6 +129,7 @@ fountains/NNS
 of/IN
 gold/NN
 ./.
+Why/WRB
 had/VBD
 Mr./NNP
 Korotich/NNP
@@ -158,7 +159,11 @@ Central/NNP
 Committee/NNP
 so/IN
 they/PRP
-can/MD.../:''/''whack/VB,/,
+can/MD
+.../:
+''/''
+whack/VB
+,/,
 whack/VB
 ,/,
 whack/VB
@@ -189,6 +194,7 @@ educate/VB
 me/PRP
 ./.
 ''/''
+And/CC
 indeed/RB
 ,/,
 as/IN
@@ -383,6 +389,7 @@ to/TO
 the/DT
 press/NN
 ./.
+At/IN
 the/DT
 end/NN
 of/IN
@@ -572,6 +579,7 @@ the/DT
 Korotich/NNP
 party/NN
 ./.
+But/CC
 as/RB
 astounding/JJ
 as/IN

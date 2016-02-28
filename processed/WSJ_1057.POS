@@ -56,6 +56,7 @@ price/NN
 sounded/VBD
 fine/JJ
 ./.
+At/IN
 that/DT
 price/NN
 ,/,
@@ -268,6 +269,7 @@ hoped/VBN
 to/TO
 avoid/VB
 ./.
+``/``
 The/DT
 price/NN
 of/IN
@@ -290,6 +292,7 @@ Association/NNP
 executive/NN
 director/NN
 ./.
+With/IN
 CBS/NNP
 Inc./NNP
 on/IN
@@ -375,6 +378,7 @@ for/IN
 other/JJ
 contracts/NNS
 ./.
+While/IN
 rights/NNS
 fees/NNS
 head/VBP
@@ -729,6 +733,7 @@ bought/VBD
 one/NN
 ./.
 ''/''
+On/IN
 just/RB
 three/CD
 big/JJ
@@ -813,6 +818,7 @@ in/IN
 1996/CD
 ./.
 )/)
+Now/RB
 ,/,
 Mr./NNP
 Pilson/NNP
@@ -941,6 +947,7 @@ to/TO
 %/NN
 rise/NN
 ./.
+``/``
 What/WP
 happens/VBZ
 to/TO
@@ -1151,6 +1158,7 @@ going/VBG
 crazy/JJ
 ./.
 ''/''
+But/CC
 the/DT
 49-year-old/JJ
 Mr./NNP
@@ -1299,6 +1307,7 @@ games/NNS
 a/DT
 year/NN
 ./.
+``/``
 Our/PRP$
 competitors/NNS
 say/VBP
@@ -1447,6 +1456,7 @@ to/TO
 sports/NNS
 negotiators/NNS
 ./.
+Then/RB
 ,/,
 in/IN
 May/NNP
@@ -1620,6 +1630,7 @@ the/DT
 World/NNP
 Series/NNP
 ./.
+``/``
 I/PRP
 've/VBP
 been/VBN
@@ -1946,6 +1957,7 @@ they/PRP
 gone/VBN
 ./.
 ''/''
+During/IN
 the/DT
 1984/CD
 Summer/NNPS
@@ -1997,6 +2009,7 @@ It/PRP
 belly-flopped/VBD
 anyway/RB
 ./.
+Moreover/RB
 ,/,
 sports/NNS
 is/VBZ
@@ -2045,6 +2058,7 @@ in/IN
 that/DT
 regard/NN
 ./.
+Nor/CC
 is/VBZ
 CBS/NNP
 a/DT
@@ -2096,6 +2110,7 @@ No./NN
 1/CD
 schedule/NN
 ./.
+Even/RB
 the/DT
 boon/NN
 to/TO
@@ -2778,6 +2793,7 @@ public-relations/JJ
 money/NN
 ./.
 ''/''
+Moreover/RB
 ,/,
 sports/NNS
 has/VBZ
@@ -2937,6 +2953,7 @@ a/DT
 Variety/NNP
 survey/NN
 ./.
+But/CC
 CBS/NNP
 's/POS
 costs/NNS
@@ -3113,6 +3130,7 @@ money/NN
 he/PRP
 says/VBZ
 ./.
+When/WRB
 Mr./NNP
 Pilson/NNP
 is/VBZ
@@ -3185,3 +3203,4 @@ need/VBP
 to/TO
 address/VB
 ./.
+''/''

@@ -52,6 +52,7 @@ weighed/VBD
 on/IN
 investors/NNS
 ./.
+Selected/JJ
 blue-chip/JJ
 issues/NNS
 attracted/VBD
@@ -189,6 +190,7 @@ their/PRP$
 session/NN
 highs/NNS
 ./.
+But/CC
 the/DT
 pace/NN
 slowed/VBD
@@ -253,6 +255,7 @@ Memphis/NNP
 ,/,
 Tenn/NNP
 ./.
+Just/RB
 126,630,000/CD
 shares/NNS
 changed/VBD
@@ -327,6 +330,7 @@ set/VBN
 for/IN
 Friday/NNP
 ./.
+Also/RB
 ,/,
 a/DT
 number/NN
@@ -841,6 +845,7 @@ of/IN
 June/NNP
 30/CD
 ./.
+Meanwhile/RB
 ,/,
 the/DT
 savings-and-loan/JJ
@@ -1531,6 +1536,7 @@ Through/IN
 Nov./NNP
 18/CD
 ./.
+``/``
 Voices/NNS
 From/IN
 a/DT

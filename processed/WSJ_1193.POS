@@ -97,6 +97,7 @@ tie-ins/NNS
 and/CC
 promotions/NNS
 ./.
+``/``
 Peanuts/NNP
 has/VBZ
 become/VBN
@@ -234,6 +235,7 @@ the/DT
 United/NNP
 Way/NN
 ./.
+Beyond/IN
 the/DT
 advertisements/NNS
 ,/,
@@ -371,6 +373,7 @@ do/VB
 that/DT
 ./.
 ''/''
+But/CC
 United/NNP
 Media/NNP
 says/VBZ

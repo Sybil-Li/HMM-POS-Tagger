@@ -321,6 +321,7 @@ in/IN
 London/NNP
 banks/NNS
 ./.
+If/IN
 the/DT
 contract/NN
 is/VBZ
@@ -461,6 +462,7 @@ in/IN
 cash/NN
 ./.
 }/)
+But/CC
 in/IN
 the/DT
 week/NN
@@ -542,6 +544,7 @@ the/DT
 1987/CD
 crash/NN
 ./.
+Despite/IN
 the/DT
 thin/JJ
 trading/NN
@@ -628,6 +631,7 @@ Kong/NNP
 stock/NN
 prices/NNS
 ./.
+``/``
 There/EX
 was/VBD
 no/DT
@@ -648,6 +652,7 @@ the/DT
 futures/NNS
 exchange/NN
 ./.
+Most/RBS
 important/JJ
 to/TO
 the/DT
@@ -699,6 +704,7 @@ the/DT
 new/JJ
 contract/NN
 ./.
+``/``
 If/IN
 those/DT
 two/CD
@@ -800,6 +806,7 @@ colony/NN
 will/MD
 go/VB
 ./.
+In/IN
 early/RB
 1988/CD
 ,/,
@@ -896,6 +903,7 @@ British/JJ
 brokerage/NN
 firm/NN
 ./.
+Despite/IN
 the/DT
 initial/JJ
 support/NN
@@ -963,6 +971,7 @@ its/PRP$
 futures/NNS
 market/NN
 ./.
+And/CC
 Mr./NNP
 Gilmore/NNP
 cautions/VBZ
@@ -1080,6 +1089,7 @@ was/VBD
 virtually/RB
 unlimited/JJ
 ./.
+``/``
 You/PRP
 're/VBP
 not/RB

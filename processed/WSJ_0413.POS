@@ -1,3 +1,4 @@
+If/IN
 there/EX
 's/VBZ
 somethin'/NN
@@ -6,6 +7,7 @@ in/IN
 your/PRP$
 neighborhood/NN
 .../:
+If/IN
 there/EX
 's/VBZ
 something/NN
@@ -24,6 +26,7 @@ gon/VB
 na/TO
 call/VB
 ?/.
+For/IN
 starters/NNS
 ,/,
 some/DT
@@ -34,6 +37,7 @@ and/CC
 Lorraine/NNP
 Warren/NNP
 ./.
+When/WRB
 it/PRP
 comes/VBZ
 to/TO
@@ -116,6 +120,7 @@ a/DT
 demonologist/NN
 ./.
 ''/''
+If/IN
 psychics/NNS
 do/VBP
 n't/RB
@@ -222,6 +227,7 @@ dreams/NNS
 too/RB
 ./.
 ''/''
+Either/CC
 way/NN
 ,/,
 the/DT
@@ -279,6 +285,7 @@ University/NNP
 of/IN
 Oregon/NNP
 ./.
+In/IN
 a/DT
 public/JJ
 opinion/NN
@@ -551,6 +558,7 @@ his/PRP$
 ghostbusting/NN
 forays/NNS
 ./.
+``/``
 I/PRP
 've/VBP
 never/RB
@@ -572,6 +580,7 @@ means/NNS
 he/PRP
 says/VBZ
 ./.
+When/WRB
 a/DT
 Louisville/NNP
 woman/NN
@@ -665,6 +674,7 @@ haunting/NN
 he/PRP
 says/VBZ
 ./.
+On/IN
 a/DT
 recent/JJ
 afternoon/NN
@@ -738,6 +748,7 @@ her/PRP$
 empty/JJ
 kitchen/NN
 ./.
+``/``
 I/PRP
 was/VBD
 doing/VBG
@@ -862,6 +873,7 @@ to/TO
 vibrating/VBG
 ./.
 ''/''
+``/``
 I/PRP
 'm/VBP
 not/RB
@@ -906,6 +918,7 @@ the/DT
 haunting/NN
 continues/VBZ
 ./.
+For/IN
 especially/RB
 stubborn/JJ
 haunts/NNS
@@ -1242,6 +1255,7 @@ the/DT
 healing/NN
 ./.
 ''/''
+But/CC
 sometimes/RB
 more/RBR
 energetic/JJ
@@ -1385,6 +1399,7 @@ exorcisms/NNS
 have/VBP
 failed/VBN
 ./.
+``/``
 This/DT
 is/VBZ
 a/DT
@@ -1495,6 +1510,7 @@ to/TO
 show/VB
 them/PRP
 ./.
+``/``
 This/DT
 was/VBD
 an/DT

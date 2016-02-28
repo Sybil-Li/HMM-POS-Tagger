@@ -28,6 +28,7 @@ KPMG/NNP
 Peat/NNP
 Marwick/NNP
 ./.
+In/IN
 a/DT
 cross-border/JJ
 transaction/NN
@@ -135,6 +136,7 @@ European/NNP
 Community/NNP
 ./.
 ''/''
+In/IN
 the/DT
 second/JJ
 quarter/NN

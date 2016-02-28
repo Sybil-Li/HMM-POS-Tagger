@@ -244,6 +244,7 @@ U.K./NNP
 brokerage/NN
 firm/NN
 ./.
+Earlier/RBR
 this/DT
 year/NN
 ,/,
@@ -307,6 +308,7 @@ of/IN
 domestic/JJ
 companies/NNS
 ./.
+Under/IN
 the/DT
 proposed/VBN
 combination/NN

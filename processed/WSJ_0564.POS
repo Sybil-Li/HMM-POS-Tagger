@@ -20,6 +20,7 @@ by/IN
 being/VBG
 friendly/JJ
 ./.
+And/CC
 in/IN
 little/RB
 more/JJR
@@ -157,6 +158,7 @@ are/VBP
 in/IN
 control/NN
 ./.
+After/IN
 the/DT
 transaction/NN
 ,/,
@@ -241,6 +243,7 @@ and/CC
 U.S./NNP
 acquisitions/NNS
 ./.
+``/``
 I/PRP
 like/VBP
 to/TO
@@ -387,6 +390,7 @@ rich/JJ
 assets/NNS
 ./.
 ''/''
+However/RB
 ,/,
 the/DT
 Swiss/JJ
@@ -418,6 +422,7 @@ his/PRP$
 un-Swiss/JJ
 ways/NNS
 ./.
+For/IN
 Switzerland/NNP
 's/POS
 most/JJS
@@ -450,6 +455,7 @@ hard/RB
 to/TO
 overcome/VB
 ./.
+In/IN
 1976/CD
 ,/,
 as/IN
@@ -485,6 +491,7 @@ country/NN
 traditional/JJ
 shoemaker/NN
 ./.
+Sitting/VBG
 beside/IN
 a/DT
 banker/NN
@@ -555,6 +562,7 @@ had/VBD
 7,000/CD
 employees/NNS
 ./.
+Investing/VBG
 four/CD
 million/CD
 Swiss/JJ
@@ -586,6 +594,7 @@ Bally/NNP
 's/POS
 shares/NNS
 ./.
+But/CC
 such/JJ
 tactics/NNS
 were/VBD
@@ -690,6 +699,7 @@ willing/JJ
 shareholders/NNS
 ./.
 ''/''
+Nevertheless/RB
 ,/,
 Mr./NNP
 Rey/NNP
@@ -717,6 +727,7 @@ his/PRP$
 raider/NN
 image/NN
 ./.
+In/IN
 1979/CD
 ,/,
 his/PRP$
@@ -906,6 +917,7 @@ magazines/NNS
 and/CC
 newspapers/NNS
 ./.
+And/CC
 with/IN
 the/DT
 recent/JJ
@@ -954,6 +966,7 @@ a/DT
 bitter/JJ
 battle/NN
 ./.
+Meanwhile/RB
 ,/,
 as/IN
 such/JJ
@@ -1073,6 +1086,7 @@ U.S./NNP
 and/CC
 Europe/NNP
 ./.
+For/IN
 financial/JJ
 analysts/NNS
 ,/,
@@ -1277,3 +1291,4 @@ to/TO
 stand/VB
 alone/RB
 ./.
+''/''

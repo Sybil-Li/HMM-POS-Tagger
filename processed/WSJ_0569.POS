@@ -1,3 +1,4 @@
+If/IN
 a/DT
 TV/NN
 weatherman/NN
@@ -204,6 +205,7 @@ to/TO
 55/CD
 %/NN
 ./.
+But/CC
 this/DT
 September/NNP
 --/:
@@ -289,6 +291,7 @@ Economic/NNP
 Indicators/NNPS
 newsletter/NN
 ./.
+And/CC
 ,/,
 just/RB
 recently/RB
@@ -430,6 +433,7 @@ bet/NN
 he/PRP
 says/VBZ
 ./.
+Now/RB
 a/DT
 rocky/JJ
 stock/NN
@@ -493,6 +497,7 @@ forecasting/NN
 business/NN
 ./.
 ''/''
+However/WRB
 risky/JJ
 the/DT
 business/NN
@@ -571,6 +576,7 @@ the/DT
 commercial/JJ
 version/NN
 ./.
+Carrying/VBG
 the/DT
 new/JJ
 message/NN
@@ -745,6 +751,7 @@ of/IN
 interest-rate/NN
 scenarios/NNS
 ./.
+In/IN
 a/DT
 chilly/JJ
 conference/NN
@@ -818,6 +825,7 @@ be/VB
 right/JJ
 ?/.
 ''/''
+Swiveling/VBG
 in/IN
 his/PRP$
 chair/NN
@@ -969,6 +977,7 @@ decent/JJ
 call/NN
 ./.
 ''/''
+Explaining/VBG
 his/PRP$
 change/NN
 of/IN

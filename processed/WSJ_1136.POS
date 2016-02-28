@@ -133,6 +133,7 @@ Duncan/NNP
 Hines/NNP
 cookies/NNS
 ./.
+Excluding/VBG
 the/DT
 gain/NN
 ,/,
@@ -350,6 +351,7 @@ double/JJ
 digits/NNS
 ./.
 ''/''
+Also/RB
 slowing/VBG
 growth/NN
 in/IN
@@ -403,6 +405,7 @@ oils/NNS
 analysts/NNS
 said/VBD
 ./.
+For/IN
 fiscal/JJ
 1990/CD
 ,/,
@@ -579,3 +582,4 @@ a/DT
 few/JJ
 years/NNS
 ./.
+''/''

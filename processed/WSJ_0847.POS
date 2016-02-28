@@ -34,6 +34,7 @@ difficult/JJ
 to/TO
 maintain/VB
 ./.
+Under/IN
 buyer/NN
 Kohlberg/NNP
 Kravis/NNP
@@ -118,6 +119,7 @@ might/MD
 fall/VB
 through/RP
 ./.
+If/IN
 the/DT
 Del/NNP
 Monte/NNP
@@ -207,6 +209,7 @@ are/VBP
 never/RB
 consumed/VBN
 ./.
+So/IN
 far/RB
 ,/,
 history/NN
@@ -272,6 +275,7 @@ RJR/NNP
 's/POS
 banks/NNS
 ./.
+``/``
 We/PRP
 're/VBP
 acting/VBG
@@ -299,6 +303,7 @@ chief/JJ
 executive/JJ
 officer/NN
 ./.
+But/CC
 there/EX
 are/VBP
 clouds/NNS
@@ -368,6 +373,7 @@ they/PRP
 come/VBP
 due/RB
 ./.
+Moreover/RB
 ,/,
 asset/NN
 sales/NNS
@@ -422,6 +428,7 @@ about/RB
 14/CD
 %/NN
 ./.
+``/``
 Everything/NN
 had/VBD
 gone/VBN
@@ -463,6 +470,7 @@ definitely/RB
 out/RB
 ./.
 ''/''
+In/IN
 some/DT
 respects/NNS
 ,/,
@@ -537,6 +545,7 @@ that/DT
 business/NN
 around/RP
 ./.
+In/IN
 the/DT
 short/JJ
 term/NN
@@ -564,6 +573,7 @@ in/IN
 cost/NN
 cuts/NNS
 ./.
+Meanwhile/RB
 ,/,
 RJR/NNP
 's/POS
@@ -662,6 +672,7 @@ in/IN
 raising/VBG
 prices/NNS
 ./.
+But/CC
 the/DT
 big/JJ
 story/NN
@@ -1026,6 +1037,7 @@ debt/NN
 pay-down/JJ
 time-table/NN
 ./.
+Neither/CC
 Merrill/NNP
 ,/,
 RJR/NNP
@@ -1154,6 +1166,7 @@ RJR/NNP
 's/POS
 assets/NNS
 ./.
+``/``
 Conceptually/RB
 ,/,
 the/DT
@@ -1194,6 +1207,7 @@ rate/NN
 down/RP
 ./.
 ''/''
+But/CC
 once/RB
 the/DT
 bridge/NN
@@ -1399,6 +1413,7 @@ or/CC
 deteriorates/VBZ
 further/RB
 ./.
+If/IN
 RJR/NNP
 does/VBZ
 have/VB
@@ -1470,6 +1485,7 @@ offering/NN
 of/IN
 stock/NN
 ./.
+As/IN
 the/DT
 transaction/NN
 was/VBD
@@ -1567,6 +1583,7 @@ up/RP
 to/TO
 par/NN
 ./.
+Moreover/RB
 ,/,
 the/DT
 $/$
@@ -1600,6 +1617,7 @@ be/VB
 fixed/VBN
 higher/JJR
 ./.
+``/``
 The/DT
 higher/JJR
 the/DT
@@ -1698,6 +1716,7 @@ do/VB
 it/PRP
 ./.
 ''/''
+``/``
 I/PRP
 really/RB
 do/VBP

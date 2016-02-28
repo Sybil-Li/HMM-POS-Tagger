@@ -81,6 +81,7 @@ the/DT
 past/JJ
 year/NN
 ./.
+``/``
 Magazines/NNS
 are/VBP
 not/RB
@@ -252,6 +253,7 @@ interests/NNS
 of/IN
 readers/NNS
 ./.
+``/``
 Niche-itis/NN
 fragments/VBZ
 our/PRP$
@@ -408,6 +410,7 @@ Corp./NNP
 Metropolitan/NNP
 Home/NNP
 ./.
+And/CC
 Tina/NNP
 Brown/NNP
 ,/,
@@ -489,3 +492,4 @@ they/PRP
 pay/VBP
 for/IN
 ./.
+''/''

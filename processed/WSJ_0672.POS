@@ -40,6 +40,7 @@ Human/NNP
 Services/NNP
 said/VBD
 ./.
+In/IN
 addition/NN
 ,/,
 a/DT
@@ -122,6 +123,7 @@ wealthier/JJR
 Medicare/NNP
 beneficiaries/NNS
 ./.
+Under/IN
 a/DT
 less-sweeping/JJ
 Senate/NNP
@@ -216,6 +218,7 @@ doctor/NN
 's/POS
 bills/NNS
 ./.
+If/IN
 the/DT
 House/NNP
 prevails/VBZ

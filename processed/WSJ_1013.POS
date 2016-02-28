@@ -38,6 +38,7 @@ $/$
 a/DT
 share/NN
 ./.
+For/IN
 the/DT
 quarter/NN
 a/DT
@@ -162,6 +163,7 @@ Burnham/NNP
 Lambert/NNP
 Inc/NNP
 ./.
+For/IN
 the/DT
 nine/CD
 months/NNS
@@ -376,6 +378,7 @@ or/CC
 market/NN
 prices/NNS
 ./.
+For/IN
 its/PRP$
 future/NN
 strategy/NN
@@ -709,6 +712,7 @@ $/$
 90/CD
 million/CD
 ./.
+Although/IN
 many/JJ
 of/IN
 the/DT

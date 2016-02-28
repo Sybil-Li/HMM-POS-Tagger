@@ -358,6 +358,7 @@ kettle/NN
 black/NN
 ./.
 ''/''
+``/``
 It/PRP
 's/VBZ
 hard/JJ
@@ -404,6 +405,7 @@ Mr./NNP
 Kern/NNP
 said/VBD
 ./.
+In/IN
 addition/NN
 to/TO
 owning/VBG
@@ -574,6 +576,7 @@ too/RB
 vertically/RB
 integrated/JJ
 ./.
+Meanwhile/RB
 ,/,
 some/DT
 legal/JJ

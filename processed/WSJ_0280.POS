@@ -1,3 +1,4 @@
+`/``
 Frequent/JJ
 Drinker/NN
 '/''
@@ -6,6 +7,7 @@ Stirs/VBZ
 Up/RP
 Spirited/JJ
 Debate/NN
+TO/TO
 GRAB/NNP
 a/DT
 bigger/JJR
@@ -33,6 +35,7 @@ Chivas/NNP
 Regal/NNP
 brand/NN
 ./.
+Under/IN
 the/DT
 program/NN
 ,/,
@@ -74,6 +77,7 @@ at/IN
 reduced/JJ
 prices/NNS
 ./.
+But/CC
 at/IN
 a/DT
 time/NN
@@ -240,6 +244,7 @@ in/IN
 bottle/NN
 labels/NNS
 ./.
+But/CC
 the/DT
 scope/NN
 of/IN
@@ -339,6 +344,7 @@ Goya/NNP
 Concocts/VBZ
 a/DT
 Milk/NN
+For/IN
 Hispanic/JJ
 Tastes/NNS
 MOST/JJS
@@ -569,6 +575,7 @@ Copy/VBP
 Cosmetics/NNS
 Sales/NNS
 Ploys/NNS
+FOR/IN
 YEARS/NNS
 ,/,
 costume/JJ
@@ -599,6 +606,7 @@ well/UH
 ,/,
 fake/JJ
 ./.
+As/IN
 a/DT
 result/NN
 ,/,
@@ -620,6 +628,7 @@ rivals/NNS
 cosmetics/NNS
 makers/NNS
 ./.
+But/CC
 lately/RB
 ,/,
 retailers/NNS
@@ -692,6 +701,7 @@ than/IN
 10/CD
 %/NN
 ./.
+To/TO
 increase/VB
 their/PRP$
 share/NN
@@ -770,6 +780,7 @@ make/VBP
 a/DT
 purchase/NN
 ./.
+``/``
 We/PRP
 've/VBP
 started/VBN
@@ -872,6 +883,7 @@ best/JJS
 earring/NN
 styles/NNS
 ./.
+But/CC
 cosmetics/NNS
 firms/NNS
 still/RB
@@ -904,6 +916,7 @@ soon/RB
 Odds/NNS
 and/CC
 Ends/NNS
+DESPITE/IN
 GROWING/VBG
 interest/NN
 in/IN
@@ -955,7 +968,9 @@ them/PRP
 to/TO
 the/DT
 U.S/NNP
-./.Marketers/NNSbelieve/VBP
+./.
+Marketers/NNS
+believe/VBP
 most/JJS
 Americans/NNPS
 wo/MD

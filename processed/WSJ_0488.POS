@@ -33,6 +33,7 @@ week/NN
 's/POS
 declines/NNS
 ./.
+``/``
 Attention/NN
 is/VBZ
 fixed/VBN
@@ -97,6 +98,7 @@ marks/NNS
 this/DT
 week/NN
 ./.
+But/CC
 others/NNS
 reject/VBP
 the/DT
@@ -141,6 +143,7 @@ to/TO
 the/DT
 dollar/NN
 ./.
+In/IN
 late/JJ
 New/NNP
 York/NNP
@@ -198,6 +201,7 @@ and/CC
 French/JJ
 francs/NNS
 ./.
+In/IN
 Tokyo/NNP
 Tuesday/NNP
 ,/,
@@ -243,6 +247,7 @@ into/IN
 a/DT
 tailspin/NN
 ./.
+While/IN
 sterling/NN
 bounced/VBD
 back/RB
@@ -314,6 +319,7 @@ flagging/JJ
 British/JJ
 unit/NN
 ./.
+In/IN
 her/PRP$
 first/JJ
 televised/VBN
@@ -414,6 +420,7 @@ to/TO
 the/DT
 EMS/NNP
 ./.
+At/IN
 the/DT
 same/JJ
 time/NN
@@ -471,6 +478,7 @@ British/JJ
 interest/NN
 rates/NNS
 ./.
+According/VBG
 to/TO
 one/CD
 London-based/JJ
@@ -516,6 +524,7 @@ the/DT
 U.K./NNP
 unit/NN
 ./.
+``/``
 There/EX
 is/VBZ
 no/DT
@@ -651,6 +660,7 @@ by/IN
 cross/NN
 trades/NNS
 ./.
+On/IN
 the/DT
 Commodity/NNP
 Exchange/NNP
@@ -682,6 +692,7 @@ moderate/JJ
 million/CD
 ounces/NNS
 ./.
+In/IN
 early/RB
 trading/NN
 in/IN

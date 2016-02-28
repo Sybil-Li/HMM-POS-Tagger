@@ -135,6 +135,7 @@ the/DT
 Bankruptcy/NNP
 Code/NNP
 ./.
+In/IN
 1983/CD
 ,/,
 Texas/NNP
@@ -159,6 +160,7 @@ filed/VBD
 for/IN
 bankruptcy/NN
 ./.
+``/``
 This/DT
 ought/MD
 to/TO

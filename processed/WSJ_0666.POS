@@ -13,6 +13,7 @@ with/IN
 paper/NN
 stocks/NNS
 ./.
+For/IN
 three/CD
 years/NNS
 ,/,
@@ -84,6 +85,7 @@ start/NN
 of/IN
 1986/CD
 ./.
+But/CC
 now/RB
 the/DT
 companies/NNS
@@ -112,6 +114,7 @@ at/IN
 several/JJ
 companies/NNS
 ./.
+``/``
 Put/VB
 your/PRP$
 money/NN
@@ -587,6 +590,7 @@ sharp/JJ
 price/NN
 swings/NNS
 ./.
+Because/IN
 the/DT
 stock/NN
 prices/NNS
@@ -831,3 +835,4 @@ should/MD
 do/VB
 well/RB
 ./.
+''/''

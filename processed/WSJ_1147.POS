@@ -70,6 +70,7 @@ deficit/NN
 reduction/NN
 law/NN
 ./.
+By/IN
 a/DT
 lopsided/JJ
 401-18/CD
@@ -209,6 +210,7 @@ the/DT
 months/NNS
 ahead/RB
 ./.
+``/``
 We/PRP
 do/VBP
 not/RB
@@ -327,6 +329,7 @@ in/IN
 unanticipated/JJ
 spending/NN
 ./.
+Because/IN
 of/IN
 the/DT
 vagaries/NNS
@@ -503,6 +506,7 @@ allocation/NN
 this/DT
 year/NN
 ./.
+Also/RB
 ,/,
 the/DT
 high/JJ
@@ -746,6 +750,7 @@ administration/NN
 's/POS
 request/NN
 ./.
+Closer/RBR
 to/TO
 home/NN
 ,/,
@@ -1020,6 +1025,7 @@ alcohol/NN
 rehabilitation/NN
 center/NN
 ./.
+Meanwhile/RB
 ,/,
 House-Senate/NNP
 negotiators/NNS

@@ -1,3 +1,4 @@
+Among/IN
 the/DT
 things/NNS
 I/PRP
@@ -97,6 +98,7 @@ T-shirts/NNS
 after/IN
 all/DT
 ./.
+By/IN
 Richterian/JJ
 standards/NNS
 ,/,
@@ -170,7 +172,8 @@ Pachyderms/NNPS
 propelled/VBD
 six/CD
 of/IN
-'em/PRPout/IN
+'em/PRP
+out/IN
 of/IN
 the/DT
 unfriendly/JJ
@@ -361,6 +364,7 @@ exhaled/VBD
 as/IN
 one/CD
 ./.
+``/``
 I/PRP
 went/VBD
 out/IN
@@ -449,6 +453,7 @@ it/PRP
 out/IN
 ./.
 ''/''
+But/CC
 if/IN
 the/DT
 A/NNP
@@ -880,6 +885,7 @@ a/DT
 neck/NN
 chain/NN
 ./.
+Even/RB
 with/IN
 that/DT
 power/NN
@@ -1019,6 +1025,7 @@ areas/NNS
 last/JJ
 week/NN
 ./.
+Afterward/RB
 ,/,
 as/IN
 the/DT
@@ -1094,6 +1101,7 @@ baseball/NN
 best-pitcher/JJ
 award/NN
 ./.
+Indeed/RB
 ,/,
 the/DT
 possibility/NN

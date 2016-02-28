@@ -78,6 +78,7 @@ operations/NNS
 under/IN
 scrutiny/NN
 ./.
+Under/IN
 Spanish/JJ
 stock/NN
 market/NN
@@ -127,6 +128,7 @@ $/$
 621,624/CD
 )/)
 ./.
+But/CC
 Carlos/NNP
 Croissier/NNP
 ,/,
@@ -234,6 +236,7 @@ to/TO
 private/JJ
 investors/NNS
 ./.
+In/IN
 New/NNP
 York/NNP
 ,/,
@@ -257,3 +260,4 @@ been/VBN
 settled/VBN
 yet/RB
 ./.
+''/''

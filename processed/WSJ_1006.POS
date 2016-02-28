@@ -1,3 +1,4 @@
+In/IN
 a/DT
 stunning/JJ
 shift/NN
@@ -53,6 +54,7 @@ latest/JJS
 fiscal/JJ
 year/NN
 ./.
+In/IN
 a/DT
 related/JJ
 move/NN
@@ -175,6 +177,7 @@ Provigo/NNP
 controlling/JJ
 shareholder/NN
 ./.
+At/IN
 a/DT
 news/NN
 conference/NN
@@ -275,6 +278,7 @@ up/RB
 Canadian/JJ
 cents/NNS
 ./.
+``/``
 I/PRP
 think/VBP
 it/PRP

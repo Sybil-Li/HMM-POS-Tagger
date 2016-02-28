@@ -23,6 +23,7 @@ national/JJ
 product/NN
 report/NN
 ./.
+``/``
 This/DT
 was/VBD
 a/DT
@@ -112,6 +113,7 @@ the/DT
 third/JJ
 quarter/NN
 ./.
+Although/IN
 the/DT
 rate/NN
 of/IN
@@ -206,6 +208,7 @@ bonds/NNS
 ended/VBD
 unchanged/JJ
 ./.
+In/IN
 the/DT
 junk/NN
 bond/NN
@@ -382,6 +385,7 @@ down/RB
 at/IN
 86/CD
 ./.
+In/IN
 the/DT
 municipal/JJ
 market/NN
@@ -429,6 +433,7 @@ are/VBP
 getting/VBG
 soft/JJ
 ./.
+Among/IN
 others/NNS
 ,/,
 a/DT
@@ -567,6 +572,7 @@ supply/NN
 next/IN
 week/NN
 ./.
+Late/RB
 yesterday/NN
 ,/,
 a/DT
@@ -615,6 +621,7 @@ Capital/NNP
 Markets/NNP
 Report/NNP
 ./.
+If/IN
 assurance/NN
 is/VBZ
 n't/RB
@@ -673,6 +680,7 @@ Ill/NNP
 ./.
 )/)
 ./.
+Separately/RB
 ,/,
 the/DT
 $/$
@@ -700,6 +708,7 @@ the/DT
 auction/NN
 average/NN
 ./.
+Much/JJ
 of/IN
 the/DT
 Refcorp/NNP
@@ -922,6 +931,7 @@ point/NN
 to/TO
 1.45/CD
 ./.
+In/IN
 derivative/JJ
 markets/NNS
 ,/,
@@ -952,6 +962,7 @@ Lehman/NNP
 Hutton/NNP
 Inc/NNP
 ./.
+In/IN
 other/JJ
 matters/NNS
 ,/,
@@ -1295,6 +1306,7 @@ $/$
 million/CD
 each/DT
 ./.
+In/IN
 the/DT
 secondary/JJ
 market/NN
@@ -1331,6 +1343,7 @@ yield/VB
 7.71/CD
 %/NN
 ./.
+Among/IN
 active/JJ
 issues/NNS
 ,/,
@@ -1375,6 +1388,7 @@ sharply/RB
 from/IN
 Wednesday/NNP
 ./.
+Among/IN
 the/DT
 issuers/NNS
 that/WDT

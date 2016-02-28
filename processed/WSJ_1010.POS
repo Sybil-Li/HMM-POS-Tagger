@@ -139,6 +139,7 @@ less-ambitious/JJR
 recapitalization/NN
 plan/NN
 ./.
+``/``
 United/NNP
 pilots/NNS
 have/VBP
@@ -204,6 +205,7 @@ looking/VBG
 at/IN
 ./.
 ''/''
+Just/RB
 this/DT
 past/NN
 week/NN
@@ -315,6 +317,7 @@ a/DT
 transaction/NN
 work/NN
 ./.
+Thus/RB
 ,/,
 even/RB
 investors/NNS
@@ -508,6 +511,7 @@ super-majority/NN
 voting/NN
 rights/NNS
 ./.
+On/IN
 the/DT
 other/JJ
 hand/NN
@@ -532,6 +536,7 @@ should/MD
 be/VB
 owners/NNS
 ./.
+Still/RB
 ,/,
 in/IN
 recent/JJ
@@ -630,6 +635,7 @@ a/DT
 friendly/JJ
 investor/NN
 ./.
+If/IN
 a/DT
 compromise/NN
 ca/MD
@@ -927,6 +933,7 @@ of/IN
 the/DT
 machinists/NNS
 ./.
+``/``
 I/PRP
 think/VBP
 the/DT
@@ -980,3 +987,4 @@ n't/RB
 let/VB
 them/PRP
 ./.
+''/''

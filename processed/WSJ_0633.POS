@@ -107,6 +107,7 @@ the/DT
 frame/NN
 empty/JJ
 ./.
+Of/IN
 course/NN
 that/DT
 was/VBD
@@ -373,6 +374,7 @@ some/DT
 experimentation/NN
 ./.
 ''/''
+Since/IN
 its/PRP$
 premiere/NN
 Sept./NNP
@@ -613,6 +615,7 @@ work/NN
 to/TO
 actors/NNS
 ./.
+Call/VB
 it/PRP
 a/DT
 fad/NN
@@ -841,6 +844,7 @@ the/DT
 news/NN
 ./.
 ''/''
+Nowhere/RB
 have/VB
 eyes/NNS
 been/VBN
@@ -987,6 +991,7 @@ California/NNP
 in/IN
 1960/CD
 ./.
+``/``
 Saturday/NNP
 Night/NNP
 ''/''
@@ -1196,6 +1201,7 @@ asking/VBG
 for/IN
 volunteers/NNS
 ./.
+``/``
 There/EX
 was/VBD
 a/DT
@@ -1290,6 +1296,7 @@ re-enactments/NNS
 stink/VBP
 ./.
 ''/''
+Though/IN
 a/DT
 re-enactment/NN
 may/MD
@@ -1366,6 +1373,7 @@ for/IN
 the/DT
 industry/NN
 ./.
+In/IN
 his/PRP$
 review/NN
 of/IN
@@ -1573,6 +1581,7 @@ as/IN
 a/DT
 manic-depressive/NN
 ./.
+``/``
 This/DT
 is/VBZ
 dangerous/JJ
@@ -1908,3 +1917,4 @@ also/RB
 a/DT
 manic-depressive/NN
 ./.
+''/''

@@ -35,6 +35,7 @@ role/NN
 in/IN
 it/PRP
 ./.
+Claiming/VBG
 program/NN
 trading/NN
 has/VBZ
@@ -122,6 +123,7 @@ itself/PRP
 he/PRP
 said/VBD
 ./.
+``/``
 They/PRP
 should/MD
 call/VB
@@ -797,6 +799,7 @@ available/JJ
 for/IN
 comment/NN
 ./.
+Among/IN
 the/DT
 targets/NNS
 of/IN

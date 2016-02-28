@@ -145,6 +145,7 @@ cover/VB
 the/DT
 losses/NNS
 ./.
+However/RB
 ,/,
 insurance/NN
 brokers/NNS
@@ -399,6 +400,7 @@ at/IN
 a/DT
 time/NN
 ./.
+After/IN
 Hugo/NNP
 hit/VBD
 ,/,
@@ -432,6 +434,7 @@ of/IN
 the/DT
 year/NN
 ./.
+After/IN
 the/DT
 earthquake/NN
 two/CD
@@ -561,6 +564,7 @@ next/JJ
 few/JJ
 weeks/NNS
 ./.
+``/``
 It/PRP
 's/VBZ
 a/DT
@@ -579,6 +583,7 @@ market/NN
 right/RB
 now/RB
 ./.
+But/CC
 some/DT
 large/JJ
 insurers/NNS
@@ -678,6 +683,7 @@ total/JJ
 net/JJ
 worth/NN
 ./.
+Since/IN
 few/JJ
 insurers/NNS
 have/VBP

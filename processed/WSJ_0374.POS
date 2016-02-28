@@ -44,6 +44,7 @@ Germany/NNP
 was/VBD
 mixed/JJ
 ./.
+In/IN
 London/NNP
 ,/,
 the/DT
@@ -209,6 +210,7 @@ registering/VBG
 solid/JJ
 gains/NNS
 ./.
+Though/IN
 the/DT
 market/NN
 was/VBD
@@ -278,6 +280,7 @@ base/JJ
 lending/NN
 rate/NN
 ./.
+In/IN
 London/NNP
 trading/NN
 ,/,
@@ -450,6 +453,7 @@ thin/JJ
 975,000/CD
 shares/NNS
 ./.
+In/IN
 Tokyo/NNP
 ,/,
 stocks/NNS
@@ -491,6 +495,7 @@ fell/VBD
 151.20/CD
 Friday/NNP
 ./.
+In/IN
 early/JJ
 trading/NN
 in/IN
@@ -506,6 +511,7 @@ points/NNS
 to/TO
 35452.72/CD
 ./.
+On/IN
 Monday/NNP
 ,/,
 volume/NN
@@ -939,6 +945,7 @@ ended/VBD
 little/RB
 changed/JJ
 ./.
+Elsewhere/RB
 ,/,
 stock/NN
 prices/NNS
@@ -983,6 +990,7 @@ lower/JJR
 in/IN
 Singapore/NNP
 ./.
+Here/RB
 are/VBP
 price/NN
 trends/NNS

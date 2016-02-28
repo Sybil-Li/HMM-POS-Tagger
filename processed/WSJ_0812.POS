@@ -37,6 +37,7 @@ and/CC
 lobbying/NN
 group/NN
 ./.
+In/IN
 a/DT
 study/NN
 of/IN
@@ -96,6 +97,7 @@ went/VBD
 into/IN
 effect/NN
 ./.
+Moreover/RB
 ,/,
 41/CD
 companies/NNS
@@ -165,6 +167,7 @@ curtailed/VBD
 many/JJ
 loopholes/NNS
 ./.
+In/IN
 the/DT
 corporate/JJ
 realm/NN
@@ -267,6 +270,7 @@ to/TO
 the/DT
 study/NN
 ./.
+In/IN
 addition/NN
 ,/,
 corporations/NNS
@@ -325,6 +329,7 @@ the/DT
 study/NN
 found/VBD
 ./.
+``/``
 Tax/NN
 reform/NN
 is/VBZ
@@ -358,6 +363,7 @@ an/DT
 end/NN
 ./.
 ''/''
+Still/RB
 ,/,
 Kroger/NNP
 Co./NNP
@@ -499,6 +505,7 @@ the/DT
 tax/NN
 code/NN
 ./.
+But/CC
 even/RB
 though/IN
 companies/NNS

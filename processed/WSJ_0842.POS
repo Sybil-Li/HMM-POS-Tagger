@@ -5,6 +5,7 @@ better/RBR
 left/VBN
 unopened/JJ
 ./.
+In/IN
 1984/CD
 ,/,
 Howard/NNP
@@ -154,6 +155,7 @@ by/IN
 similar/JJ
 substances/NNS
 ./.
+``/``
 It/PRP
 's/VBZ
 a/DT
@@ -317,6 +319,7 @@ assign/VBP
 the/DT
 costs/NNS
 ./.
+Donating/VBG
 contaminated/JJ
 property/NN
 allows/VBZ
@@ -497,6 +500,7 @@ of/IN
 corporate/JJ
 giving/NN
 ./.
+Still/RB
 ,/,
 because/IN
 of/IN
@@ -576,6 +580,7 @@ a/DT
 hazardous/JJ
 site/NN
 ./.
+At/IN
 the/DT
 Nature/NNP
 Conservancy/NNP
@@ -618,6 +623,7 @@ Va./NNP
 ,/,
 group/NN
 ./.
+So/RB
 far/RB
 the/DT
 organization/NN
@@ -874,6 +880,7 @@ agency/NN
 executive/JJ
 director/NN
 ./.
+Since/IN
 receiving/VBG
 the/DT
 Valspar/NNP
@@ -1067,6 +1074,7 @@ bring/VB
 its/PRP$
 suit/NN
 ./.
+As/IN
 the/DT
 litigation/NN
 progresses/VBZ
@@ -1311,3 +1319,4 @@ be/VB
 a/DT
 liability/NN
 ./.
+''/''

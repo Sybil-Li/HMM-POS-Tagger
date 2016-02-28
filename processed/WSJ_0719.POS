@@ -1,3 +1,4 @@
+When/WRB
 the/DT
 going/VBG
 gets/VBZ
@@ -98,6 +99,7 @@ from/IN
 major/JJ
 countries/NNS
 ./.
+``/``
 I/PRP
 'm/VBP
 not/RB
@@ -260,6 +262,7 @@ SEAQ/NNP
 automated-quotation/NN
 system/NN
 ./.
+On/IN
 so-called/JJ
 Manic/NNP
 Monday/NNP
@@ -319,6 +322,7 @@ up/RP
 their/PRP$
 phones/NNS
 ./.
+But/CC
 London/NNP
 's/POS
 problems/NNS
@@ -381,6 +385,7 @@ securities/NNS
 were/VBD
 worth/JJ
 ./.
+By/IN
 Wednesday/NNP
 ,/,
 frustrated/JJ
@@ -431,6 +436,7 @@ developed/VBD
 the/DT
 system/NN
 ./.
+In/IN
 Frankfurt/NNP
 ,/,
 which/WDT
@@ -474,6 +480,7 @@ from/IN
 small/JJ
 investors/NNS
 ./.
+As/IN
 banks/NNS
 processed/VBD
 six-foot/JJ
@@ -521,6 +528,7 @@ up/RP
 order/NN
 backlogs/NNS
 ./.
+In/IN
 France/NNP
 ,/,
 more/JJR
@@ -589,6 +597,7 @@ business/NN
 to/TO
 London/NNP
 ./.
+``/``
 Belgium/NNP
 was/VBD
 closed/VBN
@@ -647,6 +656,7 @@ n't/RB
 cope/VB
 ./.
 ''/''
+On/IN
 Manic/NNP
 Monday/NNP
 ,/,
@@ -766,6 +776,7 @@ $/$
 9.671/CD
 trillion/CD
 ./.
+Though/IN
 the/DT
 widely/RB
 traded/VBN
@@ -865,6 +876,7 @@ European/JJ
 stock/NN
 market/NN
 ./.
+Rather/RB
 ,/,
 there/EX
 increasingly/RB
@@ -979,6 +991,7 @@ on/IN
 the/DT
 Continent/NN
 ./.
+Meantime/RB
 ,/,
 brokers/NNS
 on/IN
@@ -1055,6 +1068,7 @@ on/IN
 Manic/NNP
 Monday/NNP
 ./.
+Already/RB
 the/DT
 Germans/NNPS
 appear/VBP
@@ -1151,6 +1165,7 @@ within/IN
 a/DT
 month/NN
 ./.
+Says/VBZ
 a/DT
 spokeswoman/NN
 for/IN
@@ -1201,6 +1216,7 @@ occur/VB
 again/RB
 ./.
 ''/''
+But/CC
 for/IN
 others/NNS
 ,/,
@@ -1234,6 +1250,7 @@ badly/RB
 last/JJ
 week/NN
 ./.
+``/``
 They/PRP
 all/DT
 said/VBD

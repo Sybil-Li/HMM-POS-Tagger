@@ -98,6 +98,7 @@ Pictures/NNPS
 Entertainment/NNP
 Inc/NNP
 ./.
+In/IN
 separate/JJ
 statements/NNS
 ,/,
@@ -422,6 +423,7 @@ Lorimar/NNP
 Telepictures/NNPS
 Corp/NNP
 ./.
+Still/RB
 ,/,
 it/PRP
 may/MD
@@ -619,6 +621,7 @@ home/NN
 here/RB
 ./.
 ''/''
+But/CC
 despite/IN
 the/DT
 acrimony/NN
@@ -850,6 +853,7 @@ Shining/VBG
 Lie/NN
 ./.
 ''/''
+But/CC
 that/IN
 does/VBZ
 n't/RB

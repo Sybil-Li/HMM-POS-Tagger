@@ -342,6 +342,7 @@ stock/NN
 prices/NNS
 rising/NN
 ./.
+``/``
 We/PRP
 were/VBD
 n't/RB
@@ -428,6 +429,7 @@ clients/NNS
 '/POS
 accounts/NNS
 ./.
+Of/IN
 course/NN
 ,/,
 there/EX
@@ -502,6 +504,7 @@ are/VBP
 n't/RB
 selling/VBG
 ./.
+And/CC
 to/TO
 protect/VB
 their/PRP$
@@ -580,6 +583,7 @@ inventories/NNS
 of/IN
 shares/NNS
 ./.
+``/``
 It/PRP
 makes/VBZ
 no/DT
@@ -609,6 +613,7 @@ of/IN
 Donaldson/NNP
 Lufkin/NNP
 ./.
+But/CC
 this/DT
 skittishness/NN
 ,/,

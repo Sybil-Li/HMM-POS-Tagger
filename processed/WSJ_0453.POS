@@ -34,6 +34,7 @@ the/DT
 TV/NN
 screen/NN
 ./.
+``/``
 Due/JJ
 to/TO
 the/DT
@@ -121,6 +122,7 @@ Red/NNP
 Cross/NNP
 executive/NN
 ./.
+Call/VB
 it/PRP
 disaster/NN
 marketing/NN
@@ -291,6 +293,7 @@ how/WRB
 AT&T/NNP
 helped/VBD
 ./.
+At/IN
 Nissan/NNP
 ,/,
 ``/``
@@ -459,6 +462,7 @@ in/IN
 a/DT
 weekend/NN
 ./.
+But/CC
 as/IN
 advertisers/NNS
 latch/VBP
@@ -551,6 +555,7 @@ at/IN
 Syracuse/NNP
 University/NNP
 ./.
+``/``
 It/PRP
 can/MD
 backfire/VB
@@ -747,6 +752,7 @@ something/NN
 back/RB
 ./.
 ''/''
+While/IN
 the/DT
 campaign/NN
 was/VBD

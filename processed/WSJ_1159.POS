@@ -162,6 +162,7 @@ unfavorable/JJ
 plea/NN
 bargains/NNS
 ./.
+In/IN
 the/DT
 new/JJ
 guidelines/NNS
@@ -203,7 +204,8 @@ and/CC
 will/MD
 not/RB
 seek/VB
-.../:to/TO
+.../:
+to/TO
 take/VB
 from/IN
 third/JJ
@@ -330,6 +332,7 @@ Washington/NNP
 he/PRP
 said/VBD
 ./.
+In/IN
 a/DT
 memorandum/NN
 describing/VBG
@@ -386,3 +389,4 @@ matters/NNS
 at/IN
 all/DT
 ./.
+''/''

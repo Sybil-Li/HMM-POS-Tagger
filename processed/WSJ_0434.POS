@@ -17,6 +17,7 @@ Oct./NNP
 Marketplace/NNP
 section/NN
 ./.
+Indeed/RB
 ,/,
 the/DT
 ``/``
@@ -36,6 +37,7 @@ unwarranted/JJ
 malpractice/NN
 litigation/NN
 ./.
+Elaborating/VBG
 on/IN
 the/DT
 concern/NN
@@ -169,6 +171,7 @@ most/RBS
 unlikely/JJ
 possibilities/NNS
 ./.
+So/IN
 we/PRP
 all/DT
 stand/VBP

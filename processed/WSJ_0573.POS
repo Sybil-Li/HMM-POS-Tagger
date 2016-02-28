@@ -64,6 +64,7 @@ in/IN
 a/DT
 year/NN
 ./.
+At/IN
 the/DT
 same/JJ
 time/NN
@@ -181,6 +182,7 @@ exports/NNS
 were/VBD
 flat/JJ
 ./.
+But/CC
 the/DT
 new/JJ
 statistics/NNS
@@ -207,6 +209,7 @@ weakness/NN
 to/TO
 continue/VB
 ./.
+``/``
 I/PRP
 think/VBP
 the/DT
@@ -232,6 +235,7 @@ Bank/NNP
 of/IN
 Detroit/NNP
 ./.
+``/``
 I/PRP
 do/VBP
 n't/RB
@@ -276,6 +280,7 @@ moderate/JJ
 annual/JJ
 rate/NN
 ./.
+In/IN
 August/NNP
 ,/,
 personal/JJ
@@ -389,6 +394,7 @@ for/IN
 seasonal/JJ
 variations/NNS
 ./.
+Here/RB
 is/VBZ
 the/DT
 Commerce/NNP

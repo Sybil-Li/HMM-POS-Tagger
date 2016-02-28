@@ -119,6 +119,7 @@ the/DT
 department/NN
 said/VBD
 ./.
+``/``
 As/IN
 Mid-Century/NNP
 's/POS
@@ -215,6 +216,7 @@ B.A.T/NNP
 Industries/NNP
 PLC/NNP
 ./.
+In/IN
 Los/NNP
 Angeles/NNP
 ,/,

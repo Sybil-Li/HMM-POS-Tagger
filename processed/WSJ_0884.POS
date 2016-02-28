@@ -353,6 +353,7 @@ Mr./NNP
 Monieson/NNP
 personally/RB
 ./.
+To/TO
 some/DT
 ,/,
 the/DT
@@ -406,6 +407,7 @@ conflicts/NNS
 of/IN
 interest/NN
 ./.
+``/``
 The/DT
 problem/NN
 with/IN
@@ -435,6 +437,7 @@ and/CC
 Exchange/NNP
 Commission/NNP
 ./.
+In/IN
 this/DT
 case/NN
 ,/,
@@ -593,6 +596,7 @@ reached/VBN
 for/IN
 comment/NN
 ./.
+In/IN
 an/DT
 interview/NN
 in/IN
@@ -993,6 +997,7 @@ and/CC
 other/JJ
 ventures/NNS
 ./.
+In/IN
 1965/CD
 ,/,
 he/PRP
@@ -1428,6 +1433,7 @@ trades/NNS
 as/RB
 well/RB
 ./.
+According/VBG
 to/TO
 separate/JJ
 Merc/NNP
@@ -1541,6 +1547,7 @@ to/TO
 Mr./NNP
 Furlett/NNP
 ./.
+Between/IN
 June/NNP
 1985/CD
 and/CC

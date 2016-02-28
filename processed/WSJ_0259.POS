@@ -24,6 +24,7 @@ federal/JJ
 budget/NN
 deficit/NN
 ./.
+In/IN
 a/DT
 hearing/NN
 before/IN
@@ -107,6 +108,7 @@ for/IN
 the/DT
 bailout/NN
 ./.
+Instead/RB
 ,/,
 the/DT
 GAO/NNP
@@ -215,6 +217,7 @@ assets/NNS
 it/PRP
 holds/VBZ
 ./.
+But/CC
 higher/JJR
 interest/NN
 rates/NNS
@@ -481,6 +484,7 @@ the/DT
 budget/NN
 deficit/NN
 ./.
+But/CC
 the/DT
 worst/JJS
 possibility/NN
@@ -526,3 +530,4 @@ through/IN
 fire/NN
 sales/NNS
 ./.
+''/''

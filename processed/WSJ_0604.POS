@@ -9,6 +9,7 @@ to/TO
 struggle/VB
 back/RP
 ./.
+Only/RB
 a/DT
 few/JJ
 months/NNS
@@ -64,6 +65,7 @@ come/VBN
 and/CC
 gone/VBN
 ./.
+Now/RB
 ,/,
 the/DT
 firm/NN
@@ -153,6 +155,7 @@ Kidder/NNP
 he/PRP
 says/VBZ
 ./.
+And/CC
 that/DT
 means/VBZ
 42-year-old/JJ
@@ -319,6 +322,7 @@ day/NN
 one/CD
 ./.
 ''/''
+In/IN
 1988/CD
 ,/,
 Kidder/NNP
@@ -362,6 +366,7 @@ profit/NN
 this/DT
 year/NN
 ./.
+In/IN
 fact/NN
 ,/,
 Kidder/NNP
@@ -576,6 +581,7 @@ to/TO
 Mr./NNP
 Carpenter/NNP
 ./.
+So/RB
 far/RB
 ,/,
 instead/RB
@@ -640,6 +646,7 @@ have/VBP
 panned/VBN
 out/RP
 ./.
+``/``
 We/PRP
 've/VBP
 had/VBD
@@ -679,6 +686,7 @@ says/VBZ
 Mr./NNP
 Carpenter/NNP
 ./.
+Still/RB
 ,/,
 without/IN
 many/JJ
@@ -777,6 +785,7 @@ banking/NN
 since/IN
 June/NNP
 ./.
+Everywhere/RB
 ,/,
 Kidder/NNP
 stresses/VBZ
@@ -920,6 +929,7 @@ deal/NN
 flow/NN
 ./.
 ''/''
+With/IN
 investment/NN
 banking/NN
 as/IN
@@ -1066,6 +1076,7 @@ of/IN
 program/NN
 trading/NN
 ./.
+As/IN
 part/NN
 of/IN
 the/DT
@@ -1120,6 +1131,7 @@ Charles/NNP
 V./NNP
 Sheehan/NNP
 ./.
+Theoretically/RB
 ,/,
 the/DT
 brokers/NNS
@@ -1344,6 +1356,7 @@ times/NNS
 he/PRP
 says/VBZ
 ./.
+Smiling/VBG
 broadly/RB
 when/WRB
 he/PRP
@@ -1394,6 +1407,7 @@ na/TO
 hum/NN
 ./.
 ''/''
+Or/CC
 ,/,
 as/IN
 Mr./NNP
@@ -1419,3 +1433,4 @@ at/IN
 this/DT
 point/NN
 ./.
+''/''

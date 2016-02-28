@@ -341,7 +341,8 @@ operating/VBG
 system/NN
 created/VBN
 by/IN
-AT&T/NNP./.
+AT&T/NNP
+./.
 Using/VBG
 Gnu-Emacs/NNP
 ,/,
@@ -480,6 +481,7 @@ breaking/VBG
 into/IN
 computers/NNS
 ./.
+But/CC
 after/IN
 much/JJ
 tracking/NN
@@ -797,6 +799,7 @@ to/TO
 Mr./NNP
 Stoll/NNP
 ./.
+Finally/RB
 ,/,
 he/PRP
 got/VBD
@@ -849,6 +852,7 @@ found/VBD
 Markus/NNP
 Hess/NNP
 ./.
+Eventually/RB
 ,/,
 Mr./NNP
 Stoll/NNP

@@ -25,6 +25,7 @@ in/IN
 third-quarter/JJ
 profit/NN
 ./.
+Separately/RB
 ,/,
 two/CD
 more/JJR
@@ -120,6 +121,7 @@ appliances/NNS
 and/CC
 construction/NN
 ./.
+``/``
 It/PRP
 does/VBZ
 n't/RB
@@ -258,6 +260,7 @@ a/DT
 year/NN
 ago/RB
 ./.
+In/IN
 composite/JJ
 trading/NN
 on/IN
@@ -276,6 +279,7 @@ to/TO
 $/$
 17.375/CD
 ./.
+Of/IN
 all/PDT
 the/DT
 major/JJ
@@ -316,6 +320,7 @@ costs/NNS
 and/CC
 risks/NNS
 ./.
+However/RB
 ,/,
 in/IN
 spite/NN
@@ -377,6 +382,7 @@ larger/JJR
 than/IN
 expected/VBN
 ./.
+Still/RB
 ,/,
 Bethlehem/NNP
 's/POS
@@ -443,6 +449,7 @@ the/DT
 construction/NN
 market/NN
 ./.
+At/IN
 the/DT
 same/JJ
 time/NN
@@ -479,6 +486,7 @@ effective/JJ
 June/NNP
 1/CD
 ./.
+``/``
 We/PRP
 anticipate/VBP
 that/DT
@@ -623,6 +631,7 @@ Kawasaki/NNP
 Steel/NNP
 Corp/NNP
 ./.
+Along/IN
 with/IN
 reduced/JJ
 volume/NN

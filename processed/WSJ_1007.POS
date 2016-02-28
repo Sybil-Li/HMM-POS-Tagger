@@ -81,6 +81,7 @@ unnerving/VBG
 financial/JJ
 markets/NNS
 ./.
+Testifying/VBG
 before/IN
 a/DT
 panel/NN
@@ -113,6 +114,7 @@ the/DT
 central/JJ
 bank/NN
 ./.
+``/``
 Our/PRP$
 essential/JJ
 focus/NN
@@ -138,6 +140,7 @@ a/DT
 stable/JJ
 economy/NN
 ./.
+In/IN
 perhaps/RB
 his/PRP$
 most/RBS
@@ -250,6 +253,7 @@ gross/JJ
 national/JJ
 product/NN
 ./.
+In/IN
 late/JJ
 New/NNP
 York/NNP
@@ -296,6 +300,7 @@ $/$
 late/JJ
 Tuesday/NNP
 ./.
+In/IN
 Tokyo/NNP
 Thursday/NNP
 ,/,
@@ -353,6 +358,7 @@ then/RB
 shift/VB
 lower/RBR
 ./.
+But/CC
 according/VBG
 to/TO
 Doug/NNP
@@ -473,6 +479,7 @@ economy/NN
 's/POS
 vigor/NN
 ./.
+``/``
 The/DT
 `/``
 r/NN
@@ -594,6 +601,7 @@ starts/NNS
 and/CC
 equities/NNS
 ./.
+On/IN
 the/DT
 Commodity/NNP
 Exchange/NNP
@@ -625,6 +633,7 @@ light/JJ
 million/CD
 ounces/NNS
 ./.
+In/IN
 early/JJ
 trading/NN
 in/IN

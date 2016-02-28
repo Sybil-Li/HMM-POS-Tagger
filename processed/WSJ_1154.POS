@@ -1,3 +1,4 @@
+When/WRB
 the/DT
 good/JJ
 fairy/NN
@@ -70,6 +71,7 @@ a/DT
 nice/JJ
 wig/NN
 ./.
+Cast/VBN
 as/IN
 Violetta/NNP
 Valery/NNP
@@ -658,6 +660,7 @@ is/VBZ
 her/PRP$
 dream/NN
 ./.
+Given/VBN
 the/DT
 prelude/NN
 's/POS
@@ -762,6 +765,7 @@ with/IN
 the/DT
 staging/NN
 ./.
+Of/IN
 heart-pounding/JJ
 moments/NNS
 there/EX
@@ -865,6 +869,7 @@ Mahler/NNP
 Kindertotenlieder/FW
 ./.
 ''/''
+Speaking/VBG
 of/IN
 dark/JJ
 nights/NNS
@@ -1312,6 +1317,7 @@ first-time/JJ
 film/NN
 makers/NNS
 ./.
+At/IN
 this/DT
 year/NN
 's/POS
@@ -1370,6 +1376,7 @@ director/NN
 's/POS
 award/NN
 ./.
+Says/VBZ
 director/NN
 George/NNP
 Miller/NNP
@@ -1936,6 +1943,7 @@ $/$
 7,000/CD
 ./.
 ''/''
+Since/IN
 Mexican/NNP
 President/NNP
 Carlos/NNP
@@ -2064,6 +2072,7 @@ half/PDT
 that/DT
 amount/NN
 ./.
+``/``
 The/DT
 rest/NN
 will/MD

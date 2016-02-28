@@ -124,6 +124,7 @@ from/IN
 Mr./NNP
 Hunt/NNP
 ./.
+Separately/RB
 ,/,
 a/DT
 federal/JJ
@@ -212,6 +213,7 @@ federal/JJ
 district/NN
 court/NN
 ./.
+Regarding/VBG
 Mr./NNP
 Hunt/NNP
 's/POS

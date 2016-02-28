@@ -113,6 +113,7 @@ options/NNS
 being/VBG
 considered/VBN
 ./.
+For/IN
 one/CD
 thing/NN
 ,/,
@@ -238,6 +239,7 @@ talks/NNS
 ever/RB
 attempted/VBN
 ./.
+So/RB
 far/RB
 ,/,
 no/DT
@@ -279,6 +281,7 @@ top/JJ
 bargaining/NN
 priority/NN
 ./.
+But/CC
 even/RB
 though/IN
 NATO/NNP
@@ -405,6 +408,7 @@ tanks/NNS
 in/IN
 Europe/NNP
 ./.
+But/CC
 the/DT
 issue/NN
 is/VBZ
@@ -459,6 +463,7 @@ transportable/JJ
 high-technology/JJ
 tanks/NNS
 ./.
+Defining/VBG
 combat/NN
 aircraft/NN
 is/VBZ
@@ -625,6 +630,7 @@ one/CD
 NATO/NNP
 analyst/NN
 ./.
+So/RB
 far/RB
 ,/,
 neither/CC
@@ -684,6 +690,7 @@ current/JJ
 conciliatory/JJ
 attitude/NN
 ./.
+``/``
 So/RB
 what/WP
 if/IN
@@ -769,3 +776,4 @@ unable/JJ
 to/TO
 negotiate/VB
 ./.
+''/''

@@ -122,6 +122,7 @@ West/NNP
 to/TO
 East/NNP
 ./.
+``/``
 The/DT
 only/JJ
 response/NN
@@ -456,6 +457,7 @@ plan/NN
 for/IN
 Poland/NNP
 ./.
+Despite/IN
 sudden/JJ
 changes/NNS
 in/IN
@@ -505,6 +507,7 @@ link/VB
 the/DT
 issues/NNS
 ./.
+``/``
 We/PRP
 need/VBP
 a/DT
@@ -884,6 +887,7 @@ with/IN
 them/PRP
 ./.
 ''/''
+While/IN
 many/JJ
 commentators/NNS
 ,/,
@@ -1014,3 +1018,4 @@ in/IN
 the/DT
 East/NNP
 ./.
+''/''

@@ -1,3 +1,4 @@
+After/IN
 being/VBG
 whipsawed/VBN
 by/IN
@@ -18,6 +19,7 @@ took/VBD
 more/JJR
 hits/NNS
 ./.
+Early/RB
 in/IN
 the/DT
 day/NN
@@ -78,6 +80,7 @@ thus/RB
 considered/VBN
 safe/JJ
 ./.
+``/``
 Some/DT
 retail/JJ
 accounts/NNS
@@ -116,6 +119,7 @@ Corp./NNP
 ,/,
 Minneapolis/NNP
 ./.
+At/IN
 one/CD
 point/NN
 ,/,
@@ -291,6 +295,7 @@ to/TO
 1\/2/CD
 point/NN
 ./.
+But/CC
 high-yield/JJ
 ,/,
 high-risk/JJ
@@ -355,6 +360,7 @@ fell/VBD
 1\/2/CD
 points/NNS
 ./.
+Trading/NN
 activity/NN
 in/IN
 the/DT
@@ -429,6 +435,7 @@ was/VBD
 rubber-necking/VBG
 ./.
 ''/''
+Adding/VBG
 to/TO
 the/DT
 junk/NN
@@ -554,6 +561,7 @@ are/VBP
 currently/RB
 unpopular/JJ
 ./.
+Meanwhile/RB
 ,/,
 investors/NNS
 turned/VBD
@@ -575,6 +583,7 @@ two-year/JJ
 notes/NNS
 yesterday/NN
 ./.
+``/``
 It/PRP
 's/VBZ
 not/RB
@@ -791,6 +800,7 @@ according/VBG
 to/TO
 dealers/NNS
 ./.
+``/``
 Interest/NN
 by/IN
 Japanese/JJ
@@ -833,6 +843,7 @@ as/IN
 lighter-than-normal/JJ
 ./.
 ''/''
+However/RB
 ,/,
 Mr./NNP
 Moran/NNP
@@ -1014,6 +1025,7 @@ yield/VB
 8.17/CD
 %/NN
 ./.
+Yesterday/NN
 ,/,
 the/DT
 benchmark/NN
@@ -1236,6 +1248,7 @@ yield/VB
 8.85/CD
 %/NN
 ./.
+Meanwhile/RB
 ,/,
 International/NNP
 Business/NNP
@@ -1293,6 +1306,7 @@ available/JJ
 for/IN
 issuance/NN
 ./.
+In/IN
 secondary/JJ
 trading/NN
 ,/,
@@ -1306,6 +1320,7 @@ to/TO
 higher/JJR
 ./.
 Municipals/NNS
+Actively/RB
 traded/VBN
 municipal/JJ
 bonds/NNS
@@ -1404,6 +1419,7 @@ some/DT
 traders/NNS
 said/VBD
 ./.
+Among/IN
 the/DT
 new/JJ
 issues/NNS
@@ -1569,6 +1585,7 @@ its/PRP$
 %/NN
 securities/NNS
 ./.
+In/IN
 the/DT
 asset-backed/JJ
 market/NN
@@ -1616,6 +1633,7 @@ $/$
 2.58/CD
 billion/CD
 ./.
+Among/IN
 major/JJ
 pass-through/JJ
 issues/NNS
@@ -1857,6 +1875,7 @@ yield/VB
 10.93/CD
 %/NN
 ./.
+In/IN
 Japan/NNP
 ,/,
 government/NN

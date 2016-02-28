@@ -15,6 +15,7 @@ critical/JJ
 Christmas/NNP
 season/NN
 ./.
+Yesterday/NN
 ,/,
 the/DT
 retailing/NN
@@ -58,6 +59,7 @@ a/DT
 year/NN
 earlier/RBR
 ./.
+But/CC
 the/DT
 news/NN
 was/VBD
@@ -326,6 +328,7 @@ power/NN
 formats/NNS
 ./.
 ''/''
+But/CC
 analysts/NNS
 say/VBP
 Sears/NNP
@@ -395,6 +398,7 @@ unusual/JJ
 values/NNS
 ./.
 ''/''
+In/IN
 what/WP
 amounts/NNS
 to/TO
@@ -531,6 +535,7 @@ right/JJ
 idea/NN
 ./.
 ''/''
+But/CC
 the/DT
 ad/NN
 also/RB
@@ -664,6 +669,7 @@ new/JJ
 pricing/NN
 strategy/NN
 ./.
+Moreover/RB
 ,/,
 the/DT
 number/NN
@@ -729,6 +735,7 @@ friendly/JJ
 personnel/NNS
 ./.
 ''/''
+``/``
 The/DT
 power/NN
 of/IN
@@ -784,6 +791,7 @@ slow/JJ
 process/NN
 ./.
 ''/''
+For/IN
 the/DT
 third/JJ
 quarter/NN
@@ -993,6 +1001,7 @@ sales/NNS
 of/IN
 property/NN
 ./.
+In/IN
 New/NNP
 York/NNP
 Stock/NNP

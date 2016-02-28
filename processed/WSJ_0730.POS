@@ -4,6 +4,7 @@ Make/VBP
 Travel/NN
 Agents/NNS
 Jittery/JJ
+BEING/VBG
 A/DT
 TRAVEL/NN
 agent/NN
@@ -20,6 +21,7 @@ getting/VBG
 downright/RB
 dangerous/JJ
 ./.
+In/IN
 recent/JJ
 months/NNS
 ,/,
@@ -196,6 +198,7 @@ agency/NN
 last/JJ
 June/NNP
 ./.
+But/CC
 then/RB
 ,/,
 he/PRP
@@ -258,6 +261,7 @@ were/VBD
 he/PRP
 says/VBZ
 ./.
+As/IN
 word/NN
 of/IN
 the/DT
@@ -418,6 +422,7 @@ do/VB
 this/DT
 ./.
 ''/''
+But/CC
 airlines/NNS
 say/VBP
 it/PRP
@@ -530,6 +535,7 @@ replace/VB
 damaged/JJ
 cars/NNS
 ./.
+Before/IN
 the/DT
 law/NN
 went/VBD
@@ -675,9 +681,11 @@ prices/NNS
 Flight/NN
 Attendants/NNS
 Lag/NN
+Before/IN
 Jets/NNS
 Even/RB
 Land/VBP
+IF/IN
 YOUR/JJ
 FLIGHT/NN
 attendant/NN
@@ -794,6 +802,7 @@ of/IN
 consecutive/JJ
 hours/NNS
 ./.
+``/``
 As/RB
 far/RB
 as/IN

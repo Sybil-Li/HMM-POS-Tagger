@@ -1,3 +1,4 @@
+After/IN
 a/DT
 bad/JJ
 start/NN
@@ -17,6 +18,7 @@ end/VB
 modestly/RB
 higher/RBR
 ./.
+``/``
 The/DT
 market/NN
 was/VBD
@@ -70,6 +72,7 @@ market-moving/JJ
 employment/NN
 report/NN
 ./.
+During/IN
 the/DT
 first/JJ
 hour/NN
@@ -143,6 +146,7 @@ of/IN
 the/DT
 doldrums/NN
 ./.
+``/``
 We/PRP
 saw/VBD
 good/JJ
@@ -286,6 +290,7 @@ October/NNP
 chain-store/JJ
 sales/NNS
 ./.
+Despite/IN
 yesterday/NN
 's/POS
 modest/JJ
@@ -476,6 +481,7 @@ to/TO
 9.90/CD
 %/NN
 ./.
+As/IN
 expected/VBN
 ,/,
 the/DT
@@ -792,6 +798,7 @@ an/DT
 184-day/JJ
 maturity/NN
 ./.
+Because/IN
 of/IN
 the/DT
 early/JJ
@@ -846,6 +853,7 @@ management/NN
 bills/NNS
 yesterday/NN
 ./.
+Here/RB
 are/VBP
 details/NNS
 of/IN
@@ -932,6 +940,7 @@ May/NNP
 ,/,
 1990/CD
 ./.
+Here/RB
 are/VBP
 details/NNS
 of/IN
@@ -1020,6 +1029,7 @@ the/DT
 high-yield/JJ
 market/NN
 ./.
+In/IN
 June/NNP
 ,/,
 Western/NNP
@@ -1216,6 +1226,7 @@ are/VBP
 not/RB
 available/JJ
 ./.
+Elsewhere/RB
 ,/,
 prices/NNS
 of/IN
@@ -1229,6 +1240,7 @@ bonds/NNS
 ended/VBD
 unchanged/JJ
 ./.
+In/IN
 the/DT
 new-issue/JJ
 market/NN
@@ -1377,6 +1389,7 @@ debentures/NNS
 in/IN
 August/NNP
 ./.
+Meanwhile/RB
 ,/,
 underwriters/NNS
 at/IN
@@ -1481,6 +1494,7 @@ at/IN
 up/RB
 2\/32/CD
 ./.
+In/IN
 the/DT
 derivative/JJ
 market/NN
@@ -1586,6 +1600,7 @@ Mae/NNP
 quasi-federal/JJ
 agencies/NNS
 ./.
+In/IN
 the/DT
 asset-backed/JJ
 market/NN

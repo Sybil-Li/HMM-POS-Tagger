@@ -1,3 +1,4 @@
+Although/IN
 bullish/JJ
 dollar/NN
 sentiment/NN
@@ -20,6 +21,7 @@ the/DT
 near/JJ
 future/NN
 ./.
+While/IN
 Wall/NNP
 Street/NNP
 's/POS
@@ -97,6 +99,7 @@ ranges/NNS
 she/PRP
 contends/VBZ
 ./.
+In/IN
 late/JJ
 Friday/NNP
 afternoon/NN
@@ -135,6 +138,7 @@ from/IN
 $/$
 1.5765/CD
 ./.
+In/IN
 Tokyo/NNP
 Monday/NNP
 ,/,
@@ -218,6 +222,7 @@ Exchequer/NNP
 Nigel/NNP
 Lawson/NNP
 ./.
+But/CC
 once/RB
 the/DT
 pound/NN
@@ -267,6 +272,7 @@ of/IN
 17.01/CD
 points/NNS
 ./.
+With/IN
 the/DT
 stock/NN
 market/NN
@@ -335,6 +341,7 @@ Bank/NNP
 of/IN
 Montreal/NNP
 ./.
+While/IN
 some/DT
 analysts/NNS
 say/VBP
@@ -448,6 +455,7 @@ Inc./NNP
 in/IN
 Chicago/NNP
 ./.
+As/RB
 far/RB
 as/IN
 the/DT
@@ -475,6 +483,7 @@ dollar/NN
 this/DT
 week/NN
 ./.
+While/IN
 the/DT
 pound/NN
 has/VBZ
@@ -584,6 +593,7 @@ currency/NN
 analysts/NNS
 contend/VBP
 ./.
+Although/IN
 the/DT
 Bank/NNP
 of/IN
@@ -663,6 +673,7 @@ to/TO
 fall/VB
 sharply/RB
 ./.
+``/``
 It/PRP
 's/VBZ
 fair/JJ
@@ -701,6 +712,7 @@ Brothers/NNP
 in/IN
 London/NNP
 ./.
+``/``
 There/EX
 's/VBZ
 very/RB
@@ -739,6 +751,7 @@ run/VBN
 its/PRP$
 course/NN
 ./.
+But/CC
 some/DT
 other/JJ
 analysts/NNS
@@ -841,6 +854,7 @@ a/DT
 week/NN
 earlier/RBR
 ./.
+If/IN
 the/DT
 pound/NN
 falls/VBZ
@@ -1023,6 +1037,7 @@ the/DT
 Japanese/JJ
 government/NN
 ./.
+On/IN
 New/NNP
 York/NNP
 's/POS
@@ -1060,6 +1075,7 @@ seven/CD
 million/CD
 ounces/NNS
 ./.
+In/IN
 early/JJ
 trading/NN
 in/IN

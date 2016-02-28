@@ -1,3 +1,4 @@
+Just/RB
 when/WRB
 it/PRP
 looked/VBD
@@ -25,6 +26,7 @@ the/DT
 market/NN
 tumbling/VBG
 ./.
+Because/IN
 of/IN
 the/DT
 heavy/JJ
@@ -84,6 +86,7 @@ or/CC
 %/NN
 ,/,
 to/TO
+By/IN
 comparison/NN
 ,/,
 the/DT
@@ -220,6 +223,7 @@ lost/VBD
 to/TO
 452.75/CD
 ./.
+``/``
 The/DT
 market/NN
 felt/VBD
@@ -442,6 +446,7 @@ using/VBG
 the/DT
 chip/NN
 ./.
+Nevertheless/RB
 ,/,
 Intel/NNP
 dropped/VBD

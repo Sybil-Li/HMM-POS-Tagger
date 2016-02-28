@@ -67,6 +67,7 @@ forever/RB
 blinking/RB
 yellow/JJ
 ./.
+Indeed/RB
 ,/,
 his/PRP$
 caution/NN
@@ -647,6 +648,7 @@ a/DT
 severe/JJ
 crunch/NN
 ./.
+But/CC
 Mr./NNP
 Greenspan/NNP
 remains/VBZ
@@ -759,6 +761,7 @@ Congress/NNP
 last/JJ
 week/NN
 ./.
+So/IN
 far/RB
 ,/,
 Mr./NNP
@@ -854,6 +857,7 @@ good/JJ
 rating/NN
 ./.
 ''/''
+But/CC
 such/JJ
 caution/NN
 is/VBZ

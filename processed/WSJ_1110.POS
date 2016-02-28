@@ -117,6 +117,7 @@ to/TO
 a/DT
 crawl/NN
 ./.
+But/CC
 many/JJ
 economists/NNS
 pointed/VBD
@@ -176,6 +177,7 @@ any/DT
 means/NNS
 ./.
 ''/''
+While/IN
 a/DT
 decline/NN
 in/IN
@@ -303,6 +305,7 @@ in/IN
 defense/NN
 orders/NNS
 ./.
+Without/IN
 the/DT
 increase/NN
 in/IN
@@ -403,6 +406,7 @@ in/IN
 a/DT
 row/NN
 ./.
+``/``
 It/PRP
 means/VBZ
 we/PRP
@@ -548,6 +552,7 @@ earlier/RBR
 this/DT
 year/NN
 ./.
+Still/RB
 ,/,
 Milton/NNP
 Hudson/NNP
@@ -609,3 +614,4 @@ growth/NN
 has/VBZ
 slowed/VBN
 ./.
+''/''

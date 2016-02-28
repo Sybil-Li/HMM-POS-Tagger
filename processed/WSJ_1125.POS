@@ -1,3 +1,4 @@
+For/IN
 the/DT
 real/JJ
 estate/NN
@@ -77,6 +78,7 @@ with/IN
 members/NNS
 nationwide/RB
 ./.
+With/IN
 the/DT
 market/NN
 overbuilt/JJ
@@ -208,6 +210,7 @@ in/IN
 the/DT
 U.S/NNP
 ./.
+``/``
 There/EX
 are/VBP
 n't/RB
@@ -462,6 +465,7 @@ national/JJ
 accounting/NN
 firm/NN
 ./.
+But/CC
 experts/NNS
 say/VBP
 that/IN
@@ -539,6 +543,7 @@ money/NN
 and/CC
 time/NN
 ./.
+Finding/VBG
 pension/NN
 funds/NNS
 and/CC

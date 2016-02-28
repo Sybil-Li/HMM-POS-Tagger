@@ -1,3 +1,4 @@
+In/IN
 a/DT
 nondescript/JJ
 office/NN
@@ -152,6 +153,7 @@ world/NN
 of/IN
 law/NN
 ./.
+Little/RB
 known/VBN
 outside/IN
 the/DT
@@ -235,6 +237,7 @@ designs/VBZ
 courtroom/NN
 graphics/NNS
 ./.
+Much/RB
 like/IN
 their/PRP$
 cohorts/NNS
@@ -298,6 +301,7 @@ for/IN
 such/JJ
 advice/NN
 ./.
+Recently/RB
 ,/,
 Litigation/NNP
 Sciences/NNPS
@@ -388,6 +392,7 @@ $/$
 25/CD
 million/CD
 ./.
+Meanwhile/RB
 ,/,
 competitors/NNS
 are/VBP
@@ -448,6 +453,7 @@ using/VBG
 litigation/NN
 consultants/NNS
 ./.
+Despite/IN
 their/PRP$
 ubiquity/NN
 ,/,
@@ -804,6 +810,7 @@ was/VBD
 a/DT
 landmark/NN
 ./.
+In/IN
 that/DT
 case/NN
 ,/,
@@ -1052,6 +1059,7 @@ the/DT
 case/NN
 ./.
 )/)
+``/``
 The/DT
 hardest/JJS
 thing/NN
@@ -1274,6 +1282,7 @@ for/IN
 Energy/NNP
 Transportation/NNP
 ./.
+``/``
 It/PRP
 's/VBZ
 just/RB
@@ -1312,6 +1321,7 @@ rain/NN
 dancer/NN
 ./.
 ''/''
+Forecasting/NN
 is/VBZ
 only/RB
 one/CD
@@ -1349,6 +1359,7 @@ seem/VB
 chillingly/RB
 manipulative/JJ
 ./.
+Theoretically/RB
 ,/,
 jurors/NNS
 are/VBP
@@ -1497,6 +1508,7 @@ the/DT
 jury/NN
 ./.
 )/)
+For/IN
 personal-injury/NN
 cases/NNS
 ,/,
@@ -1643,6 +1655,7 @@ possibly/RB
 can/MD
 ./.
 ''/''
+Once/RB
 a/DT
 jury/NN
 is/VBZ
@@ -1705,6 +1718,7 @@ a/DT
 gut/NN
 level/NN
 ./.
+In/IN
 one/CD
 personal-injury/NN
 case/NN
@@ -1771,6 +1785,7 @@ The/DT
 defense/NN
 won/VBD
 ./.
+In/IN
 a/DT
 classic/JJ
 defense/NN
@@ -2186,6 +2201,7 @@ virtually/RB
 useless/JJ
 ./.
 ''/''
+But/CC
 most/JJS
 lawyers/NNS
 accept/VBP
@@ -2282,6 +2298,7 @@ think/VB
 inappropriately/RB
 ./.
 ''/''
+To/TO
 hamper/VB
 the/DT
 work/NN
@@ -2398,6 +2415,7 @@ jurors/NNS
 '/POS
 personalities/NNS
 ./.
+Even/RB
 some/DT
 lawyers/NNS
 who/WP

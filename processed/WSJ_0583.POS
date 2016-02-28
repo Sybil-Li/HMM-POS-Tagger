@@ -122,6 +122,7 @@ was/VBD
 announced/VBN
 Friday/NNP
 ./.
+``/``
 The/DT
 myths/NNS
 that/IN
@@ -149,6 +150,7 @@ Mr./NNP
 Nadir/NNP
 said/VBD
 ./.
+But/CC
 analysts/NNS
 say/VBP
 Sansui/NNP
@@ -280,6 +282,7 @@ of/IN
 foreign/JJ
 companies/NNS
 ./.
+Nor/CC
 do/VBP
 analysts/NNS
 expect/VB
@@ -331,6 +334,7 @@ most/RBS
 would-be/JJ
 acquirers/NNS
 ./.
+Usually/RB
 when/WRB
 a/DT
 Japanese/JJ
@@ -391,6 +395,7 @@ gear/NN
 for/IN
 audiophiles/NNS
 ./.
+But/CC
 in/IN
 recent/JJ
 years/NNS
@@ -496,6 +501,7 @@ other/JJ
 new/JJ
 businesses/NNS
 ./.
+As/IN
 the/DT
 yen/NN
 soared/VBD
@@ -566,6 +572,7 @@ Sansui/NNP
 's/POS
 president/NN
 ./.
+But/CC
 even/RB
 a/DT
 Japanese/JJ
@@ -782,6 +789,7 @@ Peck/NNP
 own/JJ
 factories/NNS
 ./.
+``/``
 Whatever/WDT
 capital/NN
 it/PRP
@@ -820,6 +828,7 @@ Mr./NNP
 Nadir/NNP
 said/VBD
 ./.
+And/CC
 while/IN
 Polly/NNP
 Peck/NNP

@@ -11,6 +11,7 @@ into/IN
 money/NN
 laundering/NN
 ./.
+But/CC
 July/NNP
 5/CD
 ,/,
@@ -105,6 +106,7 @@ with/IN
 the/DT
 government/NN
 ./.
+``/``
 We/PRP
 kind/NN
 of/IN
@@ -243,6 +245,7 @@ company/NN
 thousands/NNS
 more/RBR
 ./.
+So/IN
 Brooks/NNP
 gave/VBD
 the/DT
@@ -261,6 +264,7 @@ an/DT
 unusual/JJ
 solution/NN
 ./.
+For/IN
 eight/CD
 hours/NNS
 a/DT
@@ -459,3 +463,4 @@ me/PRP
 or/CC
 anything/NN
 ./.
+''/''

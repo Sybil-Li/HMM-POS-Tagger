@@ -198,6 +198,7 @@ of/IN
 sales/NNS
 ./.
 )/)
+But/CC
 today/NN
 ,/,
 the/DT
@@ -242,6 +243,7 @@ Raleigh/NNP
 and/CC
 Nishiki/NNP
 ./.
+Thus/RB
 ,/,
 Mr./NNP
 Sinyard/NNP
@@ -464,6 +466,7 @@ that/DT
 day/NN
 ./.
 ''/''
+Since/IN
 his/PRP$
 arrival/NN
 in/IN
@@ -567,6 +570,7 @@ company/NN
 creative/JJ
 drive/NN
 ./.
+Hoping/VBG
 to/TO
 stay/VB
 ahead/RB
@@ -640,6 +644,7 @@ frames/NNS
 even/RB
 lighter/JJR
 ./.
+At/IN
 the/DT
 trade/NN
 show/NN
@@ -741,6 +746,7 @@ from/IN
 $/$
 750/CD
 in/IN
+But/CC
 demands/NNS
 on/IN
 the/DT
@@ -996,6 +1002,7 @@ company/NN
 total/JJ
 sales/NNS
 ./.
+At/IN
 Giant/NNP
 Bicycle/NNP
 Inc./NNP
@@ -1094,6 +1101,7 @@ Raleigh/NNP
 and/CC
 Nishiki/NNP
 ./.
+In/IN
 response/NN
 to/TO
 the/DT
@@ -1164,3 +1172,4 @@ game/NN
 has/VBZ
 changed/VBN
 ./.
+''/''

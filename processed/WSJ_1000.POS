@@ -273,6 +273,7 @@ average/JJ
 daily/JJ
 volume/NN
 ./.
+On/IN
 Tuesday/NNP
 afternoon/NN
 ,/,
@@ -362,6 +363,7 @@ the/DT
 months/NNS
 ahead/RB
 ./.
+``/``
 We/PRP
 've/VBP
 been/VBN
@@ -417,6 +419,7 @@ buyers/NNS
 of/IN
 stock/NN
 ./.
+While/IN
 Mr./NNP
 Timbers/NNP
 explained/VBD
@@ -822,6 +825,7 @@ a/DT
 whole/NN
 ./.
 ''/''
+According/VBG
 to/TO
 Lawrence/NNP
 Eckenfelder/NNP
@@ -890,3 +894,4 @@ much/RB
 more/RBR
 important/JJ
 ./.
+''/''

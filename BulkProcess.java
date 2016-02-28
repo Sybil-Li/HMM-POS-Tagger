@@ -40,7 +40,7 @@ public class BulkProcess {
 	    	System.out.println("3 " +e);
 	    }
 	    // split String to extract useful content
-	    String[] tokens = posString.replaceAll("[\\[\\]\\n]", "").split(" ");
+	    String[] tokens = posString.replaceAll("[\\[\\]\\n]", " ").split(" ");
 	    // for (int i = 0; i < tokens.length; i++) {
 	    // 		System.out.println("new token " + tokens[i]);
 	    // }

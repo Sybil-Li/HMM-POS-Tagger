@@ -33,8 +33,8 @@ public class POStagger {
 
 		// testing code
 		// trainModel(Paths.get("processed/WSJ_0200.POS"));
-		// System.out.println("catTotal: " + catTotal.size());
-		// System.out.println("wordTotal: " + wordTotal.size());
+		System.out.println("catTotal: " + catTotal.size());
+		System.out.println("wordTotal: " + wordTotal.size());
 
 		// after training update set of tags
 		Object[] temp = catTotal.keySet().toArray();
@@ -43,23 +43,37 @@ public class POStagger {
 			allTags[i] = (String) temp[i];
 		}
 
+		for (Map.Entry<String,HashMap<String,Integer>> entry : cat2cat.entrySet()) {
+			String key = entry.getKey();
+			HashMap<String,Integer> value = entry.getValue();
+			System.out.println("category: "  + key);
+			// for (Map.Entry<String,Integer> occurences : value.entrySet()) {
+			// 	String k = occurences.getKey();
+			// 	Integer v = occurences.getValue();
+			// 	System.out.println(k + " = " + v);
+			// }
+		}
+
 		int totalpredicted = 0;
 		int totalcorrect = 0;
 
-		for (int i = 2; i < 3; i++){
-			for (int j = i*100; j < i*100+100; j++) {
-				Path file_path = Paths.get("processed/WSJ_0" + j + ".POS");
-				int[] accuracy = testModel(file_path);
-				System.out.println("tested processed/WSJ_0" + j + ".POS");
-				totalpredicted += accuracy[0];
-				totalcorrect += accuracy[1];
-			}	
-		}
-		System.out.println("total number of words: " + totalpredicted);
-		System.out.println("correctly predicted: " + totalcorrect);
+		// for (int i = 2; i < 3; i++){
+		// 	for (int j = i*100; j < i*100+100; j++) {
+		// 		Path file_path = Paths.get("processed/WSJ_0" + j + ".POS");
+		// 		int[] accuracy = testModel(file_path);
+		// 		System.out.println("tested processed/WSJ_0" + j + ".POS");
+		// 		totalpredicted += accuracy[0];
+		// 		totalcorrect += accuracy[1];
+		// 	}	
+		// }
+
+		// System.out.println("total number of words: " + totalpredicted);
+		// System.out.println("correctly predicted: " + totalcorrect);
 
 		// testing code
-		// testModel(Paths.get("processed/WSJ_0200.POS"));
+		int[] accuracy = testModel(Paths.get("processed/WSJ_0200.POS"));
+		System.out.println("total number of words: " + accuracy[0]);
+		System.out.println("correctly predicted: " + accuracy[1]);	
 
 	}
 
@@ -71,62 +85,78 @@ public class POStagger {
 			String line = null;
 			while ((line = br.readLine()) != null) {
 				String[] pair = line.split("\\/");
-				// update word-category count
-				if (!wordTotal.containsKey(pair[0])){
-					// add word to collection of words
-					wordTotal.put(pair[0], 1);
-					// add word to word2cat map
-					word2cat.put(pair[0], new HashMap<String, Integer>());
-					// add pair to word2cat count
-					word2cat.get(pair[0]).put(pair[1], 1);
-				}
-				else{
-					// increment word occurrence
-					wordTotal.put(pair[0], wordTotal.get(pair[0])+1);
-					// if word-category pair not yet exists
-					if (!word2cat.get(pair[0]).containsKey(pair[1])){
-						word2cat.get(pair[0]).put(pair[1], 1);
+				//TODO fix this
+				String[] tags = pair[pair.length-1].split("|");
+				// iterate through each pair of words and tags
+				for (int j = 0; j < tags.length; j++) {
+					String tag = tags[j];
+					for (int i = 0; i < pair.length-1; i++) {
+						String word = pair[i].substring(0, pair[i].length()-1);
+						updateCount(word, tag, prevCat);
 					}
-					// if exists
-					else {
-						int count = word2cat.get(pair[0]).get(pair[1]);
-						word2cat.get(pair[0]).put(pair[1], count+1);
-					}
-				}
-
-				// update category-category count
-				if (!catTotal.containsKey(pair[1])){
-					// add cat tag to collection of tags
-					catTotal.put(pair[1], 1);
-					// add cat to cat2cat map
-					cat2cat.put(pair[1], new HashMap<String, Integer>());
-					// add pair to word2cat count
-					cat2cat.get(pair[1]).put(pair[1], 1);
-				}
-				else {
-					// increment category occurrence
-					catTotal.put(pair[1], catTotal.get(pair[1])+1);
-					// if category-category pair not yet exists
-					if (!cat2cat.get(pair[1]).containsKey(prevCat)){
-						cat2cat.get(pair[1]).put(prevCat, 1);
-					}
-					// if exists
-					else {
-						int count = cat2cat.get(pair[1]).get(prevCat);
-						cat2cat.get(pair[1]).put(prevCat, count+1);
-					}
-				}
-				// update prevCat
-				if (pair[0].equals(".")){
-					prevCat = "**start**";
-				}
-				else {
-					prevCat = pair[1];
+					prevCat = updateCount(pair[pair.length-2], tag, prevCat);
 				}
 			}
 		} catch (IOException e) {
 	    	System.out.println(e);
 	    }
+	}
+
+	public static String updateCount(String word, String tag, String prevCat){
+		// update word-category count
+		if (!wordTotal.containsKey(word)){
+			// add word to collection of words
+			wordTotal.put(word, 1);
+			// add word to word2cat map
+			word2cat.put(word, new HashMap<String, Integer>());
+			// add pair to word2cat count
+			word2cat.get(word).put(tag, 1);
+		}
+		else{
+			// increment word occurrence
+			wordTotal.put(word, wordTotal.get(word)+1);
+			// if word-category pair not yet exists
+			if (!word2cat.get(word).containsKey(tag)){
+				word2cat.get(word).put(tag, 1);
+			}
+			// if exists
+			else {
+				int count = word2cat.get(word).get(tag);
+				word2cat.get(word).put(tag, count+1);
+			}
+		}
+
+		// update category-category count
+		if (!catTotal.containsKey(tag)){
+			// add cat tag to collection of tags
+			catTotal.put(tag, 1);
+			// add cat to cat2cat map
+			cat2cat.put(tag, new HashMap<String, Integer>());
+			// add pair to word2cat count
+			cat2cat.get(tag).put(prevCat, 1);
+		}
+		else {
+			// increment category occurrence
+			catTotal.put(tag, catTotal.get(tag)+1);
+			// if category-category pair not yet exists
+			if (!cat2cat.get(tag).containsKey(prevCat)){
+				cat2cat.get(tag).put(prevCat, 1);
+			}
+			// if exists
+			else {
+				int count = cat2cat.get(tag).get(prevCat);
+				cat2cat.get(tag).put(prevCat, count+1);
+			}
+		}
+		// update prevCat
+		if (word.equals(".")){
+			prevCat = "**start**";
+		}
+		else {
+			prevCat = tag;
+		}
+
+		return prevCat;
 	}
 
 	public static int[] testModel(Path file_path) {
@@ -156,9 +186,11 @@ public class POStagger {
 	    int[] accuracy = new int[2];
 	    accuracy[0] = results.length;
 
+
+	    //TODO: modify test for correct prediction
 		for (int i = 0; i < results.length; i++){
 			//System.out.println(results[i]);
-			if (results[i].equals(words_tags[i][1])){
+			if (words_tags[i][1].contains(results[i])){
 				accuracy[1]++;
 			}
 		}
@@ -235,8 +267,8 @@ public class POStagger {
 					}
 
 					// update score and backpointer
-					if (pWordInCat+pCatAfterCat < score[i][j] || score[i][j] == 0) {
-						score[i][j] = pWordInCat+pCatAfterCat;
+					if (pWordInCat+pCatAfterCat+score[k][j-1] < score[i][j] || score[i][j] == 0) {
+						score[i][j] = pWordInCat+pCatAfterCat+score[k][j-1];
 						backpointer[i][j] = k;
 					}
 				}

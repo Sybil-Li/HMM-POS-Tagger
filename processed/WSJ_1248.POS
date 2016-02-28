@@ -142,6 +142,7 @@ stock/NN
 market/NN
 crash/NN
 ./.
+``/``
 It/PRP
 is/VBZ
 close/JJ
@@ -202,6 +203,7 @@ United/NNP
 Airlines/NNPS
 ./.
 ''/''
+In/IN
 a/DT
 statement/NN
 ,/,
@@ -251,6 +253,7 @@ the/DT
 issue/NN
 ./.
 ''/''
+But/CC
 except/IN
 for/IN
 the/DT
@@ -446,6 +449,7 @@ do/VB
 something/NN
 ./.
 ''/''
+For/IN
 instance/NN
 ,/,
 British/NNP
@@ -596,6 +600,7 @@ the/DT
 open/JJ
 market/NN
 ./.
+But/CC
 British/NNP
 Air/NNP
 's/POS
@@ -678,3 +683,4 @@ of/IN
 company/NN
 policy/NN
 ./.
+''/''

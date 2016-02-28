@@ -1,3 +1,4 @@
+Despite/IN
 politicians/NNS
 '/POS
 hand-wringing/NN
@@ -27,6 +28,7 @@ two/CD
 previous/JJ
 years/NNS
 ./.
+Even/RB
 White/NNP
 House/NNP
 budget/NN
@@ -159,6 +161,7 @@ into/IN
 fiscal/JJ
 1990/CD
 ./.
+Nevertheless/RB
 ,/,
 the/DT
 1989/CD
@@ -264,6 +267,7 @@ sign/NN
 of/IN
 retreating/VBG
 ./.
+Meeting/VBG
 with/IN
 reporters/NNS
 Friday/NNP
@@ -301,6 +305,7 @@ in/IN
 future/JJ
 years/NNS
 ./.
+Underscoring/VBG
 the/DT
 size/NN
 of/IN
@@ -344,6 +349,7 @@ largest/JJS
 government/NN
 program/NN
 ./.
+In/IN
 all/DT
 ,/,
 federal/JJ

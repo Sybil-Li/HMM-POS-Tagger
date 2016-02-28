@@ -2,9 +2,11 @@ Wives/NNS
 May/MD
 Not/RB
 Benefit/VB
+When/WRB
 Men/NN
 Do/VB
 Chores/NNS
+WHEN/WRB
 HUSBANDS/NNS
 take/VBP
 on/IN
@@ -75,6 +77,7 @@ share/NN
 each/DT
 did/VBD
 ./.
+Not/RB
 unexpectedly/RB
 ,/,
 wives/NNS
@@ -130,6 +133,7 @@ less/JJR
 than/IN
 half/NN
 ./.
+But/CC
 the/DT
 researchers/NNS
 found/VBD
@@ -224,6 +228,7 @@ in/IN
 less-educated/JJ
 families/NNS
 ./.
+``/``
 It/PRP
 is/VBZ
 clear/JJ
@@ -432,6 +437,7 @@ analysts/NNS
 anticipated/VBN
 ./.
 )/)
+But/CC
 a/DT
 remarkably/RB
 high/JJ
@@ -756,6 +762,7 @@ through/IN
 1989/CD
 surveys/NNS
 ./.
+For/IN
 example/NN
 ,/,
 66/CD
@@ -818,6 +825,7 @@ through/IN
 1975/CD
 surveys/NNS
 ./.
+Asked/VBN
 whether/IN
 they/PRP
 agreed/VBD

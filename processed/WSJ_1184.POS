@@ -75,6 +75,7 @@ third-largest/JJ
 defense/NN
 contractor/NN
 ./.
+In/IN
 a/DT
 strongly/RB
 worded/VBN
@@ -473,6 +474,7 @@ the/DT
 Philadelphia/NNP
 court/NN
 ./.
+In/IN
 order/NN
 to/TO
 show/VB
@@ -529,6 +531,7 @@ meetings/NNS
 in/IN
 1985/CD
 ./.
+Overall/RB
 ,/,
 the/DT
 government/NN
@@ -623,6 +626,7 @@ by/IN
 GE/NNP
 management/NN
 ./.
+In/IN
 its/PRP$
 brief/NN
 ,/,

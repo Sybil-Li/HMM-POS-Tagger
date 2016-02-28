@@ -32,6 +32,7 @@ marine/JJ
 products/NNS
 group/NN
 ./.
+In/IN
 the/DT
 year-earlier/JJ
 third/JJ
@@ -165,6 +166,7 @@ about/RB
 4,000/CD
 employees/NNS
 ./.
+For/IN
 the/DT
 nine/CD
 months/NNS
@@ -210,6 +212,7 @@ $/$
 2.53/CD
 billion/CD
 ./.
+In/IN
 New/NNP
 York/NNP
 Stock/NNP

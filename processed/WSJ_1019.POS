@@ -243,6 +243,7 @@ thus/RB
 increasing/VBG
 volatility/NN
 ./.
+But/CC
 Richard/NNP
 Ketchum/NNP
 ,/,
@@ -398,6 +399,7 @@ exchange/NN
 's/POS
 product/NN
 ./.
+Already/RB
 ,/,
 many/JJ
 of/IN
@@ -503,6 +505,7 @@ average/JJ
 daily/JJ
 volume/NN
 ./.
+``/``
 The/DT
 New/NNP
 York/NNP
@@ -633,6 +636,7 @@ between/IN
 the/DT
 markets/NNS
 ./.
+At/IN
 the/DT
 same/JJ
 time/NN
@@ -805,6 +809,7 @@ small/JJ
 regional/JJ
 exchange/NN
 ./.
+Even/RB
 though/IN
 the/DT
 Big/NNP
@@ -856,6 +861,7 @@ points/NNS
 it/PRP
 did/VBD
 ./.
+With/IN
 the/DT
 futures/NNS
 locked/VBN

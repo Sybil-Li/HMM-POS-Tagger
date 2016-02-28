@@ -1,7 +1,9 @@
+but/CC
 worries/NNS
 about/IN
 1990/CD
 ./.
+With/IN
 most/JJS
 legislatures/NNS
 adjourned/VBN
@@ -171,6 +173,7 @@ lower/JJR
 training/NN
 rate/NN
 ./.
+In/IN
 17/CD
 central/JJ
 states/NNS
@@ -236,6 +239,7 @@ proposals/NNS
 next/IN
 year/NN
 ./.
+``/``
 Those/DT
 kinds/NNS
 of/IN
@@ -261,6 +265,7 @@ Commerce/NNP
 small-business/NN
 office/NN
 ./.
+DESPITE/IN
 VICTORIES/NNS
 this/DT
 year/NN
@@ -272,6 +277,7 @@ losing/VBG
 parental-leave/JJ
 war/NN
 ./.
+Only/RB
 two/CD
 states/NNS
 --/:
@@ -351,6 +357,7 @@ one/CD
 Midwestern/JJ
 lobbyist/NN
 ./.
+Consequently/RB
 ,/,
 small/JJ
 business/NN
@@ -418,6 +425,7 @@ on/IN
 parental/JJ
 leave/NN
 ./.
+In/IN
 1990/CD
 ,/,
 the/DT
@@ -442,6 +450,7 @@ Pennsylvania/NNP
 and/CC
 Illinois/NNP
 ./.
+``/``
 We/PRP
 'll/MD
 be/VB
@@ -466,6 +475,7 @@ of/IN
 the/DT
 NFIB/NNP
 ./.
+IN/IN
 LOS/NNP
 ANGELES/NNP
 ,/,
@@ -478,6 +488,7 @@ a/DT
 child-care/JJ
 policy/NN
 ./.
+Triggering/VBG
 the/DT
 re-examination/NN
 is/VBZ
@@ -809,6 +820,7 @@ stirs/VBZ
 a/DT
 controversy/NN
 ./.
+With/IN
 some/DT
 new/JJ
 rules/NNS
@@ -927,6 +939,7 @@ franchise/NN
 being/VBG
 sold/VBN
 ./.
+But/CC
 critics/NNS
 consider/VBP
 the/DT

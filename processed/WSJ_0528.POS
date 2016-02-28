@@ -165,6 +165,7 @@ the/DT
 spring/NN
 semester/NN
 ./.
+Using/VBG
 direct/JJ
 mail/NN
 for/IN
@@ -239,6 +240,7 @@ the/DT
 grapevine/NN
 ./.
 ''/''
+``/``
 The/DT
 grapevine/NN
 is/VBZ
@@ -272,6 +274,7 @@ and/CC
 community/NN
 leaders/NNS
 ./.
+``/``
 This/DT
 is/VBZ
 a/DT
@@ -378,6 +381,7 @@ in/IN
 black/JJ
 programming/NN
 ./.
+Meanwhile/RB
 ,/,
 as/IN
 the/DT

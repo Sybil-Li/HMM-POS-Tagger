@@ -89,6 +89,7 @@ the/DT
 beer/NN
 industry/NN
 ./.
+Over/IN
 the/DT
 summer/NN
 ,/,
@@ -410,6 +411,7 @@ fewer/JJR
 bigger/JJR
 players/NNS
 ./.
+``/``
 We/PRP
 can/MD
 not/RB
@@ -470,6 +472,7 @@ by/IN
 the/DT
 mid-1990s/NNS
 ./.
+Beneath/IN
 the/DT
 tepid/JJ
 news-release/NN
@@ -709,6 +712,7 @@ unforgiving/JJ
 investing/VBG
 public/NN
 ./.
+But/CC
 Smith/NNP
 Barney/NNP
 's/POS
@@ -772,6 +776,7 @@ the/DT
 premium-beer/NN
 sector/NN
 ./.
+According/VBG
 to/TO
 Mr./NNP
 Steinman/NNP

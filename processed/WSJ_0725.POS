@@ -37,6 +37,7 @@ two/CD
 miles/NNS
 deep/RB
 ./.
+If/IN
 they/PRP
 finish/VBP
 today/NN
@@ -128,6 +129,7 @@ yard/NN
 he/PRP
 recalls/VBZ
 ./.
+After/IN
 a/DT
 three-year/JJ
 nightmare/NN
@@ -199,6 +201,7 @@ up/RP
 What/WP
 happened/VBD
 ?/.
+In/IN
 broadest/JJS
 terms/NNS
 ,/,
@@ -341,6 +344,7 @@ to/TO
 believe/VB
 in/RP
 ./.
+Not/RB
 that/DT
 oil/NN
 suddenly/RB
@@ -434,6 +438,7 @@ continue/VBP
 to/TO
 shrink/VB
 ./.
+With/IN
 all/PDT
 this/DT
 ,/,
@@ -485,6 +490,7 @@ Phillips/NNP
 Petroleum/NNP
 Co/NNP
 ./.
+Though/IN
 modest/JJ
 ,/,
 the/DT
@@ -611,6 +617,7 @@ on/IN
 long-term/JJ
 forecasts/NNS
 ./.
+And/CC
 consumers/NNS
 ``/``
 should/MD
@@ -727,6 +734,7 @@ markets/NNS
 ,/,
 ended/VBD
 ./.
+In/IN
 addition/NN
 ,/,
 global/JJ
@@ -761,6 +769,7 @@ years/NNS
 to/TO
 come/VB
 ./.
+For/IN
 OPEC/NNP
 ,/,
 that/WDT
@@ -835,6 +844,7 @@ again/RB
 he/PRP
 says/VBZ
 ./.
+To/TO
 promote/VB
 this/DT
 balance/NN
@@ -1085,6 +1095,7 @@ and/CC
 production/NN
 operations/NNS
 ./.
+Out/RB
 here/RB
 on/IN
 the/DT
@@ -1411,6 +1422,7 @@ n't/RB
 been/VBN
 found/VBN
 ./.
+``/``
 At/IN
 this/DT
 price/NN
@@ -1589,6 +1601,7 @@ about/IN
 drillers/NNS
 say/VBP
 ./.
+Still/RB
 ,/,
 there/EX
 is/VBZ
@@ -1923,6 +1936,7 @@ in/IN
 a/DT
 year/NN
 ./.
+Out/IN
 in/IN
 the/DT
 oil/NN
@@ -1974,6 +1988,7 @@ drilling/NN
 foreman/NN
 here/RB
 ./.
+For/IN
 most/JJS
 field/NN
 workers/NNS
@@ -2257,6 +2272,7 @@ like/JJ
 1988/CD
 period/NN
 ./.
+But/CC
 that/DT
 was/VBD
 off/RP
@@ -2403,6 +2419,7 @@ had/VBD
 sat/VBN
 idle/JJ
 ./.
+For/IN
 Zel/NNP
 Herring/NNP
 ,/,
@@ -2579,3 +2596,4 @@ word/NN
 is/VBZ
 out/RP
 ./.
+''/''

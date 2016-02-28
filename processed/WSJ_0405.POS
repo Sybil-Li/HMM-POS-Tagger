@@ -87,6 +87,7 @@ and/CC
 propulsion/NN
 hardware/NN
 ./.
+``/``
 We/PRP
 were/VBD
 just/RB
@@ -108,6 +109,7 @@ affairs/NNS
 Shocked/VBN
 ./.
 ''/''
+That/IN
 Moscow/NNP
 ,/,
 with/IN
@@ -244,6 +246,7 @@ crucial/JJ
 fighter-plane/NN
 technology/NN
 ./.
+And/CC
 ,/,
 despite/IN
 its/PRP$
@@ -394,6 +397,7 @@ as/IN
 the/DT
 Japanese/NNS
 ./.
+Where/WRB
 they/PRP
 lag/VBP
 behind/IN
@@ -557,6 +561,7 @@ the/DT
 Soviets/NNP
 ./.
 ''/''
+Under/IN
 Mikhail/NNP
 Gorbachev/NNP
 's/POS
@@ -829,6 +834,7 @@ jointly/RB
 he/PRP
 says/VBZ
 ./.
+Even/RB
 if/IN
 the/DT
 Japanese/NNS
@@ -914,6 +920,7 @@ north/RB
 of/IN
 Japan/NNP
 ./.
+So/IN
 far/RB
 ,/,
 the/DT

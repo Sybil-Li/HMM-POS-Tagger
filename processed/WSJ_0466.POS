@@ -154,6 +154,7 @@ Michael/NNP
 production/NN
 capacity/NN
 ./.
+But/CC
 at/IN
 least/JJS
 Burger/NNP
@@ -201,6 +202,7 @@ liquefied/VBN
 eggs/NNS
 annually/RB
 ./.
+So/IN
 there/EX
 is/VBZ
 reason/NN
@@ -436,6 +438,7 @@ management/NN
 's/POS
 credibility/NN
 ./.
+``/``
 The/DT
 stock/NN
 ,/,

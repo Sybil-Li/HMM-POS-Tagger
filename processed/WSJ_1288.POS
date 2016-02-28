@@ -78,6 +78,7 @@ finishing/VBG
 Sept./NNP
 30/CD
 ./.
+As/IN
 a/DT
 result/NN
 ,/,
@@ -254,6 +255,7 @@ preceding/VBG
 six-month/JJ
 term/NN
 ./.
+Operating/VBG
 profit/NN
 rose/VBD
 5.5/CD
@@ -362,6 +364,7 @@ from/IN
 billion/CD
 yen/NN
 ./.
+Operating/VBG
 profit/NN
 rose/VBD
 4/CD

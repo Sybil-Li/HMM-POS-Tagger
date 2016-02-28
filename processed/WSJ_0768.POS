@@ -65,6 +65,7 @@ Boston/NNP
 research/NN
 firm/NN
 ./.
+In/IN
 the/DT
 past/JJ
 two/CD
@@ -362,6 +363,7 @@ will/MD
 be/VB
 slight/JJ
 ./.
+But/CC
 tremors/NNS
 are/VBP
 likely/JJ
@@ -516,6 +518,7 @@ money/NN
 market/NN
 funds/NNS
 ./.
+``/``
 You/PRP
 get/VBP
 a/DT
@@ -671,6 +674,7 @@ about/IN
 15/CD
 %/NN
 ./.
+At/IN
 the/DT
 $/$
 932/CD
@@ -932,6 +936,7 @@ have/VBP
 so/RB
 far/RB
 ./.
+Says/VBZ
 Michael/NNP
 Hirsch/NNP
 ,/,
@@ -964,3 +969,4 @@ to/TO
 go/VB
 off/RP
 ./.
+''/''

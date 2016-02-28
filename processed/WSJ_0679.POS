@@ -18,6 +18,7 @@ common/JJ
 shares/NNS
 outstanding/JJ
 ./.
+In/IN
 a/DT
 Securities/NNP
 and/CC
@@ -124,6 +125,7 @@ of/IN
 voice-processing/JJ
 systems/NNS
 ./.
+According/VBG
 to/TO
 the/DT
 filing/NN

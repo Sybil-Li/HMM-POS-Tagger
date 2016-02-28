@@ -1,3 +1,4 @@
+On/IN
 an/DT
 office/NN
 wall/NN
@@ -50,6 +51,7 @@ against/IN
 Manuel/NNP
 Noriega/NNP
 ./.
+So/RB
 how/WRB
 did/VBD
 a/DT
@@ -524,6 +526,7 @@ lawyers/NNS
 he/PRP
 says/VBZ
 ./.
+But/CC
 even/RB
 Mr./NNP
 Boren/NNP
@@ -555,6 +558,7 @@ a/DT
 consensus/NN
 ./.
 ''/''
+So/RB
 what/WP
 does/VBZ
 consensus/NN
@@ -847,6 +851,7 @@ force/NN
 he/PRP
 says/VBZ
 ./.
+Maybe/RB
 --/:
 if/IN
 every/DT

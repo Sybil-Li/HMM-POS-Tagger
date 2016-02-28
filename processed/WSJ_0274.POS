@@ -139,6 +139,7 @@ few/JJ
 years/NNS
 back/RB
 ./.
+``/``
 You/PRP
 ca/MD
 n't/RB
@@ -346,6 +347,7 @@ next/JJ
 few/JJ
 years/NNS
 ./.
+``/``
 Last/JJ
 year/NN
 ,/,
@@ -410,6 +412,7 @@ on/IN
 mortgage/NN
 securities/NNS
 ./.
+At/IN
 the/DT
 moment/NN
 ,/,
@@ -579,6 +582,7 @@ of/IN
 similar/JJ
 maturities/NNS
 ./.
+But/CC
 there/EX
 is/VBZ
 a/DT
@@ -657,6 +661,7 @@ mortgage/NN
 securities/NNS
 carried/VBD
 ./.
+``/``
 Two/CD
 or/CC
 three/CD
@@ -694,6 +699,7 @@ by/IN
 prepayment/NN
 ./.
 ''/''
+Compounding/VBG
 the/DT
 trouble/NN
 to/TO
@@ -753,6 +759,7 @@ the/DT
 mortgage/NN
 securities/NNS
 ./.
+But/CC
 they/PRP
 did/VBD
 n't/RB
@@ -831,6 +838,7 @@ foreigners/NNS
 this/DT
 year/NN
 ./.
+In/IN
 addition/NN
 ,/,
 further/JJ

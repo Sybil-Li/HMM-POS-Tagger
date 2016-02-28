@@ -20,6 +20,7 @@ the/DT
 stock/NN
 market/NN
 ./.
+Now/RB
 ,/,
 stock/NN
 prices/NNS
@@ -97,6 +98,7 @@ setting/VBG
 new/JJ
 highs/NNS
 ./.
+But/CC
 why/WRB
 should/MD
 an/DT
@@ -153,6 +155,7 @@ in/IN
 investor/NN
 psychology/NN
 ./.
+``/``
 If/IN
 this/DT
 had/VBD
@@ -383,6 +386,7 @@ could/MD
 be/VB
 done/VBN
 ./.
+``/``
 There/EX
 will/MD
 still/RB
@@ -471,6 +475,7 @@ good/JJ
 fit/NN
 ./.
 ''/''
+And/CC
 even/RB
 without/IN
 deals/NNS
@@ -524,6 +529,7 @@ a/DT
 record/JJ
 high/NN
 ./.
+``/``
 Those/DT
 stocks/NNS
 are/VBP
@@ -543,6 +549,7 @@ up/RB
 he/PRP
 says/VBZ
 ./.
+Even/RB
 the/DT
 volatility/NN
 created/VBN
@@ -802,6 +809,7 @@ bond/NN
 market/NN
 ./.
 ''/''
+But/CC
 he/PRP
 figures/VBZ
 that/IN
@@ -904,6 +912,7 @@ forge/VB
 new/JJ
 highs/NNS
 ./.
+Maybe/RB
 ,/,
 maybe/RB
 not/RB
@@ -1072,6 +1081,7 @@ as/RB
 high/JJ
 ./.
 ''/''
+But/CC
 that/DT
 's/VBZ
 not/RB
@@ -1153,6 +1163,7 @@ is/VBZ
 getting/VBG
 worse/JJR
 ./.
+``/``
 There/EX
 are/VBP
 a/DT
@@ -1184,6 +1195,7 @@ prices/NNS
 she/PRP
 says/VBZ
 ./.
+With/IN
 all/PDT
 this/DT
 ,/,
@@ -1476,6 +1488,7 @@ to/TO
 13.4/CD
 %/NN
 ./.
+Elsewhere/RB
 in/IN
 the/DT
 oil/NN

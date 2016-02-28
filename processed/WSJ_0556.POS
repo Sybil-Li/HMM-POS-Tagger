@@ -108,6 +108,7 @@ department/NN
 store/NN
 operations/NNS
 ./.
+For/IN
 the/DT
 year/NN
 ,/,
@@ -279,6 +280,7 @@ $/$
 728.5/CD
 million/CD
 ./.
+As/IN
 of/IN
 Feb./NNP
 1/CD
@@ -314,6 +316,7 @@ specialty/NN
 stores/NNS
 nationwide/JJ
 ./.
+Although/IN
 management/NN
 led/VBD
 a/DT
@@ -379,6 +382,7 @@ of/IN
 long-term/JJ
 debt/NN
 ./.
+In/IN
 a/DT
 letter/NN
 to/TO
@@ -515,6 +519,7 @@ British/JJ
 tobacco/NN
 conglomerate/NN
 ./.
+In/IN
 his/PRP$
 letter/NN
 ,/,
@@ -572,6 +577,7 @@ on/IN
 Union/NNP
 Square/NNP
 ./.
+``/``
 The/DT
 volume/NN
 and/CC

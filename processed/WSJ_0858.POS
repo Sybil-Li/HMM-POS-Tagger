@@ -158,6 +158,7 @@ for/IN
 controversial/JJ
 proposals/NNS
 ./.
+To/TO
 avoid/VB
 missing/VBG
 Social/NNP
@@ -407,6 +408,7 @@ to/TO
 do/VB
 either/DT
 ./.
+But/CC
 Bush/NNP
 's/POS
 handling/NN
@@ -931,3 +933,4 @@ n't/RB
 copy/VB
 ours/PRP
 ./.
+''/''

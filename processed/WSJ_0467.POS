@@ -128,6 +128,7 @@ and/CC
 TV/NNP
 Guide/NNP
 ./.
+But/CC
 the/DT
 transaction/NN
 is/VBZ
@@ -383,6 +384,7 @@ Mr./NNP
 Peladeau/NNP
 says/VBZ
 ./.
+More/RBR
 recently/RB
 ,/,
 some/DT
@@ -479,6 +481,7 @@ Presse/NNP
 strike/NN
 ended/VBD
 ./.
+Still/RB
 ,/,
 Mr./NNP
 Peladeau/NNP
@@ -647,6 +650,7 @@ and/CC
 paper/NN
 concern/NN
 ./.
+In/IN
 yesterday/NN
 's/POS
 accord/NN
@@ -962,6 +966,7 @@ another/DT
 U.S./NNP
 purchase/NN
 ./.
+In/IN
 London/NNP
 trading/NN
 yesterday/NN
@@ -981,6 +986,7 @@ $/$
 3.41/CD
 )/)
 ./.
+In/IN
 Montreal/NNP
 ,/,
 Quebecor/NNP

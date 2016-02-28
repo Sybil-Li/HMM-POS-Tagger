@@ -162,6 +162,7 @@ views/NNS
 Excerpts/NNS
 follow/VBP
 :/:
+On/IN
 China/NNP
 's/POS
 turmoil/NN
@@ -276,6 +277,7 @@ of/IN
 Asia/NNP
 ./.
 ''/''
+On/IN
 similarities/NNS
 between/IN
 China/NNP
@@ -331,6 +333,7 @@ begin/VB
 with/RP
 ./.
 ''/''
+Asked/VBN
 if/IN
 the/DT
 Soviets/NNPS
@@ -463,6 +466,7 @@ to/TO
 improve/VB
 considerably/RB
 ./.
+On/IN
 Asia-Pacific/NNP
 prosperity/NN
 :/:
@@ -574,6 +578,7 @@ zero-sum/JJ
 game/NN
 ./.
 ''/''
+Asked/VBN
 about/IN
 the/DT
 possibility/NN
@@ -635,6 +640,7 @@ not/RB
 possible/JJ
 ./.
 ''/''
+On/IN
 U.S.-Japan/JJ
 relations/NNS
 :/:
@@ -805,6 +811,7 @@ their/PRP$
 farmers/NNS
 ./.
 ''/''
+On/IN
 U.S./NNP
 military/JJ
 presence/NN
@@ -925,6 +932,7 @@ do/VB
 it/PRP
 ./.
 ''/''
+On/IN
 U.S.-Philippine/JJ
 relations/NNS
 :/:
@@ -1149,6 +1157,7 @@ or/CC
 10/CD
 years/NNS
 ./.
+On/IN
 military/JJ
 alternatives/NNS
 if/IN
@@ -1198,6 +1207,7 @@ the/DT
 Indians/NNPS
 ./.
 ''/''
+On/IN
 economic/JJ
 consequences/NNS
 of/IN
@@ -1279,6 +1289,7 @@ for/IN
 granted/VBN
 ./.
 ''/''
+On/IN
 Cambodia/NNP
 :/:
 ``/``
@@ -1338,6 +1349,7 @@ He/PRP
 ca/MD
 n't/RB
 ./.
+``/``
 What/WP
 is/VBZ
 the/DT

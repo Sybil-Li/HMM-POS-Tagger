@@ -84,6 +84,7 @@ cents/NNS
 a/DT
 share/NN
 ./.
+In/IN
 over-the-counter/JJ
 trading/NN
 yesterday/NN
@@ -140,6 +141,7 @@ within/IN
 18/CD
 months/NNS
 ./.
+Initially/RB
 ,/,
 the/DT
 company/NN

@@ -140,6 +140,7 @@ on/IN
 fourth-quarter/NN
 results/NNS
 ./.
+In/IN
 New/NNP
 York/NNP
 Stock/NNP
@@ -158,6 +159,7 @@ down/RB
 50/CD
 cents/NNS
 ./.
+In/IN
 the/DT
 latest/JJS
 quarter/NN
@@ -215,6 +217,7 @@ nearly/RB
 three/CD
 years/NNS
 ./.
+However/RB
 ,/,
 Aetna/NNP
 's/POS
@@ -274,6 +277,7 @@ million/CD
 tax/NN
 credit/NN
 ./.
+In/IN
 the/DT
 nine/CD
 months/NNS

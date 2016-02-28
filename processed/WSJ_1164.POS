@@ -60,6 +60,7 @@ ungentlemanly/JJ
 ,/,
 mergers/NNS
 ./.
+On/IN
 July/NNP
 18/CD
 ,/,
@@ -124,6 +125,7 @@ company/NN
 is/VBZ
 called/VBN
 ./.
+``/``
 ESB/NNP
 is/VBZ
 aware/JJ

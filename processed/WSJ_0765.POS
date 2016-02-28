@@ -227,6 +227,7 @@ of/IN
 his/PRP$
 staff/NN
 ./.
+Now/RB
 ,/,
 as/IN
 election/NN
@@ -350,6 +351,7 @@ into/IN
 his/PRP$
 campaign/NN
 ?/.
+After/IN
 his/PRP$
 decisive/JJ
 primary/NN
@@ -397,6 +399,7 @@ as/IN
 a/DT
 candidate/NN
 ./.
+But/CC
 Mr./NNP
 Dinkins/NNP
 has/VBZ
@@ -463,6 +466,7 @@ and/CC
 percentage/NN
 points/NNS
 ./.
+In/IN
 an/DT
 interview/NN
 with/IN
@@ -671,6 +675,7 @@ already/RB
 under-serviced/JJ
 neighborhoods/NNS
 ./.
+``/``
 He/PRP
 is/VBZ
 going/VBG
@@ -715,6 +720,7 @@ any/DT
 money/NN
 ./.
 ''/''
+By/RB
 and/CC
 large/RB
 ,/,
@@ -962,6 +968,7 @@ a/DT
 day/NN
 ./.
 )/)
+But/CC
 even/RB
 in/IN
 his/PRP$
@@ -1344,6 +1351,7 @@ at/IN
 the/DT
 time/NN
 ./.
+Later/RB
 ,/,
 Mr./NNP
 Dinkins/NNP
@@ -1909,6 +1917,7 @@ Mr./NNP
 Lynch/NNP
 says/VBZ
 ./.
+On/IN
 some/DT
 occasions/NNS
 when/WRB
@@ -1991,6 +2000,7 @@ with/IN
 city/NN
 employees/NNS
 ./.
+Then/RB
 ,/,
 two/CD
 days/NNS
@@ -2060,6 +2070,7 @@ Dinkins/NNP
 's/POS
 proposal/NN
 ./.
+While/IN
 his/PRP$
 public/JJ
 statements/NNS
@@ -2152,6 +2163,7 @@ from/IN
 the/DT
 city/NN
 ./.
+And/CC
 he/PRP
 favors/VBZ
 a/DT
@@ -2205,6 +2217,7 @@ across/IN
 the/DT
 Hudson/NNP
 ./.
+But/CC
 Mr./NNP
 Dinkins/NNP
 's/POS
@@ -2436,6 +2449,7 @@ more/RBR
 anti-development/JJ
 flavor/NN
 ./.
+But/CC
 Lincoln/NNP
 Center/NNP
 President/NNP
@@ -2555,6 +2569,7 @@ Leventhal/NNP
 and/CC
 Gliedman/NNP
 ./.
+Then/RB
 there/EX
 are/VBP
 Mr./NNP
@@ -2644,6 +2659,7 @@ Harlem/NNP
 factions/NNS
 ./.
 )/)
+``/``
 We/PRP
 know/VBP
 there/EX
@@ -2732,6 +2748,7 @@ a/DT
 pragmatist/NN
 ./.
 ''/''
+But/CC
 Mr./NNP
 Dinkins/NNP
 's/POS
@@ -2822,6 +2839,7 @@ of/IN
 the/DT
 head/NN
 ./.
+Despite/IN
 many/JJ
 doubts/NNS
 about/IN
@@ -3012,3 +3030,4 @@ for/IN
 being/VBG
 David/NNP
 ./.
+''/''

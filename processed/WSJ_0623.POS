@@ -65,6 +65,7 @@ defaults/NNS
 last/JJ
 year/NN
 ./.
+Then/RB
 ,/,
 by/IN
 voice/NN
@@ -99,6 +100,7 @@ Senators/NNS
 gave/VBD
 themselves/PRP
 :/:
+For/IN
 construction/NN
 in/IN
 West/NNP

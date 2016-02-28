@@ -85,6 +85,7 @@ utilities/NNS
 or/CC
 golds/NNS
 ./.
+At/IN
 first/JJ
 glance/NN
 ,/,
@@ -138,6 +139,7 @@ rising/VBG
 slowly/RB
 )/)
 ./.
+But/CC
 the/DT
 two/CD
 groups/NNS
@@ -192,6 +194,7 @@ n't/RB
 know/VB
 what/WP
 ./.
+If/IN
 the/DT
 stock/NN
 market/NN
@@ -241,6 +244,7 @@ the/DT
 paper/NN
 industry/NN
 ./.
+Still/RB
 ,/,
 a/DT
 lot/NN
@@ -301,6 +305,7 @@ still/RB
 reverberating/VBG
 ./.
 ''/''
+Certainly/RB
 ,/,
 the/DT
 Oct./NNP
@@ -424,6 +429,7 @@ pretty/RB
 bad/RB
 ./.
 ''/''
+``/``
 If/IN
 the/DT
 Fed/NNP
@@ -464,6 +470,7 @@ with/IN
 Prudential-Bache/NNP
 Securities/NNP
 ./.
+With/IN
 this/DT
 sort/NN
 of/IN
@@ -939,6 +946,7 @@ d'Alene/NNP
 Mines/NNP
 Corp/NNP
 ./.
+Nevertheless/RB
 ,/,
 Mr./NNP
 Stovall/NNP
@@ -1076,6 +1084,7 @@ Public/NNP
 Utilities/NNP
 Corp/NNP
 ./.
+As/IN
 for/IN
 gold/NN
 ,/,

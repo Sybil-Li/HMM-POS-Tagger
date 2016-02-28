@@ -1,3 +1,4 @@
+For/IN
 a/DT
 company/NN
 that/WDT
@@ -64,6 +65,7 @@ Travel/NNP
 Development/NNP
 Co/NNP
 ./.
+Since/IN
 news/NN
 of/IN
 Northrop/NNP
@@ -133,6 +135,7 @@ Tigershark/NNP
 jet/NN
 fighter/NN
 ./.
+Now/RB
 ,/,
 a/DT
 document/NN
@@ -365,6 +368,7 @@ n't/RB
 immediately/RB
 available/JJ
 ./.
+In/IN
 a/DT
 May/MD
 8/CD
@@ -431,6 +435,7 @@ the/DT
 hotel/NN
 project/NN
 ./.
+But/CC
 Asia/NNP
 Culture/NNP
 Travel/NNP
@@ -624,6 +629,7 @@ Yang/NNP
 Express/NNP
 garage/NN
 ./.
+Though/IN
 it/PRP
 is/VBZ
 typical/JJ
@@ -673,6 +679,7 @@ to/TO
 do/VB
 it/PRP
 ./.
+``/``
 I/PRP
 first/RB
 thought/VBD
@@ -737,6 +744,7 @@ to/TO
 contact/VB
 ./.
 ''/''
+In/IN
 May/NNP
 1984/CD
 ,/,
@@ -809,6 +817,7 @@ by/IN
 Northrop/NNP
 ./.
 ''/''
+But/CC
 Northrop/NNP
 declined/VBD
 ,/,
@@ -995,6 +1004,7 @@ at/IN
 the/DT
 time/NN
 ./.
+On/IN
 Aug./NNP
 9/CD
 ,/,
@@ -1095,6 +1105,7 @@ cancer/NN
 in/IN
 1985/CD
 ./.
+Meanwhile/RB
 ,/,
 Northrop/NNP
 's/POS
@@ -1139,6 +1150,7 @@ a/DT
 cover-up/NN
 began/VBD
 ./.
+First/RB
 ,/,
 the/DT
 brief/NN
@@ -1301,6 +1313,7 @@ Park/NNP
 bank/NN
 account/NN
 ./.
+But/CC
 ,/,
 the/DT
 filing/NN
@@ -1427,6 +1440,7 @@ n't/RB
 be/VB
 located/VBN
 ./.
+In/IN
 early/RB
 1987/CD
 ,/,
@@ -1533,3 +1547,4 @@ highest/JJS
 lawful/JJ
 rate/NN
 ./.
+''/''

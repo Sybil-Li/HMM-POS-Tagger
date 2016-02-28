@@ -146,6 +146,7 @@ before/IN
 an/DT
 indictment/NN
 ./.
+If/IN
 the/DT
 government/NN
 succeeds/VBZ
@@ -212,6 +213,7 @@ unrelated/JJ
 to/TO
 drugs/NNS
 ./.
+``/``
 The/DT
 people/NNS
 who/WP
@@ -341,6 +343,7 @@ assets/NNS
 before/IN
 trial/NN
 ./.
+According/VBG
 to/TO
 individuals/NNS
 familiar/JJ
@@ -477,6 +480,7 @@ on/IN
 the/DT
 matter/NN
 ./.
+In/IN
 Newark/NNP
 ,/,
 U.S./NNP
@@ -734,6 +738,7 @@ seizure/NN
 are/VBP
 made/VBN
 ./.
+Still/RB
 ,/,
 criminal/JJ
 defense/NN

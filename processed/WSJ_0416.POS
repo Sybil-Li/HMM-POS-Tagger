@@ -93,6 +93,7 @@ Kentucky/NNP
 Hospital/NNP
 Association/NNP
 ./.
+But/CC
 according/VBG
 to/TO
 David/NNP
@@ -114,6 +115,7 @@ and/CC
 raises/VBZ
 prices/NNS
 ./.
+If/IN
 the/DT
 Legislature/NNP
 does/VBZ
@@ -292,6 +294,7 @@ is/VBZ
 $/$
 4,900/CD
 ./.
+Meanwhile/RB
 ,/,
 another/DT
 hospital/NN
@@ -375,6 +378,7 @@ are/VBP
 needed/VBN
 most/RBS
 ./.
+Now/RB
 there/EX
 's/VBZ
 a/DT
@@ -433,6 +437,7 @@ favored/VBD
 solo/NN
 practice/NN
 ./.
+``/``
 Ten/CD
 years/NNS
 ago/RB
@@ -619,6 +624,7 @@ Roommates/NNS
 Trim/VBP
 Hospital/NN
 Bills/NNS
+WHEN/WRB
 Catherine/NNP
 Bobar/NNP
 spent/VBD
@@ -648,6 +654,7 @@ like/IN
 most/JJS
 patients/NNS
 ./.
+But/CC
 unlike/IN
 most/JJS
 patients/NNS

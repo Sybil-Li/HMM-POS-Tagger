@@ -1,3 +1,4 @@
+As/IN
 expected/VBN
 ,/,
 First/NNP
@@ -64,6 +65,7 @@ worsening/VBG
 real-estate/JJ
 market/NN
 ./.
+In/IN
 yesterday/NN
 's/POS
 report/NN

@@ -1,3 +1,4 @@
+Buying/VBG
 51/CD
 %/NN
 of/IN
@@ -38,6 +39,7 @@ tony/JJ
 urban/JJ
 property/NN
 ./.
+But/CC
 in/IN
 another/DT
 sense/NN
@@ -159,6 +161,7 @@ be/VB
 positive/JJ
 ./.
 ''/''
+But/CC
 some/DT
 Japanese/JJ
 government/NN
@@ -212,6 +215,7 @@ Pictures/NNPS
 Entertainment/NNP
 Inc/NNP
 ./.
+``/``
 Officially/RB
 ,/,
 yes/UH
@@ -245,6 +249,7 @@ particular/JJ
 moment/NN
 ./.
 ''/''
+During/IN
 the/DT
 past/JJ
 year/NN
@@ -269,6 +274,7 @@ estate/NN
 purchases/NNS
 in/IN
 the/DT
+Since/IN
 the/DT
 mid-1980s/NNS
 ,/,
@@ -362,6 +368,7 @@ Tower/NNP
 last/JJ
 year/NN
 ./.
+Altogether/RB
 ,/,
 annual/JJ
 Japanese/JJ
@@ -481,6 +488,7 @@ Japan-U.S/NNP
 Business/NNP
 Council/NNP
 ./.
+But/CC
 to/TO
 Mitsubishi/NNP
 Estate/NNP
@@ -574,6 +582,7 @@ on/IN
 the/DT
 board/NN
 ./.
+``/``
 We/PRP
 'll/MD
 continue/VB
@@ -952,6 +961,7 @@ $/$
 million/CD
 )/)
 ./.
+For/IN
 Mitsubishi/NNP
 Estate/NNP
 ,/,
@@ -991,6 +1001,7 @@ the/DT
 Exxon/NNP
 Building/NNP
 ./.
+``/``
 Japanese/JJ
 companies/NNS
 need/VBP
@@ -1161,6 +1172,7 @@ bonds/NNS
 or/CC
 warrants/NNS
 ./.
+Meanwhile/RB
 ,/,
 at/IN
 home/NN

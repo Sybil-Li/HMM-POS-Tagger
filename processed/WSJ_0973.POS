@@ -62,6 +62,7 @@ next/JJ
 three/CD
 years/NNS
 ./.
+In/IN
 1988/CD
 ,/,
 the/DT
@@ -84,6 +85,7 @@ $/$
 12.49/CD
 billion/CD
 ./.
+Since/IN
 1983/CD
 ,/,
 Westinghouse/NNP
@@ -107,6 +109,7 @@ acquiring/VBG
 55/CD
 businesses/NNS
 ./.
+In/IN
 the/DT
 past/JJ
 20/CD
@@ -254,6 +257,7 @@ of/IN
 8.5/CD
 %/NN
 ./.
+While/IN
 Westinghouse/NNP
 has/VBZ
 n't/RB

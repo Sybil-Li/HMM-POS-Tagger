@@ -1,3 +1,4 @@
+At/IN
 a/DT
 time/NN
 when/WRB
@@ -33,6 +34,7 @@ attract/VB
 much/JJ
 attention/NN
 ./.
+Unless/IN
 ,/,
 of/IN
 course/NN
@@ -46,6 +48,7 @@ by/IN
 the/DT
 Rothschilds/NNPS
 ./.
+After/IN
 an/DT
 88-year/JJ
 absence/NN
@@ -85,6 +88,7 @@ in/IN
 Town/NNP
 Hall/NNP
 ./.
+Like/IN
 other/JJ
 foreign/JJ
 banks/NNS
@@ -138,6 +142,7 @@ to/TO
 the/DT
 decision/NN
 ./.
+In/IN
 1796/CD
 ,/,
 Mayer/NNP
@@ -295,6 +300,7 @@ the/DT
 bank/NN
 ./.
 ''/''
+Much/JJ
 of/IN
 the/DT
 family/NN
@@ -459,6 +465,7 @@ Rothschild/NNP
 palace/NN
 ./.
 ''/''
+In/IN
 the/DT
 immediate/JJ
 postwar/JJ
@@ -480,6 +487,7 @@ return/NN
 to/TO
 Frankfurt/NNP
 ./.
+``/``
 For/IN
 a/DT
 member/NN
@@ -537,6 +545,7 @@ Banque/NNP
 in/FW
 Paris/NNP
 ./.
+Indeed/RB
 ,/,
 the/DT
 competition/NN
@@ -783,6 +792,7 @@ publish/VB
 that/DT
 figure/NN
 ./.
+In/IN
 Europe/NNP
 ,/,
 the/DT
@@ -814,6 +824,7 @@ a/DT
 niche/NN
 player/NN
 ./.
+``/``
 Obviously/RB
 ,/,
 there/EX
@@ -931,6 +942,7 @@ investment/NN
 banks/NNS
 require/VBP
 ./.
+``/``
 But/CC
 we/PRP
 do/VBP
@@ -959,3 +971,4 @@ very/RB
 rich/JJ
 parents/NNS
 ./.
+''/''

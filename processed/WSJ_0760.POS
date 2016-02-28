@@ -32,6 +32,7 @@ $/$
 a/DT
 share/NN
 ./.
+Operating/NN
 profit/NN
 for/IN
 the/DT
@@ -105,6 +106,7 @@ $/$
 340.7/CD
 million/CD
 ./.
+Operating/NN
 profit/NN
 in/IN
 the/DT
@@ -205,6 +207,7 @@ of/IN
 Eastman/NNP
 Christensen/NNP
 ./.
+For/IN
 the/DT
 nine/CD
 months/NNS

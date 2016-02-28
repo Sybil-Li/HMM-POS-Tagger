@@ -39,6 +39,7 @@ around/IN
 its/PRP$
 stores/NNS
 ./.
+As/IN
 part/NN
 of/IN
 the/DT
@@ -260,6 +261,7 @@ soda/NN
 or/CC
 beer/NN
 ./.
+``/``
 There/EX
 are/VBP
 an/DT
@@ -377,6 +379,7 @@ to/TO
 follow/VB
 suit/NN
 ./.
+For/IN
 instance/NN
 ,/,
 Southland/NNP
@@ -488,6 +491,7 @@ that/WDT
 are/VBP
 n't/RB
 ./.
+To/TO
 promote/VB
 its/PRP$
 new/JJ

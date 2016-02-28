@@ -30,6 +30,7 @@ Frederick/NNP
 W./NNP
 Smith/NNP
 ./.
+In/IN
 the/DT
 National/NNP
 Mediation/NNP
@@ -96,6 +97,7 @@ $/$
 880/CD
 million/CD
 ./.
+``/``
 We/PRP
 're/VBP
 stunned/VBN
@@ -195,6 +197,7 @@ gung-ho/JJ
 customer-driven/JJ
 culture/NN
 ./.
+``/``
 The/DT
 company/NN
 feels/VBZ
@@ -255,6 +258,7 @@ be/VB
 interviewed/VBN
 yesterday/NN
 ./.
+In/IN
 Washington/NNP
 ,/,
 ALPA/NNP
@@ -382,6 +386,7 @@ said/VBD
 Mr./NNP
 Barnhardt/NNP
 ./.
+As/IN
 for/IN
 the/DT
 veteran/JJ
@@ -442,6 +447,7 @@ former/JJ
 Tiger/NNP
 pilots/NNS
 ./.
+Depending/VBG
 on/IN
 how/WRB
 a/DT
@@ -475,6 +481,7 @@ and/CC
 stock/NN
 clerks/NNS
 ./.
+In/IN
 composite/JJ
 trading/NN
 yesterday/NN

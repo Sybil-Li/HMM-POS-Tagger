@@ -72,6 +72,7 @@ for/IN
 every/DT
 buyer/NN
 ./.
+``/``
 Every/DT
 day/NN
 we/PRP
@@ -101,6 +102,7 @@ this/DT
 supply/NN
 ./.
 ''/''
+As/IN
 a/DT
 result/NN
 ,/,
@@ -130,6 +132,7 @@ than/IN
 two/CD
 years/NNS
 ./.
+``/``
 There/EX
 is/VBZ
 incredible/JJ
@@ -205,6 +208,7 @@ exceeds/VBZ
 7.50/CD
 %/NN
 ./.
+At/IN
 this/DT
 week/NN
 's/POS
@@ -325,6 +329,7 @@ during/IN
 the/DT
 period/NN
 ./.
+But/CC
 while/IN
 analysts/NNS
 say/VBP
@@ -415,6 +420,7 @@ spokeswoman/NN
 at/IN
 Chemical/NNP
 ./.
+In/IN
 recent/JJ
 weeks/NNS
 ,/,
@@ -589,6 +595,7 @@ demand/NN
 tapers/VBZ
 off/RP
 ./.
+``/``
 There/EX
 is/VBZ
 just/RB
@@ -751,6 +758,7 @@ their/PRP$
 call/NN
 date/NN
 ./.
+But/CC
 traders/NNS
 said/VBD
 the/DT
@@ -888,6 +896,7 @@ revenue/NN
 is/VBZ
 falling/VBG
 ./.
+``/``
 The/DT
 city/NN
 has/VBZ
@@ -931,6 +940,7 @@ Shearson/NNP
 Lehman/NNP
 Hutton/NNP
 ./.
+But/CC
 he/PRP
 thinks/VBZ
 investors/NNS
@@ -1040,6 +1050,7 @@ from/IN
 7.88/CD
 %/NN
 ./.
+Late/RB
 Thursday/NNP
 ,/,
 the/DT
@@ -1089,6 +1100,7 @@ cash/NN
 management/NN
 bills/NNS
 ./.
+Instead/RB
 ,/,
 the/DT
 Treasury/NNP
@@ -1138,6 +1150,7 @@ instead/RB
 of/IN
 Thursday/NNP
 ./.
+By/IN
 moving/VBG
 the/DT
 settlement/NN
@@ -1346,9 +1359,11 @@ Treasury/NNP
 bond/NN
 issue/NN
 ./.
+In/IN
 other/JJ
 markets/NNS
 :/:
+--/:
 The/DT
 junk/NN
 bonds/NNS
@@ -1398,6 +1413,7 @@ by/IN
 one/CD
 point/NN
 ./.
+``/``
 It/PRP
 shows/VBZ
 that/IN
@@ -1615,6 +1631,7 @@ to/TO
 1\/2/CD
 point/NN
 ./.
+--/:
 Mortgage/NN
 securities/NNS
 fell/VBD

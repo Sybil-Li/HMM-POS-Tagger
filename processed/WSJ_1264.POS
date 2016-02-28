@@ -27,6 +27,7 @@ launching/VBG
 new/JJ
 publications/NNS
 ./.
+At/IN
 the/DT
 American/NNP
 Magazine/NNP
@@ -129,6 +130,7 @@ Illustrated/NNP
 for/IN
 Kids/NNPS
 ./.
+Over/IN
 the/DT
 past/JJ
 four/CD
@@ -198,6 +200,7 @@ declining/VBG
 industry/NN
 ./.
 ''/''
+And/CC
 despite/IN
 the/DT
 recent/JJ
@@ -290,6 +293,7 @@ the/DT
 newspaper/NN
 industry/NN
 ./.
+Though/IN
 some/DT
 magazines/NNS
 are/VBP
@@ -372,6 +376,7 @@ only/JJ
 subscription/NN
 revenue/NN
 ./.
+Meanwhile/RB
 ,/,
 American/NNP
 Health/NNP
@@ -470,6 +475,7 @@ Mr./NNP
 Lipstein/NNP
 said/VBD
 ./.
+``/``
 Magazines/NNS
 can/MD
 no/RB
@@ -682,6 +688,7 @@ he/PRP
 is/VBZ
 considering/VBG
 ./.
+``/``
 The/DT
 magazines/NNS
 I/PRP
@@ -724,3 +731,4 @@ next/JJ
 hot/JJ
 magazines/NNS
 ./.
+''/''

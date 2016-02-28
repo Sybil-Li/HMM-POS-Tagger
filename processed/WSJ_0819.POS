@@ -45,6 +45,7 @@ on/IN
 old/JJ
 Vienna/NNP
 ./.
+``/``
 Measure/NN
 for/IN
 Measure/NN
@@ -151,6 +152,7 @@ Mr./NNP
 Boyd/NNP
 's/POS
 ./.
+In/IN
 the/DT
 play/NN
 ,/,
@@ -211,6 +213,7 @@ Claudio/NNP
 to/TO
 death/NN
 ./.
+When/WRB
 ,/,
 however/RB
 ,/,
@@ -271,6 +274,7 @@ brother/NN
 's/POS
 life/NN
 ./.
+Meanwhile/RB
 ,/,
 the/DT
 Duke/NNP
@@ -319,6 +323,7 @@ for/IN
 all/DT
 concerned/VBN
 ./.
+For/IN
 the/DT
 Alley/NNP
 production/NN
@@ -374,6 +379,7 @@ on/IN
 the/DT
 platform/NN
 ./.
+In/IN
 the/DT
 play/NN
 's/POS
@@ -474,6 +480,7 @@ energy/NN
 and/CC
 intelligence/NN
 ./.
+At/IN
 such/JJ
 moments/NNS
 Mr./NNP
@@ -494,6 +501,7 @@ interpreter/NN
 of/IN
 Shakespeare/NNP
 ./.
+When/WRB
 ,/,
 however/RB
 ,/,
@@ -571,6 +579,7 @@ imagination/NN
 and/CC
 taste/NN
 ./.
+In/IN
 his/PRP$
 ``/``
 Measure/NN
@@ -636,6 +645,7 @@ in/IN
 the/DT
 convent/NN
 ./.
+When/WRB
 Claudio/NNP
 is/VBZ
 arrested/VBN
@@ -708,6 +718,7 @@ to/TO
 undulate/VB
 lasciviously/RB
 ./.
+Meanwhile/RB
 ,/,
 the/DT
 pimp/NN
@@ -799,6 +810,7 @@ Boyd/NNP
 's/POS
 ability/NN
 ./.
+Despite/IN
 the/DT
 excesses/NNS
 ,/,
@@ -917,6 +929,7 @@ undistinguished/JJ
 and/CC
 unimaginative/JJ
 ./.
+Now/RB
 the/DT
 Alley/NNP
 has/VBZ
@@ -990,6 +1003,7 @@ $/$
 cash/NN
 reserve/NN
 ./.
+Admittedly/RB
 last/JJ
 season/NN
 's/POS

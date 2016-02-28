@@ -1,3 +1,4 @@
+When/WRB
 Michael/NNP
 S./NNP
 Perry/NNP
@@ -263,6 +264,7 @@ up/IN
 the/DT
 industry/NN
 ./.
+For/IN
 now/RB
 ,/,
 both/DT
@@ -396,6 +398,7 @@ them/PRP
 with/IN
 consumers/NNS
 ./.
+``/``
 Just/RB
 because/IN
 upscale/JJ
@@ -443,6 +446,7 @@ little/JJ
 jars/NNS
 ./.
 ''/''
+In/IN
 contrast/NN
 to/TO
 the/DT
@@ -1125,6 +1129,7 @@ colors/NNS
 and/CC
 fabrics/NNS
 ./.
+That/DT
 's/VBZ
 led/VBN
 industry/NN
@@ -1186,6 +1191,7 @@ fewer/JJR
 gimmicks/NNS
 ./.
 ''/''
+But/CC
 success/NN
 for/IN
 Unilever/NNP

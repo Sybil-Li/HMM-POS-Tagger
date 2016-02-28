@@ -28,6 +28,7 @@ Christian/NNP
 Democratic/NNP
 Union/NNP
 ./.
+With/IN
 ballots/NNS
 from/IN
 most/JJS
@@ -59,6 +60,7 @@ the/DT
 key/JJ
 districts/NNS
 ./.
+With/IN
 many/JJ
 rural/JJ
 districts/NNS
@@ -95,6 +97,7 @@ posted/VBD
 mixed/VBN
 results/NNS
 ./.
+Headed/VBN
 by/IN
 a/DT
 former/JJ
@@ -134,6 +137,7 @@ and/CC
 North-Rhine/NNP
 Westphalia/NNP
 ./.
+With/IN
 West/NNP
 German/NNP
 unemployment/NN
@@ -249,6 +253,7 @@ not/RB
 British/JJ
 citizens/NNS
 ./.
+``/``
 If/IN
 we/PRP
 're/VBP
@@ -368,6 +373,7 @@ in/IN
 Los/NNP
 Angeles/NNP
 ./.
+In/IN
 a/DT
 sign/NN
 of/IN
@@ -757,6 +763,7 @@ down/IN
 to/TO
 80/CD
 ./.
+About/IN
 8,000/CD
 National/NNP
 Union/NNP
@@ -876,6 +883,7 @@ of/IN
 computer/NN
 fraud/NN
 ./.
+Since/IN
 the/DT
 first/JJ
 fraud/NN
@@ -971,6 +979,7 @@ People/NNPS
 Daily/NNP
 said/VBD
 ./.
+Besides/IN
 money/NN
 ,/,
 criminals/NNS

@@ -350,6 +350,7 @@ defense/NN
 strategy/NN
 ./.
 ''/''
+How/WRB
 can/MD
 we/PRP
 turn/VB
@@ -712,6 +713,7 @@ $/$
 48/CD
 billion/CD
 ./.
+By/IN
 adding/VBG
 the/DT
 negative/JJ
@@ -986,6 +988,7 @@ $/$
 169/CD
 billion/CD
 ./.
+Finally/RB
 ,/,
 Scenario/NN
 4/CD

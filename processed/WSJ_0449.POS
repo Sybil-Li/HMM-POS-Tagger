@@ -49,6 +49,7 @@ the/DT
 practice/NN
 altogether/RB
 ./.
+At/IN
 the/DT
 New/NNP
 York/NNP
@@ -498,6 +499,7 @@ are/VBP
 in/IN
 place/NN
 ./.
+In/IN
 stock-index/JJ
 arbitrage/NN
 ,/,
@@ -690,6 +692,7 @@ to/TO
 know/VB
 that/DT
 ./.
+But/CC
 yesterday/NN
 ,/,
 Mr./NNP
@@ -1105,6 +1108,7 @@ program/NN
 operation/NN
 said/VBD
 ./.
+Meanwhile/RB
 ,/,
 Bear/NNP
 Stearns/NNP
@@ -1239,6 +1243,7 @@ for/IN
 Bear/NNP
 Stearns/NNP
 ./.
+In/IN
 response/NN
 to/TO
 a/DT
@@ -1339,6 +1344,7 @@ a/DT
 regulatory/JJ
 problem/NN
 ./.
+But/CC
 a/DT
 much/RB
 smaller/JJR
@@ -1501,6 +1507,7 @@ by/IN
 program/NN
 traders/NNS
 ./.
+``/``
 We/PRP
 are/VBP
 reaching/VBG
@@ -1571,6 +1578,7 @@ to/TO
 this/DT
 article/NN
 ./.
+recently/RB
 ceased/VBD
 index/NN
 arbitrage/NN

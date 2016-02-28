@@ -16,6 +16,7 @@ lower/VB
 interest/NN
 rates/NNS
 ./.
+In/IN
 a/DT
 speech/NN
 to/TO
@@ -46,6 +47,7 @@ too/RB
 high/JJ
 ./.
 ''/''
+``/``
 I/PRP
 am/VBP
 convinced/VBN

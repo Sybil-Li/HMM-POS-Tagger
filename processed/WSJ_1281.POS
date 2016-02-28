@@ -97,6 +97,7 @@ declined/VBD
 to/TO
 comment/VB
 ./.
+``/``
 There/EX
 is/VBZ
 just/RB
@@ -241,6 +242,7 @@ in/IN
 fall/NN
 1991/CD
 ./.
+``/``
 There/EX
 's/VBZ
 a/DT
@@ -310,6 +312,7 @@ for/IN
 the/DT
 ships/NNS
 ./.
+If/IN
 the/DT
 ships/NNS
 are/VBP
@@ -466,6 +469,7 @@ situation/NN
 warrants/VBZ
 it/PRP
 ./.
+According/VBG
 to/TO
 reports/NNS
 from/IN

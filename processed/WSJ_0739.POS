@@ -281,6 +281,7 @@ toxin/NN
 's/POS
 virulence/NN
 ./.
+Ordinarily/RB
 in/IN
 genetic/JJ
 engineering/NN

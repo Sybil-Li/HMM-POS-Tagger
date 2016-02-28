@@ -159,6 +159,7 @@ Exchange/NNP
 composite/JJ
 trading/NN
 ./.
+But/CC
 industry/NN
 observers/NNS
 still/RB
@@ -285,6 +286,7 @@ stock/NN
 market/NN
 generally/RB
 ./.
+While/IN
 Georgia-Pacific/NNP
 's/POS
 stock/NN
@@ -329,6 +331,7 @@ the/DT
 daily/JJ
 average/NN
 ./.
+According/VBG
 to/TO
 Dow/NNP
 Jones/NNP
@@ -362,6 +365,7 @@ Board/NNP
 Options/NNPS
 Exchange/NNP
 ./.
+According/VBG
 to/TO
 the/DT
 Value/NNP
@@ -423,6 +427,7 @@ next/JJ
 year/NN
 ./.
 ''/''
+By/IN
 contrast/NN
 ,/,
 Value/NNP

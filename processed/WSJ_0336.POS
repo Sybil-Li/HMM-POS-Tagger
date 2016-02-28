@@ -82,6 +82,7 @@ all/DT
 steel/NN
 producers/NNS
 ./.
+But/CC
 LTV/NNP
 's/POS
 move/NN
@@ -268,6 +269,7 @@ themselves/PRP
 more/RBR
 competitive/JJ
 ./.
+But/CC
 analysts/NNS
 say/VBP
 the/DT
@@ -326,6 +328,7 @@ LTV/NNP
 and/CC
 others/NNS
 ./.
+``/``
 They/PRP
 {/(
 LTV/NNP
@@ -493,6 +496,7 @@ galvanized/JJ
 sheet/NN
 steel/NN
 ./.
+In/IN
 composite/JJ
 New/NNP
 York/NNP

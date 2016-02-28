@@ -40,6 +40,7 @@ from/IN
 million/CD
 Wednesday/NNP
 ./.
+Badly/RB
 shaken/VBN
 by/IN
 recent/JJ
@@ -233,6 +234,7 @@ in/IN
 over-the-counter/JJ
 trading/NN
 ./.
+``/``
 When/WRB
 you/PRP
 see/VBP
@@ -422,6 +424,7 @@ bonds/NNS
 in/IN
 September/NNP
 ./.
+While/IN
 futures-related/JJ
 sell/JJ
 programs/NNS
@@ -533,6 +536,7 @@ through/IN
 the/DT
 basket/NN
 ./.
+In/IN
 a/DT
 sign/NN
 of/IN
@@ -590,6 +594,7 @@ ending/VBG
 Oct./NNP
 18/CD
 ./.
+Among/IN
 other/JJ
 computer/NN
 stocks/NNS

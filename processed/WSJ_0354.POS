@@ -125,6 +125,7 @@ Avery/NNP
 with/IN
 debt/NN
 ./.
+In/IN
 over-the-counter/JJ
 trading/NN
 ,/,
@@ -143,6 +144,7 @@ cents/NNS
 a/DT
 share/NN
 ./.
+According/VBG
 to/TO
 Avery/NNP
 ,/,
@@ -215,6 +217,7 @@ Italy/NNP
 and/CC
 Taiwan/NNP
 ./.
+In/IN
 a/DT
 related/JJ
 development/NN
@@ -276,6 +279,7 @@ from/IN
 51/CD
 %/NN
 ./.
+In/IN
 December/NNP
 1988/CD
 ,/,
@@ -320,6 +324,7 @@ Triangle/NNP
 chief/JJ
 asset/NN
 ./.
+In/IN
 January/NNP
 1989/CD
 ,/,

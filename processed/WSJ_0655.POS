@@ -76,6 +76,7 @@ equation/NN
 degrees/NNS
 ./.
 ''/''
+But/CC
 Mr./NNP
 Ortega/NNP
 's/POS
@@ -273,6 +274,7 @@ demobilizing/VBG
 the/DT
 rebels/NNS
 ./.
+Not/RB
 only/RB
 did/VBD
 Mr./NNP
@@ -506,6 +508,7 @@ the/DT
 Nicaraguan/JJ
 leader/NN
 ./.
+While/IN
 renewing/VBG
 military/JJ
 aid/NN
@@ -545,6 +548,7 @@ on/IN
 the/DT
 issue/NN
 ./.
+``/``
 The/DT
 administration/NN
 should/MD
@@ -750,6 +754,7 @@ broke/VBD
 the/DT
 cease-fire/NN
 ./.
+In/IN
 addition/NN
 to/TO
 undermining/VBG
@@ -861,6 +866,7 @@ hold/VB
 fair/JJ
 elections/NNS
 ./.
+``/``
 My/PRP$
 sense/NN
 is/VBZ

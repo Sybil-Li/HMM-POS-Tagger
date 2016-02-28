@@ -1,3 +1,4 @@
+In/IN
 1987/CD
 ,/,
 the/DT
@@ -289,6 +290,7 @@ to/TO
 ignore/VB
 injuries/NNS
 ./.
+But/CC
 even/RB
 those/DT
 numbers/NNS
@@ -437,6 +439,7 @@ of/IN
 their/PRP$
 answers/NNS
 :/:
+--/:
 ``/``
 They/PRP
 say/VBP
@@ -476,6 +479,7 @@ Junior/NN
 football/NN
 player/NN
 ./.
+--/:
 ``/``
 Being/VBG
 a/DT
@@ -558,6 +562,7 @@ Freshman/NN
 basketball/NN
 player/NN
 ./.
+--/:
 ``/``
 The/DT
 coaches/NNS
@@ -628,6 +633,7 @@ Freshman/NN
 football/NN
 player/NN
 ./.
+--/:
 ``/``
 The/DT
 pressure/NN
@@ -691,6 +697,7 @@ Sophomore/NN
 football/NN
 player/NN
 ./.
+--/:
 ``/``
 Playing/VBG
 intercollegiate/JJ
@@ -749,6 +756,7 @@ Freshman/NN
 football/NN
 player/NN
 ./.
+--/:
 ``/``
 You/PRP
 talk/VBP
@@ -834,6 +842,7 @@ Junior/NN
 football/NN
 player/NN
 ./.
+--/:
 ``/``
 Physical/JJ
 exhaustion/NN
@@ -861,6 +870,7 @@ player/NN
 class/NN
 unspecified/JJ
 ./.
+--/:
 ``/``
 More/RBR
 often/RB
@@ -915,6 +925,7 @@ Sophomore/NN
 basketball/NN
 player/NN
 ./.
+--/:
 ``/``
 Somehow/RB
 ,/,
@@ -1137,6 +1148,7 @@ economic/JJ
 )/)
 considerations/NNS
 ./.
+But/CC
 the/DT
 ``/``
 real/JJ

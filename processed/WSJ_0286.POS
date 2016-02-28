@@ -1,3 +1,4 @@
+For/IN
 years/NNS
 ,/,
 a/DT
@@ -68,6 +69,7 @@ up/RB
 at/IN
 all/DT
 ./.
+But/CC
 in/IN
 1986/CD
 ,/,
@@ -179,6 +181,7 @@ popular/JJ
 Japanese/JJ
 vocalist/NN
 ./.
+And/CC
 in/IN
 a/DT
 Japanese/JJ
@@ -550,6 +553,7 @@ and/CC
 corporate/JJ
 rigidity/NN
 ./.
+Consider/VB
 the/DT
 experience/NN
 of/IN
@@ -891,6 +895,7 @@ Nissan/NNP
 Technical/NNP
 Center/NNP
 ./.
+Despite/IN
 the/DT
 pain/NN
 of/IN
@@ -1020,6 +1025,7 @@ by/IN
 wide/JJ
 margins/NNS
 ./.
+In/IN
 its/PRP$
 home/NN
 market/NN
@@ -1310,6 +1316,7 @@ of/IN
 new/JJ
 cars/NNS
 ./.
+Likewise/RB
 ,/,
 in/IN
 the/DT
@@ -1366,6 +1373,7 @@ in/IN
 and/CC
 1982/CD
 ./.
+Why/WRB
 ?/.
 So/RB
 far/RB
@@ -1567,6 +1575,7 @@ U.S./NNP
 sales/NNS
 arm/NN
 ./.
+Even/RB
 if/IN
 the/DT
 new/JJ
@@ -1607,6 +1616,7 @@ Sentra/NNP
 next/JJ
 fall/NN
 ./.
+At/IN
 the/DT
 opposite/JJ
 end/NN
@@ -1696,6 +1706,7 @@ U.S./NNP
 auto/NN
 advertising/NN
 ./.
+On/IN
 the/DT
 other/JJ
 hand/NN
@@ -1765,6 +1776,7 @@ the/DT
 U.S./NNP
 alone/RB
 ./.
+``/``
 When/WRB
 I/PRP
 saw/VBD
@@ -1961,6 +1973,7 @@ Japanese/JJ
 car/NN
 sales/NNS
 ./.
+But/CC
 Nissan/NNP
 expects/VBZ
 to/TO
@@ -2087,6 +2100,7 @@ of/IN
 managerial/JJ
 headaches/NNS
 ./.
+For/IN
 example/NN
 ,/,
 Nissan/NNP
@@ -2143,6 +2157,7 @@ some/DT
 workers/NNS
 bitter/JJ
 ./.
+``/``
 We/PRP
 are/VBP
 in/IN
@@ -2196,6 +2211,7 @@ doing/VBG
 in/IN
 Europe/NNP
 ./.
+Perhaps/RB
 the/DT
 biggest/JJS
 challenge/NN
@@ -2282,3 +2298,4 @@ generated/VBN
 is/VBZ
 unstoppable/JJ
 ./.
+''/''

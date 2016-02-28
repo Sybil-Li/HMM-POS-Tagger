@@ -65,6 +65,7 @@ the/DT
 Bush/NNP
 administration/NN
 ./.
+In/IN
 a/DT
 move/NN
 apparently/RB
@@ -347,6 +348,7 @@ victims/NNS
 '/POS
 families/NNS
 ./.
+``/``
 I/PRP
 transmitted/VBD
 my/PRP$
@@ -439,6 +441,7 @@ very/RB
 complex/JJ
 ./.
 ''/''
+According/VBG
 to/TO
 U.S./NNP
 sources/NNS
@@ -493,6 +496,7 @@ a/DT
 choice/NN
 ./.
 ''/''
+Given/VBN
 China/NNP
 's/POS
 far-from-conciliatory/JJ
@@ -564,6 +568,7 @@ got/VBD
 10/CD
 years/NNS
 ./.
+Nor/CC
 has/VBZ
 Beijing/NNP
 hinted/VBN
@@ -835,6 +840,7 @@ Trade/NNP
 Development/NNP
 Program/NNP
 ./.
+Codifying/VBG
 those/DT
 sanctions/NNS
 could/MD
@@ -882,3 +888,4 @@ cooler/JJR
 heads/NNS
 prevail/VBP
 ./.
+''/''

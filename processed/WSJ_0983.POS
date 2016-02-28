@@ -152,6 +152,7 @@ bonds/NNS
 they/PRP
 hold/VBP
 ./.
+``/``
 That/DT
 's/VBZ
 really/RB
@@ -435,6 +436,7 @@ might/MD
 shy/VB
 away/RB
 ./.
+In/IN
 a/DT
 typical/JJ
 leverage/NN
@@ -492,6 +494,7 @@ account/NN
 for/IN
 investors/NNS
 ./.
+But/CC
 when/WRB
 the/DT
 market/NN
@@ -604,6 +607,7 @@ fund/NN
 's/POS
 portfolio/NN
 ./.
+Yet/CC
 some/DT
 funds/NNS
 have/VBP
@@ -651,6 +655,7 @@ earlier/RBR
 this/DT
 year/NN
 ./.
+``/``
 We/PRP
 are/VBP
 trying/VBG
@@ -941,6 +946,7 @@ record/NN
 15/CD
 %/NN
 ./.
+``/``
 That/DT
 's/VBZ
 a/DT
@@ -978,6 +984,7 @@ involved/VBN
 in/IN
 ./.
 ''/''
+Because/IN
 of/IN
 the/DT
 recent/JJ
@@ -998,6 +1005,7 @@ including/VBG
 mortgage-backed/JJ
 bonds/NNS
 ./.
+``/``
 We/PRP
 're/VBP
 looking/VBG
@@ -1065,3 +1073,4 @@ make/VB
 a/DT
 move/NN
 ./.
+''/''

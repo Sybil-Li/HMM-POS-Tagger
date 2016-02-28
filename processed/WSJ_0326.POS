@@ -281,6 +281,7 @@ newspapers/NNS
 and/CC
 magazines/NNS
 ./.
+``/``
 Most/JJS
 people/NNS
 --/:
@@ -409,6 +410,7 @@ the/DT
 spokesman/NN
 says/VBZ
 ./.
+But/CC
 some/DT
 anti-smoking/JJ
 activists/NNS
@@ -741,6 +743,7 @@ Brands/NNP
 Carltons/NNPS
 ./.
 )/)
+Despite/IN
 the/DT
 criticism/NN
 ,/,
@@ -807,3 +810,4 @@ of/IN
 Rights/NNPS
 itself/PRP
 ./.
+''/''

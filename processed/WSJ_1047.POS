@@ -120,6 +120,7 @@ its/PRP$
 Tokyu/NNP
 sources/NNS
 ./.
+``/``
 This/DT
 is/VBZ
 the/DT
@@ -263,6 +264,7 @@ any/DT
 prospective/JJ
 buyers/NNS
 ./.
+``/``
 Nobody/NN
 is/VBZ
 going/VBG
@@ -461,6 +463,7 @@ been/VBN
 made/VBN
 ./.
 ''/''
+Separately/RB
 ,/,
 a/DT
 Campeau/NNP

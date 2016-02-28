@@ -40,6 +40,7 @@ violates/VBZ
 federal/JJ
 law/NN
 ./.
+Separately/RB
 ,/,
 the/DT
 commission/NN
@@ -198,6 +199,7 @@ on/IN
 the/DT
 bench/NN
 ./.
+``/``
 The/DT
 issue/NN
 is/VBZ
@@ -380,6 +382,7 @@ are/VBP
 over/IN
 70/CD
 ./.
+In/IN
 Connecticut/NNP
 ,/,
 however/RB
@@ -791,6 +794,7 @@ York/NNP
 law/NN
 firm/NN
 ./.
+``/``
 Those/DT
 who/WP
 have/VBP
@@ -811,6 +815,7 @@ Ms./NNP
 Brevetti/NNP
 says/VBZ
 ./.
+But/CC
 Mr./NNP
 Runkel/NNP
 contends/VBZ
@@ -950,6 +955,7 @@ the/DT
 Justice/NNP
 Department/NNP
 ./.
+``/``
 We/PRP
 will/MD
 vigorously/RB

@@ -1,3 +1,4 @@
+In/IN
 a/DT
 corner/NN
 of/IN
@@ -26,6 +27,7 @@ control/NN
 system/NN
 ./.
 ''/''
+With/IN
 the/DT
 touch/NN
 of/IN
@@ -96,6 +98,7 @@ year/NN
 or/CC
 two/CD
 ./.
+Welcome/VB
 to/TO
 the/DT
 28th/JJ
@@ -172,6 +175,7 @@ the/DT
 nature/NN
 ./.
 ''/''
+But/CC
 this/DT
 biennial/JJ
 event/NN
@@ -228,6 +232,7 @@ lies/VBZ
 the/DT
 draw/NN
 ./.
+Even/RB
 the/DT
 biggest/JJS
 auto/NN
@@ -321,6 +326,7 @@ Kompakt/NNP
 ''/''
 model/NN
 ./.
+Here/RB
 's/VBZ
 a/DT
 firsthand/JJ
@@ -525,6 +531,7 @@ still/RB
 under/IN
 development/NN
 ./.
+In/IN
 the/DT
 engine/NN
 department/NN
@@ -890,6 +897,7 @@ and/CC
 warmheartedness/NN
 ./.
 ''/''
+But/CC
 the/DT
 court/NN
 jester/NN
@@ -1109,6 +1117,7 @@ automotive/JJ
 parts/NNS
 section/NN
 ./.
+``/``
 We/PRP
 've/VBP
 got/VBN
@@ -1149,6 +1158,7 @@ the/DT
 Tokyo/NNP
 Show/NNP
 ./.
+Even/RB
 so/RB
 ,/,
 traditional/JJ
@@ -1258,3 +1268,4 @@ in/IN
 a/DT
 car/NN
 ./.
+''/''

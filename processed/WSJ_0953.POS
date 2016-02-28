@@ -1,3 +1,4 @@
+In/IN
 the/DT
 bidding/NN
 war/NN
@@ -340,6 +341,7 @@ since/IN
 the/DT
 filing/NN
 ./.
+Under/IN
 United/NNP
 Illuminating/NNP
 's/POS
@@ -427,6 +429,7 @@ the/DT
 combined/VBN
 company/NN
 ./.
+As/IN
 previously/RB
 reported/VBN
 ,/,
@@ -739,6 +742,7 @@ Nuclear/NNP
 Regulatory/NNP
 Commission/NNP
 ./.
+In/IN
 New/NNP
 York/NNP
 Stock/NNP
@@ -788,6 +792,7 @@ the/DT
 Big/NNP
 Board/NNP
 ./.
+In/IN
 a/DT
 separate/JJ
 development/NN

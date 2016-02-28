@@ -83,6 +83,7 @@ was/VBD
 down/RB
 8.65/CD
 at/IN
+In/IN
 early/JJ
 trading/NN
 in/IN
@@ -98,6 +99,7 @@ points/NNS
 to/TO
 35587.85/CD
 ./.
+On/IN
 Wednesday/NNP
 ,/,
 the/DT
@@ -244,6 +246,7 @@ October/NNP
 transaction/NN
 period/NN
 ./.
+Among/IN
 pharmaceutical/JJ
 shares/NNS
 ,/,
@@ -452,6 +455,7 @@ market/NN
 recent/JJ
 downtrend/NN
 ./.
+Outside/IN
 what/WP
 essentially/RB
 amounted/VBD
@@ -688,6 +692,7 @@ tumbled/VBD
 to/TO
 end/VB
 at/IN
+``/``
 It/PRP
 was/VBD
 dead/JJ
@@ -824,6 +829,7 @@ for/IN
 German/JJ
 industry/NN
 ./.
+``/``
 All/PDT
 the/DT
 positive/JJ
@@ -921,6 +927,7 @@ becoming/VBG
 more/RBR
 volatile/JJ
 ./.
+In/IN
 the/DT
 auto/NN
 sector/NN
@@ -1014,6 +1021,7 @@ Commerzbank/NNP
 slipping/VBG
 2.5/CD
 to/TO
+Meanwhile/RB
 ,/,
 Wall/NNP
 Street/NNP
@@ -1045,6 +1053,7 @@ mixed/JJ
 in/IN
 Amsterdam/NN
 ./.
+Among/IN
 Pacific/NNP
 markets/NNS
 ,/,
@@ -1075,6 +1084,7 @@ a/DT
 national/JJ
 holiday/NN
 ./.
+Here/RB
 are/VBP
 price/NN
 trends/NNS

@@ -65,6 +65,7 @@ to/TO
 Indosuez/NNP
 said/VBD
 ./.
+While/IN
 awaiting/VBG
 Bank/NNP
 of/IN
@@ -218,6 +219,7 @@ in/IN
 Europe/NNP
 ./.
 ''/''
+In/IN
 a/DT
 telephone/NN
 interview/NN
@@ -339,6 +341,7 @@ counterbidder/NN
 he/PRP
 added/VBD
 ./.
+In/IN
 a/DT
 statement/NN
 ,/,
@@ -551,6 +554,7 @@ welcome/VB
 the/DT
 investment/NN
 ./.
+``/``
 The/DT
 logic/NN
 is/VBZ
@@ -648,3 +652,4 @@ they/PRP
 are/VBP
 unhappy/JJ
 ./.
+''/''

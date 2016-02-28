@@ -449,6 +449,7 @@ the/DT
 two/CD
 disasters/NNS
 ./.
+In/IN
 the/DT
 Senate/NNP
 ,/,
@@ -691,6 +692,7 @@ a/DT
 similar/JJ
 vote/NN
 ./.
+By/IN
 comparison/NN
 ,/,
 Republicans/NNPS
@@ -736,6 +738,7 @@ exemption/NN
 last/JJ
 year/NN
 ./.
+At/IN
 a/DT
 recent/JJ
 White/NNP
@@ -796,6 +799,7 @@ with/IN
 his/PRP$
 position/NN
 ./.
+``/``
 This/DT
 is/VBZ
 n't/RB
@@ -890,6 +894,7 @@ but/CC
 was/VBD
 absent/JJ
 ./.
+In/IN
 an/DT
 extraordinary/JJ
 mix/NN
@@ -1074,6 +1079,7 @@ for/IN
 low-income/JJ
 homeowners/NNS
 ./.
+By/IN
 a/DT
 325-92/JJ
 margin/NN
@@ -1102,7 +1108,8 @@ to/TO
 the/DT
 FHA/NNP
 provision/NN
-./.And/CC
+./.
+And/CC
 on/IN
 a/DT
 closer/JJR

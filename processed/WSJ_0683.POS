@@ -132,6 +132,7 @@ populated/VBN
 coastal/JJ
 areas/NNS
 ./.
+``/``
 If/IN
 you/PRP
 can/MD
@@ -176,6 +177,7 @@ the/DT
 ice/NN
 samples/NNS
 ./.
+To/TO
 compare/VB
 temperatures/NNS
 over/IN
@@ -298,6 +300,7 @@ moderate/VBP
 temperature/NN
 changes/NNS
 ./.
+But/CC
 the/DT
 ice-core/NN
 samples/NNS
@@ -426,6 +429,7 @@ similar/JJ
 unexplained/JJ
 swings/NNS
 ./.
+``/``
 Climate/NN
 varies/VBZ
 drastically/RB

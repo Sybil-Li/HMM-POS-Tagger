@@ -135,6 +135,7 @@ some/DT
 mathematical/JJ
 calculations/NNS
 ./.
+But/CC
 while/IN
 International/NNP
 Business/NNP
@@ -225,6 +226,7 @@ all/DT
 he/PRP
 said/VBD
 ./.
+Likewise/RB
 ,/,
 AST/NNP
 Research/NNP
@@ -282,6 +284,7 @@ option/NN
 he/PRP
 said/VBD
 ./.
+Nonetheless/RB
 ,/,
 concern/NN
 about/IN
@@ -362,6 +365,7 @@ of/IN
 2,633,700/CD
 shares/NNS
 ./.
+Most/JJS
 of/IN
 Compaq/NNP
 's/POS
@@ -592,6 +596,7 @@ the/DT
 risk/NN
 ./.
 ''/''
+In/IN
 late/JJ
 September/NNP
 ,/,
@@ -799,6 +804,7 @@ generation/NN
 of/IN
 machines/NNS
 ./.
+``/``
 Although/IN
 these/DT
 sorts/NNS
@@ -950,6 +956,7 @@ in/IN
 computer-aided/JJ
 design/NN
 ./.
+But/CC
 while/IN
 the/DT
 chip/NN
@@ -1098,6 +1105,7 @@ early/JJ
 next/JJ
 year/NN
 ./.
+Of/IN
 the/DT
 big/JJ
 computer/NN

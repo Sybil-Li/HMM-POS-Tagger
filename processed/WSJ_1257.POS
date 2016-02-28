@@ -84,6 +84,7 @@ and/CC
 Atlantic/NNP
 City/NNP
 ,/,
+Under/IN
 the/DT
 new/JJ
 terms/NNS
@@ -136,6 +137,7 @@ the/DT
 sale/NN
 closes/VBZ
 ./.
+Revised/VBN
 terms/NNS
 call/VBP
 for/IN
@@ -416,6 +418,7 @@ in/IN
 New/NNP
 Jersey/NNP
 ./.
+In/IN
 May/NNP
 ,/,
 Ramada/NNP

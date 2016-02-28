@@ -1,3 +1,4 @@
+If/IN
 Japanese/JJ
 companies/NNS
 are/VBP
@@ -58,6 +59,7 @@ for/IN
 international/JJ
 transactions/NNS
 ?/.
+Because/IN
 the/DT
 companies/NNS
 have/VBP
@@ -120,6 +122,7 @@ a/DT
 Dickens/NNP
 novel/NN
 ./.
+Now/RB
 ,/,
 the/DT
 personal-computer/NN
@@ -298,6 +301,7 @@ relatively/RB
 low/JJ
 ./.
 ''/''
+With/IN
 Japanese/NNP
 companies/NNS
 in/IN
@@ -392,6 +396,7 @@ that/WDT
 runs/VBZ
 them/PRP
 ./.
+After/IN
 years/NNS
 of/IN
 talking/VBG
@@ -459,6 +464,7 @@ than/IN
 at/IN
 home/NN
 ./.
+But/CC
 the/DT
 Japanese/NNS
 have/VBP
@@ -535,6 +541,7 @@ one/CD
 real-life/JJ
 PC/NN
 ./.
+While/IN
 American/JJ
 PC/NN
 sales/NNS
@@ -586,6 +593,7 @@ of/IN
 the/DT
 Americans/NNS
 ./.
+Moreover/RB
 ,/,
 Japanese/JJ
 offices/NNS
@@ -769,6 +777,7 @@ all/DT
 those/DT
 tasks/NNS
 ./.
+In/IN
 the/DT
 U.S./NNP
 ,/,
@@ -860,6 +869,7 @@ about/RB
 are/VBP
 linked/VBN
 ./.
+``/``
 Computers/NNS
 here/RB
 are/VBP
@@ -971,6 +981,7 @@ have/VBP
 suppressed/VBN
 demand/NN
 ./.
+Because/IN
 the/DT
 Japanese/JJ
 ``/``
@@ -1044,6 +1055,7 @@ office/NN
 this/DT
 summer/NN
 ./.
+While/IN
 most/JJS
 American/JJ
 employees/NNS
@@ -1110,6 +1122,7 @@ computer/NN
 system/NN
 corporatewide/JJ
 ./.
+Besides/IN
 ,/,
 a/DT
 computer/NN
@@ -1301,6 +1314,7 @@ virtually/RB
 any/DT
 computer/NN
 ./.
+If/IN
 a/DT
 record/NN
 industry/NN
@@ -1405,6 +1419,7 @@ in/RB
 competitive/JJ
 allies/NNS
 ./.
+Meanwhile/RB
 ,/,
 the/DT
 big/JJ
@@ -1548,6 +1563,7 @@ retailers/NNS
 from/IN
 discounting/VBG
 ./.
+In/IN
 Japan/NNP
 ,/,
 ``/``
@@ -1659,6 +1675,7 @@ from/IN
 American/JJ
 companies/NNS
 ./.
+But/CC
 the/DT
 market/NN
 is/VBZ
@@ -1696,6 +1713,7 @@ from/IN
 current/JJ
 levels/NNS
 ./.
+In/IN
 the/DT
 private/JJ
 sector/NN
@@ -1790,6 +1808,7 @@ in/IN
 separate/JJ
 offices/NNS
 ./.
+By/IN
 increasing/VBG
 the/DT
 number/NN
@@ -1894,6 +1913,7 @@ also/RB
 shared/VBN
 ./.
 ''/''
+Meanwhile/RB
 ,/,
 more/JJR
 computer/NN
@@ -1974,6 +1994,7 @@ in/IN
 that/DT
 market/NN
 ./.
+In/IN
 a/DT
 country/NN
 where/WRB
@@ -2247,6 +2268,7 @@ and/CC
 at/IN
 home/NN
 ./.
+Though/IN
 no/DT
 formal/JJ
 trade/NN
@@ -2368,6 +2390,7 @@ established/VBN
 computer/NN
 makers/NNS
 ./.
+But/CC
 the/DT
 Americans/NNS
 are/VBP
@@ -2471,6 +2494,7 @@ retailers/NNS
 from/IN
 discounting/VBG
 ./.
+But/CC
 the/DT
 U.S./NNP
 companies/NNS
@@ -2552,6 +2576,7 @@ its/PRP$
 American/JJ
 products/NNS
 ./.
+``/``
 It/PRP
 may/MD
 take/VB
@@ -2593,3 +2618,4 @@ enormous/JJ
 business/NN
 opportunity/NN
 ./.
+''/''

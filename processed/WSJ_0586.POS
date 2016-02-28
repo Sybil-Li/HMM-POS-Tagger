@@ -396,6 +396,7 @@ job/NN
 one/CD
 day/NN
 ./.
+Besides/IN
 British/NNP
 Gas/NNP
 ,/,
@@ -458,6 +459,7 @@ of/IN
 million/CD
 shares/NNS
 ./.
+Among/IN
 the/DT
 other/JJ
 actively/RB
@@ -488,6 +490,7 @@ fell/VBD
 to/TO
 250/CD
 ./.
+In/IN
 Tokyo/NNP
 ,/,
 stocks/NNS
@@ -524,6 +527,7 @@ points/NNS
 to/TO
 35527.29/CD
 ./.
+In/IN
 early/RB
 trading/NN
 in/IN
@@ -539,6 +543,7 @@ points/NNS
 to/TO
 35378.44/CD
 ./.
+On/IN
 Friday/NNP
 ,/,
 the/DT
@@ -784,6 +789,7 @@ of/IN
 the/DT
 weekend/NN
 ./.
+``/``
 It/PRP
 's/VBZ
 the/DT
@@ -900,6 +906,7 @@ settles/VBZ
 down/IN
 somewhat/RB
 ./.
+Elsewhere/RB
 ,/,
 share/NN
 prices/NNS
@@ -968,6 +975,7 @@ caused/VBD
 selling/JJ
 pressure/NN
 ./.
+Here/RB
 are/VBP
 price/NN
 trends/NNS

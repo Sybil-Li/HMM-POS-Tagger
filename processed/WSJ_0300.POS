@@ -32,6 +32,7 @@ ashore/RB
 years/NNS
 ago/RB
 ./.
+``/``
 From/IN
 the/DT
 beginning/NN
@@ -63,6 +64,7 @@ Engineering/NNP
 Inc./NNP
 unit/NN
 ./.
+Here/RB
 in/IN
 this/DT
 new/JJ
@@ -115,6 +117,7 @@ powerful/JJ
 musicians/NNS
 union/NN
 ./.
+Still/RB
 ,/,
 20/CD
 Japanese/JJ
@@ -354,6 +357,7 @@ the/DT
 Japanese/JJ
 government/NN
 ./.
+But/CC
 Mexico/NNP
 urgently/RB
 needs/VBZ
@@ -690,6 +694,7 @@ follow/VB
 the/DT
 leader/NN
 ./.
+But/CC
 Japanese/JJ
 investors/NNS
 say/VBP
@@ -780,6 +785,7 @@ the/DT
 national/JJ
 domain/NN
 ./.
+``/``
 Those/DT
 devices/NNS
 do/VBP
@@ -914,6 +920,7 @@ to/TO
 foreign/JJ
 control/NN
 ./.
+``/``
 We/PRP
 must/MD
 do/VB

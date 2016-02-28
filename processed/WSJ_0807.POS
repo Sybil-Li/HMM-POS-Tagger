@@ -181,6 +181,7 @@ next/JJ
 1\/2/CD
 years/NNS
 ./.
+Earlier/RBR
 this/DT
 year/NN
 ,/,
@@ -237,6 +238,7 @@ Emhart/NNP
 total/JJ
 sales/NNS
 ./.
+In/IN
 addition/NN
 ,/,
 Black/NNP
@@ -334,6 +336,7 @@ $/$
 255/CD
 million/CD
 ./.
+``/``
 Our/PRP$
 divestiture/NN
 program/NN
@@ -438,6 +441,7 @@ another/DT
 12/CD
 months/NNS
 ./.
+In/IN
 composite/JJ
 trading/NN
 on/IN

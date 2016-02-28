@@ -94,6 +94,7 @@ surges/NNS
 and/CC
 plunges/NNS
 ./.
+But/CC
 futures/NNS
 traders/NNS
 here/RB
@@ -203,6 +204,7 @@ causing/VBG
 stock-market/NN
 volatility/NN
 ./.
+In/IN
 stock-index/JJ
 arbitrage/NN
 ,/,
@@ -496,6 +498,7 @@ quickly/RB
 into/IN
 stocks/NNS
 ./.
+But/CC
 raising/VBG
 stock-index/JJ
 futures/NNS
@@ -568,6 +571,7 @@ to/TO
 attract/VB
 buyers/NNS
 ./.
+``/``
 If/IN
 you/PRP
 drive/VBP
@@ -660,6 +664,7 @@ less/JJR
 stock-index/JJ
 arbitrage/NN
 ./.
+``/``
 If/IN
 you/PRP
 decrease/VBP
@@ -744,6 +749,7 @@ of/IN
 stock/NN
 prices/NNS
 ./.
+``/``
 You/PRP
 would/MD
 diminish/VB
@@ -861,6 +867,7 @@ trading/NN
 focus/NN
 ./.
 ''/''
+Raising/VBG
 stock-index/JJ
 futures/NNS
 margins/NNS
@@ -983,6 +990,7 @@ stock-index/JJ
 futures/NNS
 margins/NNS
 ./.
+Raising/VBG
 stock-index/JJ
 futures/NNS
 margins/NNS
@@ -1069,6 +1077,7 @@ critics/NNS
 are/VBP
 proposing/VBG
 ./.
+``/``
 If/IN
 futures/NNS
 margins/NNS

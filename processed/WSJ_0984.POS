@@ -361,6 +361,7 @@ stunning/JJ
 ''/''
 collaboration/NN
 ./.
+After/IN
 four/CD
 years/NNS
 ,/,
@@ -891,6 +892,7 @@ garden/NN
 room/NN
 ./.
 ''/''
+Inside/IN
 the/DT
 grid/NN
 were/VBD
@@ -1005,6 +1007,7 @@ book/NN
 on/IN
 tartans/NNS
 ./.
+In/IN
 one/CD
 garden/NN
 roomette/NN
@@ -1074,6 +1077,7 @@ dead/NN
 of/IN
 winter/NN
 ./.
+In/IN
 another/DT
 compartment/NN
 called/VBN
@@ -1185,6 +1189,7 @@ could/MD
 n't/RB
 maneuver/VB
 ./.
+Then/RB
 ,/,
 to/TO
 make/VB
@@ -1246,6 +1251,7 @@ array/NN
 of/IN
 Gro-Lites/NNPS
 ./.
+Finally/RB
 ,/,
 flouting/VBG
 the/DT
@@ -1350,6 +1356,7 @@ the/DT
 Hudson/NNP
 ./.
 )/)
+While/IN
 the/DT
 model/NN
 was/VBD
@@ -1615,6 +1622,7 @@ safety/NN
 !/.
 ''/''
 )/)
+Despite/IN
 the/DT
 dire/JJ
 assessments/NNS
@@ -1888,3 +1896,4 @@ life/NN
 of/IN
 plants/NNS
 ./.
+''/''

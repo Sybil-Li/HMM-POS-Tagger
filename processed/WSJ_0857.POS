@@ -138,6 +138,7 @@ in/IN
 New/NNP
 York/NNP
 ./.
+If/IN
 Deltacorp/NNP
 prevails/VBZ
 ,/,
@@ -188,6 +189,7 @@ pay/VB
 its/PRP$
 debts/NNS
 ./.
+Passed/VBN
 early/RB
 this/DT
 year/NN
@@ -308,6 +310,7 @@ should/MD
 be/VB
 resolved/VBN
 ./.
+According/VBG
 to/TO
 Mr./NNP
 Friedman/NNP
@@ -372,6 +375,7 @@ less/JJR
 he/PRP
 contends/VBZ
 ./.
+``/``
 If/IN
 the/DT
 court/NN
@@ -624,6 +628,7 @@ years/NNS
 to/TO
 1988/CD
 ./.
+Under/IN
 Attorney/NNP
 General/NNP
 Dick/NNP
@@ -661,6 +666,7 @@ the/DT
 nomination/NN
 process/NN
 ./.
+But/CC
 a/DT
 spokesman/NN
 for/IN
@@ -874,6 +880,7 @@ the/DT
 publishing/NN
 industry/NN
 ./.
+But/CC
 Judge/NNP
 Keenan/NNP
 said/VBD
@@ -1141,6 +1148,7 @@ JUDGE/NN
 joins/VBZ
 firm/NN
 ./.
+After/IN
 nine/CD
 years/NNS
 in/IN
@@ -1186,6 +1194,7 @@ the/DT
 75-lawyer/JJ
 firm/NN
 ./.
+In/IN
 a/DT
 Oct./NNP
 23/CD
@@ -1273,6 +1282,7 @@ city/NN
 of/IN
 Chicago/NNP
 ./.
+``/``
 The/DT
 judiciary/NN
 is/VBZ
@@ -1324,6 +1334,7 @@ for/IN
 copyright/NN
 infringement/NN
 ./.
+Noting/VBG
 that/IN
 the/DT
 Happy/NNP
@@ -1410,6 +1421,7 @@ a/DT
 Disney/NNP
 character/NN
 ./.
+In/IN
 addition/NN
 to/TO
 the/DT

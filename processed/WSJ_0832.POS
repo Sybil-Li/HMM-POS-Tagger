@@ -74,6 +74,7 @@ an/DT
 insurance/NN
 payment/NN
 ./.
+``/``
 They/PRP
 lost/VBD
 $/$
@@ -125,6 +126,7 @@ $/$
 million/CD
 loss/NN
 ./.
+At/IN
 least/JJS
 ,/,
 Mr./NNP
@@ -142,6 +144,7 @@ decelerating/VBG
 rate/NN
 ./.
 ''/''
+Indeed/RB
 ,/,
 while/IN
 investors/NNS
@@ -273,6 +276,7 @@ $/$
 3.68/CD
 billion/CD
 ./.
+Besides/IN
 the/DT
 troubles/NNS
 at/IN
@@ -431,6 +435,7 @@ lower/JJR
 third-quarter/JJ
 earnings/NNS
 ./.
+But/CC
 the/DT
 biggest/JJS
 question/NN
@@ -539,6 +544,7 @@ C-17/NNP
 military/JJ
 transport/NN
 ./.
+But/CC
 whether/IN
 things/NNS
 at/IN
@@ -590,3 +596,4 @@ need/VBP
 to/TO
 be/VB
 ./.
+''/''

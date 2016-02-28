@@ -123,6 +123,7 @@ most/JJS
 metal/NN
 parts/NNS
 ./.
+``/``
 Overall/JJ
 demand/NN
 still/RB
@@ -191,6 +192,7 @@ for/IN
 the/DT
 industry/NN
 ./.
+``/``
 Aerospace/NN
 orders/NNS
 are/VBP
@@ -225,6 +227,7 @@ been/VBN
 canceled/VBN
 ./.
 ''/''
+``/``
 September/NNP
 was/VBD
 one/CD
@@ -300,6 +303,7 @@ than/IN
 in/IN
 1989/CD
 ./.
+But/CC
 sales/NNS
 of/IN
 North/JJ
@@ -432,6 +436,7 @@ of/IN
 their/PRP$
 goods/NNS
 ./.
+However/RB
 ,/,
 there/EX
 's/VBZ
@@ -482,6 +487,7 @@ machine/NN
 tool/NN
 producer/NN
 ./.
+If/IN
 that/DT
 controversy/NN
 continues/VBZ

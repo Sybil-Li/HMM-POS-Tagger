@@ -35,6 +35,7 @@ a/DT
 controlling/JJ
 stake/NN
 ./.
+In/IN
 addition/NN
 ,/,
 Delmed/NNP
@@ -70,6 +71,7 @@ Medical/NNP
 Care/NNP
 Inc/NNP
 ./.
+Delmed/NNP
 said/VBD
 Robert/NNP
 S./NNP
@@ -162,6 +164,7 @@ available/JJ
 for/IN
 comment/NN
 ./.
+In/IN
 trading/NN
 on/IN
 the/DT
@@ -239,6 +242,7 @@ USA/NNP
 and/CC
 Delmed/NNP
 ./.
+Under/IN
 the/DT
 proposal/NN
 ,/,
@@ -319,6 +323,7 @@ previously/RB
 announced/VBN
 ./.
 ''/''
+While/IN
 the/DT
 discussions/NNS
 between/IN

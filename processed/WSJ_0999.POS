@@ -7,6 +7,7 @@ a/DT
 graying/VBG
 clientele/NN
 ./.
+Although/IN
 their/PRP$
 ads/NNS
 picture/VBP
@@ -229,6 +230,7 @@ Imperial/NNP
 Health/NNP
 Spa/NNP
 ./.
+``/``
 HOT/NNP
 ''/''
 TOPAZ/NNP
@@ -340,6 +342,7 @@ like/IN
 an/DT
 aquamarine/NN
 ./.
+``/``
 The/DT
 {/(
 stones/NNS

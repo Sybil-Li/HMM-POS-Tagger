@@ -137,6 +137,7 @@ access/NN
 memory/NN
 chips/NNS
 ./.
+While/IN
 IBM/NNP
 ,/,
 Armonk/NNP
@@ -400,6 +401,7 @@ of/IN
 memory/NN
 chips/NNS
 ./.
+Currently/RB
 ,/,
 chips/NNS
 are/VBP

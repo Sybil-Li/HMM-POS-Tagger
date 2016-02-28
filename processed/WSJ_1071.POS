@@ -226,6 +226,7 @@ at/IN
 PaineWebber/NNP
 Inc/NNP
 ./.
+In/IN
 New/NNP
 York/NNP
 Stock/NNP
@@ -314,6 +315,7 @@ barn/NN
 burner/NN
 ./.
 ''/''
+In/IN
 the/DT
 nine/CD
 months/NNS

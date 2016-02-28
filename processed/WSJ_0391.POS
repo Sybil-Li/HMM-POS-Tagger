@@ -88,6 +88,7 @@ Center/NNP
 of/IN
 Tokyo/NNP
 ./.
+In/IN
 1985/CD
 ,/,
 Rockefeller/NNP
@@ -153,6 +154,7 @@ trust/NN
 's/POS
 value/NN
 ./.
+If/IN
 the/DT
 trust/NN
 exercises/VBZ
@@ -414,6 +416,7 @@ Rockefeller/NNP
 in/IN
 1934/CD
 ./.
+When/WRB
 people/NNS
 ``/``
 understand/VBP
@@ -575,6 +578,7 @@ York/NNP
 Developments/NNP
 Ltd/NNP
 ./.
+Before/IN
 yesterday/NN
 's/POS
 announcement/NN

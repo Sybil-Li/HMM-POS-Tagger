@@ -41,6 +41,7 @@ thrift/NN
 failure/NN
 ever/RB
 ./.
+``/``
 Clearly/RB
 ,/,
 we/PRP
@@ -75,6 +76,7 @@ of/IN
 thrift/NN
 regulators/NNS
 ./.
+In/IN
 a/DT
 day/NN
 of/IN
@@ -625,6 +627,7 @@ background/NN
 work/NN
 completed/VBN
 ./.
+``/``
 At/IN
 a/DT
 later/JJ
@@ -802,6 +805,7 @@ and/CC
 unsound/JJ
 manner/NN
 ./.
+``/``
 Giving/VBG
 up/RP
 the/DT
@@ -929,3 +933,4 @@ was/VBD
 ``/``
 informational/JJ
 ./.
+''/''

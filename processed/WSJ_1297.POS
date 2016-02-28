@@ -300,6 +300,7 @@ this/DT
 summer/NN
 ./.
 ''/''
+In/IN
 the/DT
 year-ago/JJ
 third/JJ
@@ -348,6 +349,7 @@ $/$
 1.1/CD
 billion/CD
 ./.
+On/IN
 a/DT
 pro/FW
 forma/FW
@@ -398,6 +400,7 @@ $/$
 2.2/CD
 billion/CD
 ./.
+For/IN
 the/DT
 third/JJ
 quarter/NN
@@ -606,6 +609,7 @@ Television/NNP
 Communications/NNPS
 Corp/NNP
 ./.
+On/IN
 the/DT
 other/JJ
 hand/NN
@@ -701,6 +705,7 @@ HBO/NNP
 Comedy/NNP
 Channel/NNP
 ./.
+In/IN
 New/NNP
 York/NNP
 Stock/NNP

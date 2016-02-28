@@ -43,6 +43,7 @@ highly/RB
 leveraged/VBN
 takeovers/NNS
 ./.
+In/IN
 downgrading/VBG
 CS/NNP
 First/NNP
@@ -109,6 +110,7 @@ short-term/JJ
 corporate/JJ
 IOUs/NNS
 ./.
+In/IN
 addition/NN
 ,/,
 Moody/NNP
@@ -216,6 +218,7 @@ will/MD
 continue/VB
 ./.
 ''/''
+First/NNP
 Boston/NNP
 's/POS
 merchant/NN
@@ -374,6 +377,7 @@ merchant/NN
 banking-related/JJ
 business/NN
 ./.
+``/``
 Moody/NNP
 's/POS
 believes/VBZ
@@ -421,6 +425,7 @@ to/TO
 Ohio/NNP
 Mattress/NNP
 ./.
+``/``
 These/DT
 two/CD
 exposures/NNS
@@ -456,3 +461,4 @@ firm/NN
 's/POS
 equity/NN
 ./.
+''/''

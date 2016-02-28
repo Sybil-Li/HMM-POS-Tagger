@@ -4,6 +4,7 @@ Air-traffic/NN
 problems/NNS
 ,/,
 though/RB
+often/RB
 quite/RB
 grim/JJ
 ,/,
@@ -16,6 +17,7 @@ us/PRP
 in/IN
 stitches/NNS
 ,/,
+When/WRB
 we/PRP
 notice/VBP
 around/IN
@@ -27,11 +29,13 @@ pattern/NN
 for/IN
 witches/NNS
 ./.
+--/:
 Edward/NNP
 F./NNP
 Dempsey/NNP
 ./.
 Double-Jointed/NNP
+``/``
 I/PRP
 am/VBP
 beside/RB
@@ -46,6 +50,7 @@ moments/NNS
 of/IN
 heat/NN
 ,/,
+Without/IN
 ever/RB
 bothering/VBG
 To/TO
@@ -54,6 +59,7 @@ at/IN
 the/DT
 feat/NN
 ./.
+--/:
 Joshua/NNP
 Adams/NNP
 ./.
@@ -65,6 +71,7 @@ blow/NN
 to/TO
 the/DT
 ego/NN
+is/VBZ
 learning/VBG
 that/IN
 even/RB
@@ -73,6 +80,7 @@ mistakes/NNS
 go/VBP
 unnoticed/JJ
 ./.
+--/:
 Ivern/NNP
 Ball/NNP
 ./.

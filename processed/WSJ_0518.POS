@@ -88,6 +88,7 @@ a/DT
 herniated/VBN
 disk/NN
 ./.
+``/``
 There/EX
 's/VBZ
 a/DT
@@ -152,6 +153,7 @@ covering/VBG
 her/PRP$
 ailment/NN
 ./.
+For/IN
 employee/NN
 and/CC
 employer/NN
@@ -240,6 +242,7 @@ termed/VBN
 medically/RB
 uninsurable/JJ
 ./.
+``/``
 I/PRP
 have/VBP
 an/DT
@@ -359,6 +362,7 @@ backwater/NN
 for/IN
 them/PRP
 ./.
+``/``
 Insurance/NN
 companies/NNS
 will/MD
@@ -443,6 +447,7 @@ one/CD
 illness/NN
 ./.
 ''/''
+In/IN
 addition/NN
 ,/,
 the/DT
@@ -601,6 +606,7 @@ base/NN
 of/IN
 premiums/NNS
 ./.
+``/``
 I/PRP
 'm/VBP
 not/RB
@@ -701,6 +707,7 @@ the/DT
 insurance-cost/JJ
 problems/NNS
 ./.
+But/CC
 small-business/NN
 lobbyists/NNS
 say/VBP
@@ -760,6 +767,7 @@ companies/NNS
 as/IN
 clients/NNS
 ./.
+But/CC
 first/JJ
 on/IN
 the/DT
@@ -815,6 +823,7 @@ low-cost/JJ
 health-benefits/JJ
 package/NN
 ./.
+``/``
 Before/IN
 the/DT
 state/NN
@@ -1019,3 +1028,4 @@ one/CD
 major/JJ
 claim/NN
 ?/.
+''/''

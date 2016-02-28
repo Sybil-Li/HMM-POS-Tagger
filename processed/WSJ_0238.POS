@@ -66,6 +66,7 @@ tracks/VBZ
 CD/NN
 yields/NNS
 ./.
+``/``
 This/DT
 week/NN
 was/VBD
@@ -176,6 +177,7 @@ from/IN
 7.77/CD
 %/NN
 ./.
+Typically/RB
 ,/,
 banks/NNS
 offer/VBP
@@ -299,6 +301,7 @@ and/CC
 ,/,
 respectively/RB
 ./.
+However/RB
 ,/,
 CDs/NNS
 sold/VBD
@@ -344,6 +347,7 @@ Treasury/NNP
 bill/NN
 increase/NN
 ./.
+Among/IN
 the/DT
 major/JJ
 banks/NNS
@@ -423,6 +427,7 @@ was/VBD
 8.61/CD
 %/NN
 ./.
+Still/RB
 ,/,
 on/IN
 average/NN

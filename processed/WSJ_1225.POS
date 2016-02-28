@@ -91,6 +91,7 @@ until/IN
 Dec./NNP
 31/CD
 ,/,
+But/CC
 with/IN
 its/PRP$
 stake/NN
@@ -140,6 +141,7 @@ lift/VB
 the/DT
 restriction/NN
 ./.
+``/``
 We/PRP
 have/VBP
 not/RB
@@ -400,6 +402,7 @@ specific/JJ
 bid/NN
 proposal/NN
 ./.
+As/IN
 for/IN
 GM/NNP
 ,/,

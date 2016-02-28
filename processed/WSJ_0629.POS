@@ -1,3 +1,4 @@
+In/IN
 Bombay/NNP
 stock/NN
 market/NN
@@ -34,6 +35,7 @@ possible/JJ
 in/IN
 India/NNP
 ./.
+``/``
 When/WRB
 they/PRP
 talk/VBP
@@ -68,6 +70,7 @@ is/VBZ
 booming/VBG
 ./.
 ''/''
+But/CC
 the/DT
 mega-issues/NNS
 are/VBP
@@ -98,6 +101,7 @@ depressing/VBG
 stock/NN
 trading/NN
 ./.
+Moreover/RB
 ,/,
 in/IN
 the/DT
@@ -429,6 +433,7 @@ economic/JJ
 and/CC
 political/JJ
 ./.
+In/IN
 the/DT
 past/NN
 ,/,
@@ -484,6 +489,7 @@ inefficient/JJ
 industrial/JJ
 units/NNS
 ./.
+When/WRB
 Mr./NNP
 Gandhi/NNP
 came/VBD
@@ -727,6 +733,7 @@ under-the-table/JJ
 campaign/NN
 donations/NNS
 ./.
+So/RB
 far/RB
 ,/,
 the/DT
@@ -799,6 +806,7 @@ to/TO
 be/VB
 oversubscribed/VBN
 ./.
+Still/RB
 to/TO
 come/VB
 are/VBP
@@ -857,6 +865,7 @@ up/RP
 so/RB
 far/RB
 ./.
+``/``
 I/PRP
 do/VBP
 n't/RB
@@ -910,6 +919,7 @@ unseen/JJ
 before/RB
 ./.
 ''/''
+But/CC
 with/IN
 growth/NN
 come/VBP
@@ -930,6 +940,7 @@ market/NN
 than/IN
 now/RB
 ./.
+In/IN
 the/DT
 past/NN
 ,/,
@@ -1092,6 +1103,7 @@ get/VB
 to/TO
 work/VB
 ./.
+``/``
 Mega/JJ
 or/CC
 non-mega/JJ
@@ -1333,6 +1345,7 @@ an/DT
 iron/NN
 plant/NN
 ./.
+Once/RB
 the/DT
 money/NN
 is/VBZ
@@ -1407,6 +1420,7 @@ according/VBG
 to/TO
 analysts/NNS
 ./.
+``/``
 Someone/NN
 must/MD
 monitor/VB
@@ -1458,6 +1472,7 @@ for/IN
 this/DT
 ./.
 ''/''
+Because/IN
 of/IN
 the/DT
 large/JJ

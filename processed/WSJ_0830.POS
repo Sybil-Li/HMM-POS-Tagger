@@ -83,6 +83,7 @@ or/CC
 organs/NNS
 ./.
 ''/''
+``/``
 Erotic/NNP
 City/NNP
 ,/,
@@ -194,6 +195,7 @@ at/IN
 midday/NN
 yesterday/NN
 ./.
+But/CC
 the/DT
 proposed/JJ
 fine/NN
@@ -284,6 +286,7 @@ as/RB
 too/RB
 restrictive/JJ
 ./.
+``/``
 You/PRP
 have/VBP
 to/TO
@@ -449,6 +452,7 @@ contemporaneous/JJ
 humor/NN
 ./.
 ''/''
+So/RB
 far/RB
 the/DT
 indecency/NN
@@ -524,6 +528,7 @@ cooler/JJR
 heads/NNS
 prevailed/VBD
 ./.
+But/CC
 the/DT
 agency/NN
 has/VBZ

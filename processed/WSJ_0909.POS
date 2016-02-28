@@ -153,6 +153,7 @@ a/DT
 public-relations/NNS
 business/NN
 ./.
+Surviving/VBG
 scandal/NN
 has/VBZ
 become/VBN
@@ -234,6 +235,7 @@ public/JJ
 outrage/NN
 ./.
 ''/''
+Not/RB
 all/PDT
 the/DT
 scandal-tripped/JJ
@@ -274,6 +276,7 @@ of/IN
 post-Watergate/JJ
 scandal/NN
 ./.
+Given/VBN
 their/PRP$
 own/JJ
 penchant/NN
@@ -323,6 +326,7 @@ rules/NNS
 Pretend/VB
 Nothing/NN
 Happened/VBD
+As/IN
 if/IN
 he/PRP
 were/VBD
@@ -411,6 +415,7 @@ Yale/NNP
 Political/NNP
 Union/NNP
 ./.
+``/``
 He/PRP
 's/VBZ
 as/RB
@@ -432,6 +437,8 @@ aide/NN
 Larry/NNP
 Shannon/NNP
 ./.
+Atone/VB
+On/IN
 the/DT
 edge/NN
 of/IN
@@ -641,6 +648,7 @@ charges/NNS
 ./.
 Finding/NNP
 God/NNP
+``/``
 When/WRB
 someone/NN
 says/VBZ
@@ -688,6 +696,7 @@ at/IN
 the/DT
 pulpit/NN
 ./.
+But/CC
 it/PRP
 does/VBZ
 n't/RB
@@ -866,6 +875,7 @@ important/JJ
 Do/VB
 n't/RB
 Linger/VB
+``/``
 The/DT
 best/JJS
 thing/NN
@@ -929,6 +939,7 @@ investigations/NNS
 took/VBD
 hold/NN
 ./.
+Among/IN
 the/DT
 glitterati/NNS
 who/WP
@@ -1101,6 +1112,7 @@ of/IN
 public/JJ
 drunkenness/NN
 ./.
+``/``
 I/PRP
 cut/VBD
 my/PRP$
@@ -1350,6 +1362,7 @@ on/IN
 shoplifting/NN
 charges/NNS
 ./.
+Be/VB
 the/DT
 Star/NN
 Central/JJ
@@ -1532,6 +1545,7 @@ members/NNS
 of/IN
 Congress/NNP
 ./.
+If/IN
 Sex/NN
 Is/VBZ
 Involved/VBN
@@ -1578,6 +1592,7 @@ says/VBZ
 Mr./NNP
 Mankiewicz/NNP
 ./.
+Nevertheless/RB
 ,/,
 Rep./NNP
 Gerry/NNP
@@ -1668,6 +1683,7 @@ own/JJ
 he/PRP
 says/VBZ
 ./.
+If/IN
 the/DT
 political/JJ
 establishment/NN
@@ -1738,8 +1754,10 @@ mogul/NN
 Robert/NNP
 Maxwell/NNP
 ./.
+Become/VB
 a/DT
 Lobbyist/NN
+When/WRB
 all/DT
 else/RB
 fails/VBZ
@@ -2040,3 +2058,4 @@ at/IN
 Sotheby/NNP
 's/POS
 ./.
+''/''

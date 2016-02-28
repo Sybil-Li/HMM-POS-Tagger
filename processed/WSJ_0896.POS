@@ -41,6 +41,7 @@ French/JJ
 vaccine/NN
 manufacturer/NN
 ./.
+Under/IN
 the/DT
 terms/NNS
 of/IN
@@ -208,6 +209,7 @@ bid/NN
 over/IN
 another/DT
 ./.
+``/``
 Both/DT
 of/IN
 these/DT
@@ -316,6 +318,7 @@ Canada/NNP
 to/TO
 approve/VB
 ./.
+``/``
 Reaching/VBG
 an/DT
 agreement/NN

@@ -24,6 +24,7 @@ periods/NNS
 of/IN
 crisis/NN
 ./.
+In/IN
 testimony/NN
 to/TO
 the/DT
@@ -103,6 +104,7 @@ in/IN
 an/DT
 emergency/NN
 ./.
+But/CC
 Mr./NNP
 Brady/NNP
 argued/VBD
@@ -175,6 +177,7 @@ the/DT
 1987/CD
 crash/NN
 ./.
+``/``
 This/DT
 raises/VBZ
 questions/NNS
@@ -534,6 +537,7 @@ time/NN
 he/PRP
 said/VBD
 ./.
+But/CC
 Mr./NNP
 Brady/NNP
 endorsed/VBD

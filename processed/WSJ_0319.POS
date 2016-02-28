@@ -55,6 +55,7 @@ quarter/NN
 of/IN
 1988/CD
 ./.
+``/``
 Wage/NN
 increases/NNS
 and/CC
@@ -88,6 +89,7 @@ business/NN
 research/NN
 organization/NN
 ./.
+``/``
 One/PRP
 would/MD
 have/VB
@@ -180,6 +182,7 @@ the/DT
 same/JJ
 period/NN
 ./.
+Despite/IN
 the/DT
 big/JJ
 increases/NNS
@@ -294,6 +297,7 @@ in/IN
 all/DT
 industries/NNS
 ./.
+In/IN
 the/DT
 third/JJ
 quarter/NN
@@ -327,6 +331,7 @@ quarter/NN
 of/IN
 1988/CD
 ./.
+For/IN
 the/DT
 past/JJ
 five/CD
@@ -410,6 +415,7 @@ Northeast/NNP
 than/IN
 elsewhere/RB
 ./.
+Including/VBG
 employees/NNS
 of/IN
 state/NN
@@ -458,6 +464,7 @@ the/DT
 second/JJ
 quarter/NN
 ./.
+For/IN
 the/DT
 12/CD
 months/NNS
@@ -495,6 +502,7 @@ in/IN
 September/NNP
 1988/CD
 ./.
+Unlike/IN
 most/JJS
 economic/JJ
 indicators/NNS

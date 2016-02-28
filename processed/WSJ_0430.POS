@@ -17,6 +17,7 @@ even/RB
 an/DT
 earthquake/NN
 ./.
+On/IN
 the/DT
 afternoon/NN
 of/IN
@@ -111,6 +112,7 @@ verge/NN
 of/IN
 collapse/NN
 ./.
+``/``
 The/DT
 judge/NN
 came/VBD
@@ -205,6 +207,7 @@ under/IN
 a/DT
 table/NN
 ./.
+``/``
 Let/VB
 's/POS
 close/VB
@@ -222,6 +225,7 @@ to/TO
 his/PRP$
 bench/NN
 ./.
+At/IN
 stake/NN
 was/VBD
 an/DT
@@ -301,6 +305,7 @@ in/IN
 the/DT
 case/NN
 ./.
+Indeed/RB
 ,/,
 the/DT
 insurance/NN
@@ -367,6 +372,7 @@ and/CC
 figuratively/RB
 ./.
 ''/''
+``/``
 My/PRP$
 belief/NN
 is/VBZ
@@ -448,3 +454,4 @@ on/IN
 my/PRP$
 mind/NN
 ./.
+''/''

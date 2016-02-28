@@ -1,3 +1,4 @@
+Probably/RB
 the/DT
 most/RBS
 clear-cut/JJ
@@ -11,7 +12,8 @@ is/VBZ
 the/DT
 Krasnoyarsk/NNP
 radar/NN
-./.--/:
+./.
+--/:
 ``/``
 Arms/NNS
 Control/NN
@@ -38,6 +40,7 @@ the/DT
 ABM/NNP
 treaty/NN
 ./.
+--/:
 ``/``
 Whether/IN
 the/DT
@@ -109,7 +112,8 @@ Defense/NNP
 Council/NNP
 staff/NN
 members/NN
-./.--/:
+./.
+--/:
 The/DT
 Washington/NNP
 Post/NNP
@@ -119,6 +123,7 @@ Sept./NNP
 ,/,
 1987/CD
 ./.
+--/:
 The/DT
 U.S.S.R./NNP
 has/VBZ
@@ -181,7 +186,8 @@ of/IN
 the/DT
 Soviet/NNP
 Union/NNP
-./.--/:
+./.
+--/:
 Letter/NN
 from/IN
 Eduard/NNP
@@ -202,6 +208,7 @@ June/NNP
 ,/,
 1988/CD
 ./.
+--/:
 The/DT
 construction/NN
 of/IN
@@ -226,7 +233,8 @@ clear/JJ
 violation/NN
 of/IN
 ABM/NNP
-./.--/:
+./.
+--/:
 Eduard/NNP
 Shevardnadze/NNP
 ,/,
@@ -496,6 +504,7 @@ number/NN
 of/IN
 deaths/NNS
 ./.
+Since/IN
 Mr./NNP
 Shevardnadze/NNP
 did/VBD

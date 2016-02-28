@@ -34,6 +34,7 @@ to/TO
 66.7/CD
 %/NN
 ./.
+At/IN
 a/DT
 news/NN
 conference/NN
@@ -355,6 +356,7 @@ a/DT
 real/JJ
 battle/NN
 ./.
+``/``
 Without/IN
 some/DT
 unexpected/JJ

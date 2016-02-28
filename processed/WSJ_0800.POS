@@ -49,6 +49,7 @@ fit/VB
 the/DT
 mold/NN
 ./.
+In/IN
 Japan/NNP
 ,/,
 he/PRP
@@ -81,6 +82,7 @@ share/NN
 of/IN
 dents/NNS
 ./.
+Nearly/RB
 20/CD
 years/NNS
 ago/RB
@@ -469,6 +471,7 @@ his/PRP$
 intentions/NNS
 were/VBD
 ./.
+``/``
 We/PRP
 're/VBP
 an/DT
@@ -620,6 +623,7 @@ including/VBG
 a/DT
 Picasso/NNP
 ./.
+``/``
 He/PRP
 makes/VBZ
 snap/JJ
@@ -838,6 +842,7 @@ Thatcher/NNP
 's/POS
 son/NN
 ./.
+But/CC
 when/WRB
 asked/VBD
 what/WP
@@ -876,6 +881,7 @@ to/TO
 answer/VB
 ./.
 ''/''
+Not/RB
 many/JJ
 people/NNS
 know/VBP
@@ -1122,6 +1128,7 @@ surrounding/VBG
 his/PRP$
 property/NN
 ./.
+Although/IN
 Mr./NNP
 Morishita/NNP
 says/VBZ
@@ -1232,3 +1239,4 @@ to/TO
 Chicago/NNP
 tomorrow/NN
 ./.
+''/''

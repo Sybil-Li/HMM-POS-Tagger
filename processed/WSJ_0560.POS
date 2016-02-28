@@ -1,3 +1,4 @@
+When/WRB
 Westinghouse/NNP
 Electric/NNP
 Corp./NNP
@@ -32,6 +33,7 @@ power/NN
 generation/NN
 business/NN
 ./.
+But/CC
 now/RB
 Westinghouse/NNP
 is/VBZ
@@ -84,6 +86,7 @@ growing/VBG
 markets/NNS
 overseas/RB
 ./.
+For/IN
 the/DT
 first/JJ
 time/NN
@@ -264,6 +267,7 @@ to/TO
 close/VB
 deals/NNS
 ./.
+But/CC
 last/JJ
 June/NNP
 's/POS
@@ -317,6 +321,7 @@ Borax/NNP
 Chemical/NNP
 Co/NNP
 ./.
+``/``
 We/PRP
 have/VBP
 n't/RB
@@ -363,6 +368,7 @@ utility/NN
 systems/NNS
 group/NN
 ./.
+At/IN
 the/DT
 same/JJ
 time/NN
@@ -492,6 +498,7 @@ of/IN
 currency/NN
 fluctuations/NNS
 ./.
+``/``
 Even/RB
 though/IN
 we/PRP
@@ -628,6 +635,7 @@ next/JJ
 six/CD
 years/NNS
 ./.
+Despite/IN
 shutdowns/NNS
 of/IN
 the/DT
@@ -663,6 +671,7 @@ in/IN
 North/NNP
 Carolina/NNP
 ./.
+Still/RB
 ,/,
 Westinghouse/NNP
 acknowledges/VBZ
@@ -709,6 +718,7 @@ significant/JJ
 generating/VBG
 capacity/NN
 ./.
+Even/RB
 if/IN
 that/DT
 scenario/NN
@@ -798,3 +808,4 @@ line/NN
 by/IN
 2000/CD
 ./.
+''/''

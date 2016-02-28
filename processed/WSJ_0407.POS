@@ -72,6 +72,7 @@ White/NNP
 House/NNP
 said/VBD
 ./.
+In/IN
 remarks/NNS
 at/IN
 a/DT
@@ -124,6 +125,7 @@ be/VB
 a/DT
 member/NN
 ./.
+In/IN
 addition/NN
 ,/,
 the/DT

@@ -59,6 +59,7 @@ dismay/NN
 of/IN
 agencies/NNS
 ./.
+Now/RB
 ,/,
 after/IN
 beating/VBG
@@ -113,6 +114,7 @@ Canter/NNP
 Achenbaum/NNP
 Associates/NNPS
 ./.
+In/IN
 years/NNS
 past/RB
 ,/,
@@ -173,6 +175,7 @@ consulting/NN
 business/NN
 ./.
 ''/''
+But/CC
 industry/NN
 executives/NNS
 also/RB
@@ -381,6 +384,7 @@ become/VBP
 clients/NNS
 ./.
 ''/''
+At/IN
 Backer/NNP
 Spielvogel/NNP
 ,/,
@@ -569,6 +573,7 @@ about/IN
 years/NNS
 ago/RB
 ./.
+Before/IN
 becoming/VBG
 a/DT
 consultant/NN
@@ -845,6 +850,7 @@ including/VBG
 declining/VBG
 sales/NNS
 ./.
+``/``
 The/DT
 trail/NN
 of/IN
@@ -1166,6 +1172,7 @@ performance/NN
 label/NN
 ./.
 ''/''
+With/IN
 the/DT
 new/JJ
 TV/NN

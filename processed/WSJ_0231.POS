@@ -28,6 +28,7 @@ Germany/NNP
 ended/VBD
 higher/RBR
 ./.
+In/IN
 Tokyo/NNP
 ,/,
 the/DT
@@ -430,6 +431,7 @@ losers/NNS
 by/IN
 afternoon/NN
 ./.
+In/IN
 other/JJ
 stock-market/NN
 news/NN
@@ -487,6 +489,7 @@ to/TO
 billion/CD
 yen/NNS
 ./.
+In/IN
 London/NNP
 ,/,
 prices/NNS
@@ -542,6 +545,7 @@ of/IN
 recent/JJ
 weeks/NNS
 ./.
+``/``
 Volume/NN
 has/VBZ
 been/VBN
@@ -589,6 +593,7 @@ their/PRP$
 books/NNS
 ./.
 ''/''
+Meanwhile/RB
 ,/,
 the/DT
 broad-based/JJ
@@ -617,6 +622,7 @@ into/IN
 the/DT
 session/NN
 ./.
+At/IN
 the/DT
 close/NN
 ,/,
@@ -741,6 +747,7 @@ at/IN
 the/DT
 beginning/NN
 of/IN
+But/CC
 although/IN
 the/DT
 golden/JJ
@@ -794,6 +801,7 @@ of/IN
 million/CD
 shares/NNS
 ./.
+As/IN
 the/DT
 London/NNP
 trading/NN
@@ -837,6 +845,7 @@ and/CC
 currency/NN
 issues/NNS
 ./.
+On/IN
 the/DT
 Frankfurt/NNP
 Stock/NNP
@@ -871,6 +880,7 @@ up/RB
 from/IN
 1466.29/CD
 ./.
+Despite/IN
 the/DT
 modest/JJ
 gains/NNS
@@ -890,6 +900,7 @@ on/IN
 the/DT
 sidelines/NNS
 ./.
+Contributing/VBG
 to/TO
 the/DT
 market/NN
@@ -944,6 +955,7 @@ role/NN
 traders/NNS
 said/VBD
 ./.
+Elsewhere/RB
 ,/,
 share/NN
 prices/NNS
@@ -996,6 +1008,7 @@ for/IN
 a/DT
 holiday/NN
 ./.
+Here/RB
 are/VBP
 price/NN
 trends/NNS

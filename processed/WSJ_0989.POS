@@ -45,6 +45,7 @@ into/IN
 the/DT
 trash/NN
 ./.
+``/``
 We/PRP
 just/RB
 do/VBP
@@ -211,6 +212,7 @@ given/VBN
 mass/NN
 mailing/NN
 ./.
+Why/WRB
 the/DT
 revolt/NN
 ?/.
@@ -592,6 +594,7 @@ their/PRP$
 home/NN
 addresses/NNS
 ./.
+At/IN
 Air/NNP
 Products/NNPS
 ,/,

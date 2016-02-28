@@ -119,6 +119,7 @@ computers/NNS
 analysts/NNS
 said/VBD
 ./.
+``/``
 The/DT
 company/NN
 's/VBZ
@@ -155,6 +156,7 @@ their/PRP$
 price/NN
 ./.
 ''/''
+In/IN
 the/DT
 battle/NN
 to/TO
@@ -298,6 +300,7 @@ the/DT
 workstation/NN
 market/NN
 ./.
+In/IN
 addition/NN
 ,/,
 the/DT

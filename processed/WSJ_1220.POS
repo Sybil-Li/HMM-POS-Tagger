@@ -26,6 +26,7 @@ customary/JJ
 three/CD
 years/NNS
 ./.
+Underwriting/VBG
 syndicates/NNS
 at/IN
 Lloyd/NNP
@@ -161,6 +162,7 @@ Lloyd/NNP
 's/POS
 said/VBD
 ./.
+As/IN
 a/DT
 result/NN
 ,/,
@@ -198,6 +200,7 @@ by/IN
 year/NN
 end/NN
 ./.
+Under/IN
 the/DT
 new/JJ
 rules/NNS

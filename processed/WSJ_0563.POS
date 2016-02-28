@@ -171,6 +171,7 @@ to/TO
 home/NN
 taping/NN
 ./.
+``/``
 I/PRP
 think/VBP
 it/PRP
@@ -353,6 +354,7 @@ into/IN
 the/DT
 agreement/NN
 ./.
+Under/IN
 current/JJ
 copyright/JJ
 laws/NNS
@@ -577,3 +579,4 @@ a/DT
 technical/JJ
 one/CD
 ./.
+''/''

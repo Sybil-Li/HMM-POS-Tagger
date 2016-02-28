@@ -83,6 +83,7 @@ $/$
 a/DT
 share/NN
 ./.
+In/IN
 the/DT
 SEC/NNP
 filing/NN
@@ -206,6 +207,7 @@ $/$
 a/DT
 share/NN
 ./.
+In/IN
 New/NNP
 York/NNP
 Stock/NNP

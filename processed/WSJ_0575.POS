@@ -23,6 +23,7 @@ repurchasing/VBG
 public/JJ
 debt/NN
 ./.
+Moreover/RB
 ,/,
 the/DT
 company/NN
@@ -56,6 +57,7 @@ solutions/NNS
 ''/''
 business/NN
 ./.
+``/``
 I/PRP
 'm/VBP
 not/RB
@@ -115,6 +117,7 @@ $/$
 1/CD
 billion/CD
 ./.
+Now/RB
 ,/,
 following/VBG
 asset/NN
@@ -163,6 +166,7 @@ debentures/NNS
 next/IN
 year/NN
 ./.
+``/``
 We/PRP
 'd/MD
 like/VB
@@ -426,6 +430,7 @@ its/PRP$
 supercomputer/NN
 unit/NN
 ./.
+While/IN
 a/DT
 few/JJ
 assets/NNS
@@ -720,6 +725,7 @@ spiked/VBN
 he/PRP
 said/VBD
 ./.
+Asked/VBN
 how/WRB
 the/DT
 company/NN
@@ -811,6 +817,7 @@ major/JJ
 commercial/JJ
 niche/NN
 ./.
+Reviewing/VBG
 the/DT
 company/NN
 's/POS
@@ -839,6 +846,7 @@ Absolutely/RB
 he/PRP
 said/VBD
 ./.
+But/CC
 while/IN
 its/PRP$
 stock/NN

@@ -121,6 +121,7 @@ $/$
 4.2/CD
 billion/CD
 ./.
+But/CC
 sales/NNS
 for/IN
 U.S./NNP
@@ -206,6 +207,7 @@ composite/NN
 trading/NN
 yesterday/NN
 ./.
+While/IN
 franchisees/NNS
 were/VBD
 having/VBG
@@ -257,6 +259,7 @@ aiding/VBG
 promotional/JJ
 efforts/NNS
 ./.
+On/IN
 average/NN
 in/IN
 the/DT
@@ -380,6 +383,7 @@ in/IN
 the/DT
 quarter/NN
 ./.
+Apparently/RB
 acknowledging/VBG
 weaker/JJR
 U.S./NNP
@@ -408,6 +412,7 @@ the/DT
 brand/NN
 ./.
 ''/''
+Overseas/RB
 ,/,
 both/DT
 franchisees/NNS
@@ -469,6 +474,7 @@ remained/VBD
 in/IN
 effect/NN
 ./.
+``/``
 Going/VBG
 into/IN
 the/DT
@@ -495,6 +501,7 @@ Peabody/NNP
 &/CC
 Co/NNP
 ./.
+Reflecting/VBG
 better/JJR
 growth/NN
 prospects/NNS
@@ -543,6 +550,7 @@ units/NNS
 operating/VBG
 world-wide/JJ
 ./.
+In/IN
 the/DT
 nine/CD
 months/NNS

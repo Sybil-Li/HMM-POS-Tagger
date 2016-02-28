@@ -1,3 +1,4 @@
+About/IN
 400,000/CD
 commuters/NNS
 trying/VBG
@@ -32,6 +33,7 @@ for/IN
 buses/NNS
 yesterday/NN
 ./.
+In/IN
 other/JJ
 words/NNS
 ,/,
@@ -125,6 +127,7 @@ the/DT
 101/CD
 connections/NNS
 ./.
+But/CC
 in/IN
 spite/NN
 of/IN
@@ -172,6 +175,7 @@ sleek/JJ
 modern/JJ
 railcars/NNS
 ./.
+Moreover/RB
 ,/,
 the/DT
 two/CD
@@ -307,6 +311,7 @@ minutes/NNS
 or/CC
 more/JJR
 ./.
+Not/RB
 that/IN
 getting/VBG
 into/IN
@@ -413,6 +418,7 @@ the/DT
 financial/JJ
 district/NN
 ./.
+``/``
 It/PRP
 's/VBZ
 worse/JJR
@@ -436,6 +442,7 @@ buses/NNS
 are/VBP
 ./.
 ''/''
+But/CC
 while/IN
 traffic/NN
 was/VBD
@@ -534,6 +541,7 @@ an/DT
 average/JJ
 day/NN
 ./.
+At/IN
 the/DT
 San/NNP
 Mateo/NNP
@@ -762,6 +770,7 @@ by/IN
 20/CD
 %/NN
 ./.
+At/IN
 Pacific/NNP
 Telesis/NNP
 Group/NNP
@@ -833,6 +842,7 @@ the/DT
 East/NNP
 Bay/NNP
 ./.
+But/CC
 transportation/NN
 officials/NNS
 worry/VBP

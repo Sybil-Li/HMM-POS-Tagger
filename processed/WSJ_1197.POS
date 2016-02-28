@@ -60,6 +60,7 @@ $/$
 105.4/CD
 million/CD
 ./.
+In/IN
 New/NNP
 York/NNP
 Stock/NNP
@@ -77,6 +78,7 @@ down/RB
 25/CD
 cents/NNS
 ./.
+``/``
 A/DT
 significant/JJ
 increase/NN
@@ -124,6 +126,7 @@ the/DT
 company/NN
 said/VBD
 ./.
+For/IN
 the/DT
 nine/CD
 months/NNS

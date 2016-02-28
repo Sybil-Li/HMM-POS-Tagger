@@ -181,6 +181,7 @@ contract/NN
 in/IN
 1984/CD
 ./.
+Only/RB
 three/CD
 weeks/NNS
 earlier/RBR
@@ -349,6 +350,7 @@ and/CC
 general/JJ
 counsel/NN
 ./.
+By/IN
 contrast/NN
 ,/,
 the/DT
@@ -444,6 +446,7 @@ natural/JJ
 gas/NN
 market/NN
 ./.
+``/``
 Our/PRP$
 members/NNS
 are/VBP
@@ -542,6 +545,7 @@ Chicago/NNP
 Mercantile/NNP
 Exchange/NNP
 ./.
+In/IN
 a/DT
 recent/JJ
 interview/NN
@@ -637,6 +641,7 @@ of/IN
 those/DT
 subpoenas/NNS
 ./.
+In/IN
 a/DT
 recent/JJ
 General/NNP
@@ -772,6 +777,7 @@ at/IN
 the/DT
 exchange/NN
 ./.
+``/``
 We/PRP
 had/VBD
 a/DT
@@ -836,6 +842,7 @@ are/VBP
 being/VBG
 followed/VBN
 ./.
+For/IN
 years/NNS
 the/DT
 five/CD
@@ -1172,6 +1179,7 @@ Commodities/NNP
 Clearing/NNP
 House/NNP
 ./.
+Looking/VBG
 ahead/RB
 to/TO
 commodity/NN
@@ -1242,6 +1250,7 @@ the/DT
 market/NN
 oversold/JJ
 ./.
+``/``
 I/PRP
 think/VBP
 the/DT
@@ -1719,6 +1728,7 @@ the/DT
 Soviet/NNP
 Union/NNP
 ./.
+In/IN
 recent/JJ
 weeks/NNS
 ,/,

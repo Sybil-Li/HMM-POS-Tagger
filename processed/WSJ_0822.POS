@@ -53,6 +53,7 @@ cents/NNS
 a/DT
 share/NN
 ./.
+In/IN
 the/DT
 year-earlier/JJ
 quarter/NN
@@ -97,6 +98,7 @@ $/$
 a/DT
 share/NN
 ./.
+As/IN
 partial/JJ
 compensation/NN
 to/TO
@@ -190,6 +192,7 @@ $/$
 a/DT
 share/NN
 ./.
+While/IN
 an/DT
 exception/NN
 could/MD
@@ -224,6 +227,7 @@ for/IN
 the/DT
 company/NN
 ./.
+As/IN
 previously/RB
 reported/VBN
 ,/,
@@ -301,6 +305,7 @@ $/$
 2.11/CD
 billion/CD
 ./.
+Although/IN
 Quantum/NNP
 has/VBZ
 captured/VBN
@@ -345,6 +350,7 @@ broader/JJR
 business/NN
 bases/NNS
 ./.
+In/IN
 addition/NN
 ,/,
 two/CD
@@ -481,6 +487,7 @@ for/IN
 the/DT
 quarter/NN
 ./.
+Moreover/RB
 ,/,
 Quantum/NNP
 is/VBZ
@@ -513,6 +520,7 @@ flow/NN
 and/CC
 earnings/NNS
 ./.
+Despite/IN
 the/DT
 hammering/NN
 ,/,

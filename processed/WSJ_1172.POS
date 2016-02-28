@@ -86,6 +86,7 @@ to/TO
 15/CD
 %/NN
 ./.
+``/``
 The/DT
 outlook/NN
 has/VBZ
@@ -155,6 +156,7 @@ to/TO
 spend/VB
 more/JJR
 ./.
+But/CC
 despite/IN
 mounting/VBG
 recession/NN
@@ -196,6 +198,7 @@ imports/NNS
 and/CC
 exports/NNS
 ./.
+As/IN
 a/DT
 result/NN
 ,/,
@@ -272,6 +275,7 @@ other/JJ
 major/JJ
 currencies/NNS
 ./.
+Fending/VBG
 off/RP
 attacks/NNS
 on/IN
@@ -401,6 +405,7 @@ of/IN
 and/CC
 1982/CD
 ./.
+Still/RB
 ,/,
 Britain/NNP
 's/POS
@@ -574,6 +579,7 @@ and/CC
 official/JJ
 transfers/NNS
 ./.
+Despite/IN
 the/DT
 narrowing/NN
 of/IN

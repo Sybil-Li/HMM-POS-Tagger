@@ -1,3 +1,4 @@
+Reaching/VBG
 for/IN
 that/DT
 extra/JJ
@@ -22,6 +23,7 @@ you/PRP
 investing/VBG
 in/IN
 ./.
+Just/RB
 ask/VB
 Richard/NNP
 Blumenfeld/NNP
@@ -40,6 +42,7 @@ sophisticated/JJ
 investor/NN
 ./.
 ''/''
+In/IN
 May/NNP
 1986/CD
 ,/,
@@ -70,6 +73,7 @@ than/IN
 9/CD
 %/NN
 ./.
+``/``
 It/PRP
 was/VBD
 a/DT
@@ -119,6 +123,7 @@ a/DT
 great/JJ
 deal/NN
 ./.
+But/CC
 nearly/RB
 3/CD
 1\/2/CD
@@ -215,6 +220,7 @@ investor/NN
 's/POS
 return/NN
 ./.
+More/RBR
 important/JJ
 ,/,
 the/DT
@@ -292,6 +298,7 @@ increased/VBN
 market/NN
 value/NN
 ./.
+Now/RB
 the/DT
 thrift/NN
 that/WDT
@@ -475,6 +482,7 @@ appreciating/VBG
 the/DT
 risk/NN
 ./.
+``/``
 Yield/NN
 greed/NN
 often/RB
@@ -788,6 +796,7 @@ CD/NNP
 he/PRP
 says/VBZ
 ./.
+Nevertheless/RB
 ,/,
 Merrill/NNP
 Lynch/NNP
@@ -858,6 +867,7 @@ $/$
 100,000/CD
 ./.
 )/)
+``/``
 It/PRP
 's/VBZ
 not/RB
@@ -1046,6 +1056,7 @@ various/JJ
 maturities/NNS
 outstanding/JJ
 ./.
+Because/IN
 of/IN
 the/DT
 tax/NN
@@ -1113,6 +1124,7 @@ value/NN
 by/IN
 maturity/NN
 ./.
+But/CC
 investors/NNS
 who/WP
 bought/VBD
@@ -1297,3 +1309,4 @@ out/IN
 for/IN
 you/PRP
 ./.
+''/''

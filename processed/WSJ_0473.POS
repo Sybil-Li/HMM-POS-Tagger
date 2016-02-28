@@ -88,6 +88,7 @@ Mackenzie/NNP
 River/NNP
 delta/NN
 ./.
+``/``
 This/DT
 is/VBZ
 a/DT
@@ -117,6 +118,7 @@ an/DT
 industry/NN
 group/NN
 ./.
+``/``
 Foothills/NNS
 wants/VBZ
 to/TO
@@ -148,6 +150,7 @@ Mr./NNP
 Hillary/NNP
 said/VBD
 ./.
+At/IN
 least/JJS
 two/CD
 rival/JJ
@@ -264,6 +267,7 @@ York/NNP
 Developments/NNP
 Ltd/NNP
 ./.
+``/``
 The/DT
 {/(
 National/NNP
@@ -359,6 +363,7 @@ is/VBZ
 now/RB
 updating/VBG
 ./.
+Like/IN
 Foothills/NNP
 ,/,
 TransCanada/NNP
@@ -440,6 +445,7 @@ Alberta/NNP
 ,/,
 respectively/RB
 ./.
+``/``
 This/DT
 is/VBZ
 virgin/JJ
@@ -554,6 +560,7 @@ the/DT
 final/JJ
 go-ahead/NN
 ./.
+First/RB
 ,/,
 the/DT
 price/NN
@@ -899,6 +906,7 @@ a/DT
 joint/JJ
 proposal/NN
 ./.
+As/IN
 for/IN
 Foothills/NNP
 '/POS
@@ -929,3 +937,4 @@ that/DT
 their/PRP$
 strategy/NN
 ./.
+''/''

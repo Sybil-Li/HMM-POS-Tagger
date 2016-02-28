@@ -406,6 +406,7 @@ power/NN
 he/PRP
 needs/VBZ
 ./.
+Like/IN
 most/JJS
 treasury/NN
 secretaries/NNS
@@ -601,6 +602,7 @@ two/CD
 years/NNS
 ago/IN
 ./.
+In/IN
 recent/JJ
 weeks/NNS
 ,/,
@@ -673,6 +675,7 @@ spurring/VBG
 economic/JJ
 growth/NN
 ./.
+At/IN
 least/JJS
 some/DT
 economists/NNS
@@ -771,6 +774,7 @@ influence/VB
 Fed/NNP
 policy/NN
 ./.
+Equally/RB
 importantly/RB
 ,/,
 the/DT
@@ -885,6 +889,7 @@ domestic/JJ
 money/NN
 market/NN
 ./.
+Now/RB
 ,/,
 sterilized/VBN
 intervention/NN
@@ -1008,6 +1013,7 @@ his/PRP$
 associates/NNS
 know/VBP
 ./.
+Earlier/RBR
 this/DT
 year/NN
 ,/,

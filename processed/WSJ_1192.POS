@@ -27,6 +27,7 @@ past/JJ
 few/JJ
 weeks/NNS
 ./.
+Citing/VBG
 rising/VBG
 fuel/NN
 costs/NNS
@@ -83,6 +84,7 @@ for/IN
 the/DT
 period/NN
 ./.
+So/RB
 far/RB
 ,/,
 the/DT
@@ -244,6 +246,7 @@ next/JJ
 three/CD
 years/NNS
 ./.
+For/IN
 travelers/NNS
 ,/,
 though/RB
@@ -300,6 +303,7 @@ becoming/VBG
 too/RB
 expensive/JJ
 ./.
+Just/RB
 last/JJ
 week/NN
 ,/,
@@ -466,6 +470,7 @@ $/$
 1.48/CD
 billion/CD
 ./.
+For/IN
 the/DT
 nine/CD
 months/NNS
@@ -578,6 +583,7 @@ Exchange/NNP
 composite/JJ
 trading/NN
 ./.
+``/``
 Nobody/NN
 was/VBD
 expecting/VBG
@@ -616,6 +622,7 @@ loss/NN
 amazing/JJ
 ./.
 ''/''
+In/IN
 announcing/VBG
 the/DT
 results/NNS
@@ -849,6 +856,7 @@ the/DT
 normal/JJ
 rate/NN
 ./.
+Rising/VBG
 operating/NN
 expenses/NNS
 are/VBP

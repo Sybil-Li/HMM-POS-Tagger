@@ -1,3 +1,4 @@
+In/IN
 search/NN
 of/IN
 buyers/NNS
@@ -40,6 +41,7 @@ be/VB
 cautious/JJ
 shoppers/NNS
 ./.
+``/``
 We/PRP
 have/VBP
 the/DT
@@ -213,6 +215,7 @@ Tokyo/NNP
 department/NN
 store/NN
 ./.
+Still/RB
 ,/,
 for/IN
 those/DT
@@ -285,6 +288,7 @@ Bloomingdale/NNP
 's/POS
 group/NN
 ./.
+``/``
 Every/DT
 department/NN
 store/NN
@@ -335,6 +339,7 @@ major/JJ
 buying/NN
 binge/NN
 ./.
+Nonetheless/RB
 ,/,
 speculation/NN
 heated/VBN
@@ -381,6 +386,7 @@ had/VBD
 been/VBN
 reached/VBN
 ./.
+Nor/CC
 is/VBZ
 Tokyu/NNP
 the/DT
@@ -530,6 +536,7 @@ including/VBG
 Bloomingdale/NNP
 's/POS
 ./.
+Hoping/VBG
 to/TO
 avoid/VB
 another/DT
@@ -631,6 +638,7 @@ it/PRP
 at/IN
 ./.
 ''/''
+Persuading/VBG
 tradition-bound/JJ
 Japanese/JJ
 retailers/NNS
@@ -759,6 +767,7 @@ Japan/NNP
 next/JJ
 year/NN
 ./.
+And/CC
 Mitsukoshi/NNP
 recently/RB
 increased/VBD
@@ -940,6 +949,7 @@ to/TO
 this/DT
 article/NN
 ./.
+Compiled/VBN
 by/IN
 William/NNP
 Mathewson/NNP
@@ -1748,6 +1758,7 @@ without/IN
 providing/VBG
 statistics/NNS
 ./.
+In/IN
 another/DT
 sign/NN
 of/IN

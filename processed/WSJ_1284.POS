@@ -1,3 +1,4 @@
+In/IN
 Poland/NNP
 's/POS
 rapid/JJ
@@ -161,6 +162,7 @@ of/IN
 functioning/VBG
 markets/NNS
 ./.
+Why/WRB
 did/VBD
 East/NNP
 Bloc/NNP
@@ -190,6 +192,7 @@ of/IN
 that/DT
 degradation/NN
 ./.
+Like/IN
 other/JJ
 East/NNP
 Bloc/NNP
@@ -209,6 +212,7 @@ in/IN
 their/PRP$
 observance/NN
 ./.
+According/VBG
 to/TO
 a/DT
 detailed/VBN
@@ -675,6 +679,7 @@ Those/DT
 implications/NNS
 include/VBP
 :/:
+--/:
 Privatization/NN
 ./.
 Faced/VBN
@@ -759,6 +764,7 @@ address/VB
 environmental/JJ
 effects/NNS
 ./.
+--/:
 Least-cost/JJ
 solutions/NNS
 ./.
@@ -848,6 +854,7 @@ to/TO
 price/NN
 signals/NNS
 ./.
+--/:
 Creative/JJ
 financing/NN
 ./.
@@ -876,6 +883,7 @@ Poland/NNP
 hard-currency/NN
 reserves/NNS
 ./.
+--/:
 Democratization/NN
 ./.
 East/NNP
@@ -926,6 +934,7 @@ difficult/JJ
 to/TO
 reimpose/VB
 ./.
+--/:
 Global/JJ
 reciprocity/NN
 ./.
@@ -983,6 +992,7 @@ a/DT
 different/JJ
 drummer/NN
 ./.
+At/IN
 the/DT
 moment/NN
 ,/,

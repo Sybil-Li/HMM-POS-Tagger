@@ -45,6 +45,7 @@ Oct./NNP
 due/JJ
 date/NN
 ./.
+In/IN
 composite/JJ
 trading/NN
 yesterday/NN
@@ -247,6 +248,7 @@ its/PRP$
 debt/NN
 ./.
 ''/''
+First/NNP
 Hospital/NNP
 advised/VBD
 Comprehensive/NNP

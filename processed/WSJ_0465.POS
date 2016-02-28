@@ -105,6 +105,7 @@ to/TO
 get/VB
 cancer/NN
 ./.
+``/``
 It/PRP
 's/VBZ
 a/DT
@@ -341,6 +342,7 @@ has/VBZ
 been/VBN
 damaged/VBN
 ./.
+Like/IN
 all/DT
 genes/NNS
 ,/,
@@ -425,6 +427,7 @@ cancer/NN
 to/TO
 develop/VB
 ./.
+Emerging/JJ
 genetic/JJ
 tests/NNS
 will/MD
@@ -551,6 +554,7 @@ was/VBD
 a/DT
 baby/NN
 ./.
+Because/IN
 of/IN
 the/DT
 isolation/NN
@@ -751,6 +755,7 @@ there/RB
 soon/RB
 ./.
 ''/''
+To/TO
 date/NN
 ,/,
 scientists/NNS
@@ -792,6 +797,7 @@ colon/NN
 cells/NNS
 cancerous/JJ
 ./.
+Soon/RB
 after/IN
 that/DT
 report/NN
@@ -1033,6 +1039,7 @@ two-hit/JJ
 ''/''
 theory/NN
 ./.
+Back/RB
 then/RB
 ,/,
 scientists/NNS
@@ -1151,6 +1158,7 @@ genes/NNS
 had/VBD
 disappeared/VBN
 ./.
+Then/RB
 ,/,
 a/DT
 scientific/JJ
@@ -1629,6 +1637,7 @@ Salt/NNP
 Lake/NNP
 City/NNP
 ./.
+But/CC
 Dr./NNP
 Vogelstein/NNP
 had/VBD
@@ -1705,6 +1714,7 @@ constitute/VB
 a/DT
 gene/NN
 ./.
+When/WRB
 they/PRP
 found/VBD
 it/PRP
@@ -1800,6 +1810,7 @@ that/WDT
 suppressed/VBD
 growth/NN
 ./.
+Despite/IN
 that/DT
 ,/,
 when/WRB
@@ -2044,6 +2055,7 @@ and/CC
 skin/NN
 cancers/NNS
 ./.
+At/IN
 the/DT
 same/JJ
 time/NN
@@ -2171,6 +2183,7 @@ cancers/NNS
 ,/,
 too/RB
 ./.
+Where/WRB
 these/DT
 discoveries/NNS
 will/MD
@@ -2291,6 +2304,7 @@ that/DT
 so/RB
 far/RB
 ./.
+In/IN
 any/DT
 case/NN
 ,/,
@@ -2322,3 +2336,4 @@ genesis/NN
 of/IN
 cancer/NN
 ./.
+''/''

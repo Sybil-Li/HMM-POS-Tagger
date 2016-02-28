@@ -25,6 +25,7 @@ federal/JJ
 housing/NN
 scandals/NNS
 ./.
+In/IN
 a/DT
 letter/NN
 to/TO
@@ -70,6 +71,7 @@ today/NN
 and/CC
 Friday/NNP
 ./.
+On/IN
 Sept./NNP
 26/CD
 ,/,
@@ -133,6 +135,7 @@ subcommittee/NN
 hearings/NNS
 ./.
 ''/''
+In/IN
 the/DT
 letter/NN
 ,/,
@@ -181,3 +184,4 @@ mutually/RB
 agreeable/JJ
 circumstances/NNS
 ./.
+''/''

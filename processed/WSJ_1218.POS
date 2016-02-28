@@ -1,6 +1,7 @@
 Genetic/JJ
 Defect/NN
 Spotted/VBN
+In/IN
 3-Day-Old/JJ
 Embryo/NN
 RESEARCHERS/NNS
@@ -164,6 +165,7 @@ its/PRP$
 DNA/NNP
 extracted/VBN
 ./.
+Using/VBG
 the/DT
 new/JJ
 technique/NN
@@ -222,6 +224,7 @@ medical/JJ
 journal/NN
 Lancet/NNP
 ./.
+In/IN
 the/DT
 report/NN
 ,/,
@@ -249,6 +252,7 @@ to/TO
 a/DT
 child/NN
 ./.
+For/IN
 example/NN
 ,/,
 infertile/JJ
@@ -308,6 +312,7 @@ defective/JJ
 ones/NNS
 discarded/VBN
 ./.
+Or/CC
 in/IN
 other/JJ
 couples/NNS
@@ -354,6 +359,7 @@ world/NN
 of/IN
 yeast/NN
 ./.
+In/IN
 the/DT
 early/JJ
 1970s/CD
@@ -442,6 +448,7 @@ abandoned/VBD
 such/JJ
 research/NN
 ./.
+But/CC
 Phillips/NNP
 persisted/VBD
 ,/,
@@ -575,6 +582,7 @@ proteins/NNS
 Peeking/VBG
 Inside/IN
 Arteries/NN
+From/IN
 Outside/IN
 the/DT
 Body/NN
@@ -715,6 +723,7 @@ of/IN
 X-ray/NN
 scans/NNS
 ./.
+In/IN
 the/DT
 Bell/NNP
 Labs/NNPS

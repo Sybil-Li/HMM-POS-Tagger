@@ -27,6 +27,7 @@ the/DT
 early/JJ
 1930s/CD
 ./.
+But/CC
 the/DT
 firm/NN
 has/VBZ
@@ -37,6 +38,7 @@ day/NN
 like/IN
 yesterday/RB
 ./.
+At/IN
 first/JJ
 UAL/NNP
 did/VBD
@@ -136,6 +138,7 @@ the/DT
 Big/NNP
 Board/NNP
 ./.
+Munching/VBG
 pizza/NN
 when/WRB
 they/PRP
@@ -174,6 +177,7 @@ a/DT
 financial/JJ
 free-for-all/NN
 ./.
+``/``
 It/PRP
 was/VBD
 chaotic/JJ
@@ -535,6 +539,7 @@ $/$
 148-a-share/JJ
 trades/NNS
 ./.
+In/IN
 the/DT
 45/CD
 minutes/NNS
@@ -617,6 +622,7 @@ the/DT
 likely/JJ
 target/NN
 ./.
+When/WRB
 UAL/NNP
 finally/RB
 opened/VBD
@@ -951,6 +957,7 @@ would/MD
 upset/VB
 customers/NNS
 ./.
+About/RB
 11,000/CD
 shares/NNS
 sold/VBN
@@ -1017,6 +1024,7 @@ specialists/NNS
 '/POS
 performance/NN
 ./.
+Leaving/VBG
 the/DT
 exchange/NN
 at/IN

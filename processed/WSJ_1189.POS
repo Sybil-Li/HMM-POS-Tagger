@@ -21,6 +21,7 @@ Thrift/NNP
 Supervision/NNP
 said/VBD
 ./.
+But/CC
 that/DT
 does/VBZ
 n't/RB
@@ -69,6 +70,7 @@ rejected/VBN
 more/RBR
 often/RB
 ./.
+Nevertheless/RB
 ,/,
 on/IN
 Capitol/NNP
@@ -480,6 +482,7 @@ of/IN
 Thrift/NNP
 Supervision/NNP
 ./.
+``/``
 If/IN
 we/PRP
 've/VBP

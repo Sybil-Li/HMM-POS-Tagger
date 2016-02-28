@@ -80,6 +80,7 @@ year/NN
 third/JJ
 quarter/NN
 ./.
+In/IN
 New/NNP
 York/NNP
 Stock/NNP
@@ -133,6 +134,7 @@ the/DT
 company/NN
 added/VBD
 ./.
+For/IN
 the/DT
 nine/CD
 months/NNS
@@ -264,6 +266,7 @@ to/TO
 prior/JJ
 periods/NNS
 ./.
+For/IN
 the/DT
 third/JJ
 quarter/NN

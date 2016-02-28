@@ -34,6 +34,7 @@ GM/NNP
 vehicle/NN
 production/NN
 ./.
+Meanwhile/RB
 ,/,
 net/NN
 at/IN
@@ -273,6 +274,7 @@ fell/VBD
 5/CD
 %/NN
 ./.
+In/IN
 addition/NN
 ,/,
 GM/NNP
@@ -325,6 +327,7 @@ $/$
 2.63/CD
 billion/CD
 ./.
+In/IN
 the/DT
 nine/CD
 months/NNS
@@ -370,6 +373,7 @@ $/$
 8.18/CD
 billion/CD
 ./.
+At/IN
 GMAC/NNP
 ,/,
 net/NN
@@ -451,6 +455,7 @@ traditional/JJ
 common/JJ
 stock/NN
 ./.
+In/IN
 the/DT
 first/JJ
 nine/CD
@@ -471,6 +476,7 @@ $/$
 930.2/CD
 million/CD
 ./.
+At/IN
 EDS/NNP
 ,/,
 third-quarter/NN
@@ -515,6 +521,7 @@ $/$
 1.22/CD
 billion/CD
 ./.
+In/IN
 the/DT
 nine/CD
 months/NNS

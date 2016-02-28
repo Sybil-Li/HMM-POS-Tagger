@@ -52,6 +52,7 @@ Exchange/NNP
 Commission/NNP
 filing/NN
 ./.
+In/IN
 the/DT
 filing/NN
 ,/,
@@ -297,6 +298,7 @@ to/TO
 the/DT
 board/NN
 ./.
+Earlier/RBR
 this/DT
 month/NN
 ,/,
@@ -338,6 +340,7 @@ are/VBP
 automotive-emissions-testing/JJ
 concerns/NNS
 ./.
+Under/IN
 the/DT
 terms/NNS
 ,/,
@@ -370,6 +373,7 @@ of/IN
 the/DT
 businesses/NNS
 ./.
+In/IN
 the/DT
 nine/CD
 months/NNS

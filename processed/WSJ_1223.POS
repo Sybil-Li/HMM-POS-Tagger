@@ -27,6 +27,7 @@ Queen/NNP
 poisoned/VBN
 apple/NN
 ./.
+In/IN
 its/PRP$
 first/JJ
 day/NN
@@ -135,6 +136,7 @@ open/VB
 in/IN
 1992/CD
 ./.
+``/``
 The/DT
 issue/NN
 was/VBD
@@ -273,6 +275,7 @@ investors/NNS
 days/NNS
 later/RB
 ./.
+Because/IN
 of/IN
 the/DT
 interest/NN
@@ -356,6 +359,7 @@ the/DT
 offering/NN
 price/NN
 ./.
+``/``
 A/DT
 lot/NN
 of/IN

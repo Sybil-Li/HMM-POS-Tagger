@@ -511,6 +511,7 @@ on/IN
 government/NN
 statistics/NNS
 ./.
+``/``
 One/CD
 possible/JJ
 explanation/NN
@@ -548,6 +549,7 @@ substantially/RB
 increased/VBN
 ./.
 ''/''
+In/IN
 1980/CD
 ,/,
 the/DT
@@ -1571,3 +1573,4 @@ and/CC
 unsupported/JJ
 allegations/NNS
 ./.
+''/''

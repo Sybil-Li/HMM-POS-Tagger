@@ -95,6 +95,7 @@ Chemical/NNP
 options/NNS
 trader/NN
 ./.
+In/IN
 other/JJ
 personnel/NNS
 changes/NNS
@@ -106,6 +107,7 @@ its/PRP$
 options/NNS
 unit/NN
 :/:
+--/:
 Chemical/NNP
 named/VBD
 James/NNP
@@ -141,6 +143,7 @@ and/CC
 interest-rate/NN
 options/NNS
 ./.
+--/:
 Lee/NNP
 Wakeman/NNP
 ,/,
@@ -274,6 +277,7 @@ interest-rate/NN
 options/NNS
 unit/NN
 ./.
+According/VBG
 to/TO
 individuals/NNS
 familiar/JJ
@@ -314,6 +318,7 @@ than/IN
 long-term/JJ
 rates/NNS
 ./.
+While/IN
 the/DT
 incidents/NNS
 involving/VBG
@@ -448,6 +453,7 @@ a/DT
 valuation/NN
 problem/NN
 ./.
+Started/VBN
 three/CD
 years/NNS
 ago/RB
@@ -588,3 +594,4 @@ to/TO
 be/VB
 done/VBN
 ./.
+''/''

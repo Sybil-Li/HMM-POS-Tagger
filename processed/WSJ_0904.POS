@@ -258,6 +258,7 @@ a/DT
 year/NN
 earlier/RBR
 ./.
+``/``
 Over/IN
 the/DT
 next/JJ
@@ -290,6 +291,7 @@ revenues/NNS
 he/PRP
 said/VBD
 ./.
+During/IN
 the/DT
 third/JJ
 quarter/NN
@@ -340,6 +342,7 @@ Erskine/NNP
 ,/,
 Scotland/NNP
 ./.
+In/IN
 New/NNP
 York/NNP
 Stock/NNP

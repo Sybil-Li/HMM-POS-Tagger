@@ -1,3 +1,4 @@
+As/IN
 Yogi/NNP
 Berra/NNP
 might/MD
@@ -11,6 +12,7 @@ all/RB
 over/RB
 again/RB
 ./.
+Crouched/VBN
 at/IN
 shortstop/NN
 ,/,
@@ -77,6 +79,7 @@ an/DT
 off-speed/JJ
 strike/NN
 ./.
+``/``
 Babies/NNS
 ,/,
 kiddies/NNS
@@ -120,6 +123,7 @@ kiddies/NNS
 he/PRP
 says/VBZ
 ./.
+Perhaps/RB
 ./.
 But/CC
 for/IN
@@ -258,6 +262,7 @@ youth/NN
 ,/,
 baseball/NN
 ./.
+``/``
 Someone/NN
 always/RB
 makes/VBZ
@@ -300,6 +305,7 @@ more/JJR
 game/NN
 ./.
 ''/''
+Until/IN
 the/DT
 baby-faced/JJ
 heroes/NNS
@@ -317,6 +323,7 @@ is/VBZ
 one/CD
 more/JJR
 ./.
+And/CC
 not/RB
 just/RB
 for/IN
@@ -370,6 +377,7 @@ with/IN
 Rollie/NNP
 Fingers/NNP
 ./.
+``/``
 Nothing/NN
 can/MD
 be/VB
@@ -611,6 +619,7 @@ so/RB
 rough/JJ
 ./.
 )/)
+For/IN
 some/DT
 players/NNS
 ,/,
@@ -647,6 +656,7 @@ into/IN
 the/DT
 big-time/JJ
 ./.
+But/CC
 as/IN
 they/PRP
 hurl/VBP
@@ -704,6 +714,7 @@ close/RB
 to/TO
 it/PRP
 ./.
+``/``
 My/PRP$
 fastball/NN
 is/VBZ
@@ -770,6 +781,7 @@ the/DT
 sports/NNS
 pages/NNS
 ./.
+Now/RB
 Mr./NNP
 Broberg/NNP
 ,/,
@@ -838,6 +850,7 @@ Weaver/NNP
 's/POS
 team/NN
 ./.
+``/``
 It/PRP
 does/VBZ
 n't/RB
@@ -931,6 +944,7 @@ the/DT
 next/JJ
 year/NN
 ./.
+``/``
 There/EX
 's/VBZ
 a/DT
@@ -1051,6 +1065,7 @@ man/NN
 's/POS
 sport/NN
 ./.
+``/``
 I/PRP
 personally/RB
 do/VBP
@@ -1130,6 +1145,7 @@ whole/JJ
 story/NN
 ./.
 ''/''
+But/CC
 the/DT
 ballplayers/NNS
 disagree/VBP
@@ -1211,6 +1227,7 @@ some/DT
 practice/NN
 swings/NNS
 ./.
+``/``
 It/PRP
 's/VBZ
 going/VBG
@@ -1256,6 +1273,7 @@ habits/NNS
 he/PRP
 says/VBZ
 ./.
+Nonetheless/RB
 ,/,
 one/PRP
 ca/MD
@@ -1273,6 +1291,7 @@ little/JJ
 bit/NN
 slower/JJR
 ./.
+At/IN
 the/DT
 weatherbeaten/JJ
 Pompano/NNP
@@ -1352,6 +1371,7 @@ center/JJ
 field/NN
 wall/NN
 ./.
+And/CC
 do/VBP
 n't/RB
 expect/VB
@@ -1431,6 +1451,7 @@ problem/NN
 he/PRP
 says/VBZ
 ./.
+And/CC
 expect/VB
 slower/JJR
 fastballs/NNS
@@ -1564,6 +1585,7 @@ move/VB
 it/PRP
 around/RB
 ./.
+After/IN
 all/DT
 ,/,
 he/PRP
@@ -1579,3 +1601,4 @@ you/PRP
 need/VBP
 experience/VB
 ./.
+''/''

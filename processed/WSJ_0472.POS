@@ -24,6 +24,7 @@ the/DT
 bottom/JJ
 line/NN
 ./.
+In/IN
 fact/NN
 ,/,
 the/DT
@@ -95,6 +96,7 @@ break/VBP
 off/RP
 again/RB
 ./.
+Despite/IN
 the/DT
 progress/NN
 ,/,
@@ -124,6 +126,7 @@ the/DT
 current/JJ
 quarter/NN
 ./.
+For/IN
 the/DT
 third/JJ
 quarter/NN
@@ -177,6 +180,7 @@ for/IN
 commercial/JJ
 airliners/NNS
 ./.
+Because/IN
 it/PRP
 's/VBZ
 impossible/JJ
@@ -273,6 +277,7 @@ at/IN
 the/DT
 end/NN
 of/IN
+Although/IN
 the/DT
 company/NN
 could/MD
@@ -328,6 +333,7 @@ employees/NNS
 on/IN
 hand/NN
 ./.
+Before/IN
 the/DT
 union/NN
 rejected/VBD
@@ -380,6 +386,7 @@ most/RBS
 successful/JJ
 product/NN
 ./.
+``/``
 It/PRP
 's/VBZ
 not/RB
@@ -517,6 +524,7 @@ scant/JJ
 12.5/CD
 cents/NNS
 ./.
+Still/RB
 ,/,
 Boeing/NNP
 went/VBD
@@ -558,6 +566,7 @@ and/CC
 government/NN
 contracts/NNS
 ./.
+For/IN
 instance/NN
 ,/,
 he/PRP
@@ -635,6 +644,7 @@ loss/NN
 in/IN
 1989/CD
 ./.
+Moreover/RB
 ,/,
 Mr./NNP
 Shrontz/NNP
@@ -679,6 +689,7 @@ support/VB
 delivery/NN
 schedules/NNS
 ./.
+And/CC
 ,/,
 of/IN
 course/NN
@@ -853,6 +864,7 @@ substance/NN
 of/IN
 it/PRP
 ./.
+For/IN
 the/DT
 nine/CD
 months/NNS
@@ -898,6 +910,7 @@ $/$
 12.09/CD
 billion/CD
 ./.
+In/IN
 a/DT
 separate/JJ
 matter/NN

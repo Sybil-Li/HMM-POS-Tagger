@@ -590,8 +590,10 @@ delivery/NN
 within/IN
 30/CD
 days/NN
-./.9.78/CD
-%/NN,/,
+./.
+9.78/CD
+%/NN
+,/,
 standard/JJ
 conventional/JJ
 fixed-rate/JJ

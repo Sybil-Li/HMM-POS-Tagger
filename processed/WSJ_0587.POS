@@ -9,6 +9,7 @@ in/IN
 South/NNP
 Africa/NNP
 ./.
+More/JJR
 than/IN
 70,000/CD
 people/NNS
@@ -126,6 +127,7 @@ Nicaragua/NNP
 's/POS
 Ortega/NNP
 ./.
+While/IN
 lawmakers/NNS
 have/VBP
 n't/RB
@@ -728,6 +730,7 @@ Francisco/NNP
 Candlestick/NNP
 Park/NNP
 ./.
+Died/VBD
 :/:
 Rudolf/NNP
 von/NNP

@@ -151,6 +151,7 @@ Spain/NNP
 and/CC
 Brazil/NNP
 ./.
+Of/IN
 Hoechst/NNP
 's/POS
 40.9/CD
@@ -171,6 +172,7 @@ sales/NNS
 of/IN
 CFCs/NNS
 ./.
+Also/RB
 ,/,
 BASF/NNP
 AG/NNP

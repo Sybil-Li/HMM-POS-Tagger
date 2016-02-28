@@ -1,3 +1,4 @@
+On/IN
 June/NNP
 30/CD
 ,/,
@@ -114,6 +115,7 @@ our/PRP$
 export/NN
 statistics/NNS
 ./.
+Nearly/RB
 10/CD
 years/NNS
 ago/RB
@@ -244,6 +246,7 @@ in/IN
 the/DT
 U.S/NNP
 ./.
+Over/IN
 time/NN
 ,/,
 through/IN
@@ -336,6 +339,7 @@ travel/NN
 and/CC
 tourism/NN
 ./.
+In/IN
 just/RB
 these/DT
 three/CD
@@ -382,6 +386,7 @@ $/$
 19/CD
 billion/CD
 ./.
+Combined/VBN
 with/IN
 recalculations/NNS
 and/CC

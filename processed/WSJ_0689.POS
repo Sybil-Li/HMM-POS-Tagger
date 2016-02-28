@@ -1,3 +1,4 @@
+Wanted/VBN
 :/:
 An/DT
 investment/NN
@@ -21,6 +22,7 @@ getting/VBG
 excited/JJ
 about/IN
 ./.
+With/IN
 $/$
 150/CD
 billion/CD
@@ -46,6 +48,7 @@ such/PDT
 an/DT
 investment/NN
 ./.
+In/IN
 April/NNP
 ,/,
 when/WRB
@@ -104,6 +107,7 @@ the/DT
 best/JJS
 around/RB
 ./.
+But/CC
 investors/NNS
 looking/VBG
 for/IN
@@ -142,6 +146,7 @@ the/DT
 dangers/NNS
 there/RB
 ./.
+``/``
 If/IN
 you/PRP
 're/VBP
@@ -224,6 +229,7 @@ a/DT
 higher/JJR
 return/NN
 ./.
+In/IN
 particular/JJ
 ,/,
 advisers/NNS
@@ -317,6 +323,7 @@ adviser/NN
 Karen/NNP
 Schaeffer/NNP
 ./.
+Here/RB
 's/VBZ
 a/DT
 look/NN
@@ -386,6 +393,7 @@ for/IN
 in-state/JJ
 investors/NNS
 ./.
+For/IN
 an/DT
 investor/NN
 paying/VBG
@@ -464,6 +472,7 @@ municipals/NNS
 are/VBP
 retired/VBN
 ./.
+``/``
 It/PRP
 's/VBZ
 a/DT
@@ -510,6 +519,7 @@ Hueglin/NNP
 Cashman/NNP
 Inc/NNP
 ./.
+Consider/VB
 a/DT
 ``/``
 laddered/JJ
@@ -667,6 +677,7 @@ the/DT
 securities/NNS
 lengthens/VBZ
 ./.
+Consider/VB
 ,/,
 for/IN
 instance/NN
@@ -773,6 +784,7 @@ its/PRP$
 average/JJ
 maturity/NN
 ./.
+``/``
 You/PRP
 get/VB
 equity-like/JJ
@@ -1081,6 +1093,7 @@ a/DT
 slight/JJ
 lag/NN
 ./.
+Still/RB
 ,/,
 today/NN
 's/POS
@@ -1169,6 +1182,7 @@ by/IN
 the/DT
 sponsor/NN
 ./.
+Try/VB
 combining/VBG
 a/DT
 money/NN

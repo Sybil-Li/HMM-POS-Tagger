@@ -1,3 +1,4 @@
+As/IN
 program/NN
 trading/NN
 comes/VBZ
@@ -157,6 +158,7 @@ liquid/JJ
 market/NN
 ./.
 ''/''
+But/CC
 increasingly/RB
 ,/,
 people/NNS
@@ -223,6 +225,7 @@ the/DT
 benefits/NNS
 ./.
 ''/''
+Like/IN
 others/NNS
 ,/,
 Mr./NNP
@@ -277,6 +280,7 @@ to/TO
 companies/NNS
 ./.
 ''/''
+Essentially/RB
 ,/,
 the/DT
 critics/NNS
@@ -354,6 +358,7 @@ intrinsic/JJ
 value/NN
 ./.
 ''/''
+While/IN
 it/PRP
 was/VBD
 once/RB
@@ -397,6 +402,7 @@ Stock/NNP
 Exchange/NNP
 follows/VBZ
 ./.
+On/IN
 Tuesday/NNP
 ,/,
 for/IN
@@ -555,6 +561,7 @@ n't/RB
 a/DT
 good/JJ
 thing/NN
+``/``
 The/DT
 kind/NN
 of/IN
@@ -599,6 +606,7 @@ n't/RB
 investing/NN
 ./.
 ''/''
+But/CC
 stock-index/NN
 futures/NNS
 have/VBP
@@ -768,6 +776,7 @@ stock-index/NN
 futures/NNS
 contract/NN
 ./.
+Despite/IN
 the/DT
 current/JJ
 outcry/NN
@@ -1061,6 +1070,7 @@ of/IN
 futures/NNS
 contracts/NNS
 ./.
+And/CC
 although/IN
 criticism/NN
 of/IN
@@ -1255,7 +1265,9 @@ of/IN
 stocks/NNS
 into/IN
 one/CD
-unit/NN-/:making/VBG
+unit/NN
+-/:
+making/VBG
 them/PRP
 a/DT
 simple/JJ
@@ -1301,6 +1313,7 @@ Mr./NNP
 Kegler/NNP
 says/VBZ
 ./.
+Of/IN
 course/NN
 ,/,
 portfolio/NN
@@ -1398,6 +1411,7 @@ S&P/NNP
 500/CD
 stocks/NNS
 ./.
+But/CC
 owning/VBG
 index/NN
 futures/NNS
@@ -1496,3 +1510,4 @@ on/IN
 the/DT
 market/NN
 ./.
+''/''

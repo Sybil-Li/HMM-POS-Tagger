@@ -1,6 +1,7 @@
 Office/NN
 Market/NN
 Weakens/VBZ
+In/IN
 Overbuilt/JJ
 Northeast/NN
 THE/DT
@@ -273,8 +274,10 @@ in/IN
 Beverly/NNP
 Hills/NNP
 Comes/VBZ
+To/TO
 Suburban/JJ
 Tokyo/NNP
+WHY/WRB
 SHOULD/MD
 the/DT
 Japanese/NNP
@@ -561,6 +564,7 @@ establish/VB
 brand-name/NN
 identity/NN
 ./.
+``/``
 One/CD
 of/IN
 the/DT
@@ -799,6 +803,7 @@ real/JJ
 estate/NN
 investors/NNS
 ./.
+``/``
 I/PRP
 think/VBP
 there/EX
@@ -892,6 +897,7 @@ a/DT
 little/JJ
 ./.
 ''/''
+But/CC
 like/IN
 other/JJ
 real/JJ
@@ -919,6 +925,7 @@ real/JJ
 estate/NN
 market/NN
 ./.
+Still/RB
 ,/,
 local/JJ
 builders/NNS
@@ -971,7 +978,8 @@ is/VBZ
 we/PRP
 build/VBP
 'em/PRP
-right/RB,/,
+right/RB
+,/,
 ''/''
 says/VBZ
 Peter/NNP
@@ -1001,3 +1009,4 @@ that/WDT
 doing/VBG
 great/JJ
 ./.
+''/''

@@ -1,3 +1,4 @@
+Heating/NN
 oil/NN
 futures/NNS
 prices/NNS
@@ -58,6 +59,7 @@ early/JJ
 harsh/JJ
 winter/NN
 ./.
+As/IN
 October/NNP
 draws/VBZ
 to/TO
@@ -177,6 +179,7 @@ Petroleum/NNP
 Exporting/NNP
 Countries/NNP
 ./.
+But/CC
 yesterday/NN
 's/POS
 drop/NN
@@ -235,6 +238,7 @@ $/$
 a/DT
 barrel/NN
 ./.
+Even/RB
 reports/NNS
 of/IN
 a/DT
@@ -414,6 +418,7 @@ at/IN
 53.63/CD
 cents/NNS
 ./.
+In/IN
 other/JJ
 commodity/NN
 markets/NNS

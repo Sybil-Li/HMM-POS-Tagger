@@ -26,6 +26,7 @@ thing/NN
 she/PRP
 needs/VBZ
 ./.
+As/IN
 the/DT
 air/NN
 clears/VBZ
@@ -697,6 +698,7 @@ liberalized/VBD
 capital/NN
 movements/NNS
 ./.
+Since/IN
 then/RB
 ,/,
 the/DT
@@ -759,6 +761,7 @@ full/JJ
 EMS/NNP
 membership/NN
 ./.
+Despite/IN
 the/DT
 departure/NN
 of/IN
@@ -801,6 +804,7 @@ for/IN
 early/JJ
 membership/NN
 ./.
+Of/IN
 immediate/JJ
 concern/NN
 is/VBZ
@@ -860,6 +864,7 @@ National/NNP
 Holding/NNP
 PLC/NNP
 ./.
+As/IN
 Conservatives/NNPS
 rally/VBP
 around/IN
@@ -993,3 +998,4 @@ sweet/JJ
 reasonable/JJ
 self/NN
 ./.
+''/''

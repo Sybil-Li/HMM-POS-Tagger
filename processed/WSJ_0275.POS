@@ -1,3 +1,4 @@
+As/IN
 Georgia-Pacific/NNP
 's/POS
 bid/NN
@@ -42,6 +43,7 @@ halls/NNS
 of/IN
 academia/NN
 ./.
+Although/IN
 poison/NN
 pills/NNS
 come/VBP
@@ -335,6 +337,7 @@ out/RP
 this/DT
 strategy/NN
 ?/.
+If/IN
 the/DT
 answers/NNS
 to/TO

@@ -48,6 +48,7 @@ and/CC
 apple/NN
 pie/NN
 ./.
+On/IN
 second/JJ
 thought/NN
 ,/,
@@ -191,6 +192,7 @@ one/CD
 to/TO
 Eve/NNP
 ./.
+But/CC
 how/WRB
 sweet/JJ
 it/PRP
@@ -473,6 +475,7 @@ No./NN
 2/CD
 apple/NN
 ./.
+But/CC
 the/DT
 apple/NN
 industry/NN
@@ -657,6 +660,7 @@ to/TO
 eat/VB
 ./.
 ''/''
+Besides/IN
 rotten/JJ
 prices/NNS
 ,/,
@@ -740,6 +744,7 @@ Mr./NNP
 Broderick/NNP
 says/VBZ
 ./.
+Though/IN
 growers/NNS
 ca/MD
 n't/RB
@@ -1074,6 +1079,7 @@ Japan/NNP
 's/POS
 market/NN
 ./.
+``/``
 The/DT
 Japanese/JJ
 apple/NN
@@ -1344,6 +1350,7 @@ to/TO
 eat/VB
 ./.
 ''/''
+After/IN
 all/DT
 ,/,
 until/IN

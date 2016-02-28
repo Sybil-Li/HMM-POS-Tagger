@@ -36,6 +36,7 @@ and/CC
 Exchange/NNP
 Commission/NNP
 ./.
+But/CC
 the/DT
 lack/NN
 of/IN
@@ -230,6 +231,7 @@ coming/VBG
 into/IN
 office/NN
 ./.
+But/CC
 unlike/IN
 Mr./NNP
 Ruder/NNP
@@ -274,6 +276,7 @@ for/IN
 the/DT
 SEC/NNP
 ./.
+In/IN
 an/DT
 interview/NN
 and/CC
@@ -358,6 +361,7 @@ banks/NNS
 and/CC
 S&Ls/NNS
 ./.
+More/RBR
 broadly/RB
 ,/,
 he/PRP
@@ -428,6 +432,7 @@ and/CC
 in/IN
 Congress/NNP
 ./.
+Also/RB
 unlike/IN
 Mr./NNP
 Ruder/NNP
@@ -502,6 +507,7 @@ frustrated/VBD
 his/PRP$
 predecessor/NN
 ./.
+But/CC
 Mr./NNP
 Breeden/NNP
 ,/,
@@ -777,6 +783,7 @@ other/JJ
 government/NN
 agencies/NNS
 ./.
+Not/RB
 everyone/NN
 has/VBZ
 jumped/VBN
@@ -807,7 +814,8 @@ or/CC
 hinder/VB
 the/DT
 SEC/NNP
-./.``/``
+./.
+``/``
 I/PRP
 do/VBP
 n't/RB
@@ -856,6 +864,7 @@ a/DT
 difference/NN
 ./.
 ''/''
+For/IN
 some/DT
 at/IN
 the/DT
@@ -1089,6 +1098,7 @@ other/JJ
 exchanges/NNS
 temporarily/RB
 ./.
+Though/IN
 obscure/JJ
 to/TO
 most/JJS

@@ -75,6 +75,7 @@ with/IN
 individual/JJ
 investors/NNS
 ./.
+``/``
 Because/IN
 of/IN
 shrinkage/NN
@@ -204,6 +205,7 @@ was/VBD
 7.98/CD
 %/NN
 ./.
+Only/RB
 CDs/NNS
 sold/VBN
 by/IN
@@ -417,6 +419,7 @@ unchanged/JJ
 on/IN
 average/NN
 ./.
+``/``
 The/DT
 (/(
 CD/NN

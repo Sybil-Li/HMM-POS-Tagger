@@ -33,6 +33,7 @@ $/$
 a/DT
 share/NN
 ./.
+In/IN
 the/DT
 year-ago/JJ
 period/NN
@@ -131,6 +132,7 @@ for/IN
 a/DT
 year/NN
 ./.
+However/RB
 ,/,
 Harry/NNP
 Millis/NNP
@@ -295,6 +297,7 @@ quarter/NN
 of/IN
 1988/CD
 ./.
+But/CC
 Goodyear/NNP
 said/VBD
 total/JJ
@@ -349,6 +352,7 @@ by/IN
 auto/NN
 makers/NNS
 ./.
+In/IN
 the/DT
 latest/JJS
 quarter/NN
@@ -389,6 +393,7 @@ the/DT
 year/NN
 earlier/RB
 ./.
+For/IN
 the/DT
 nine/CD
 months/NNS

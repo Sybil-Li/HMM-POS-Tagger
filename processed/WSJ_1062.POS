@@ -27,6 +27,7 @@ at/IN
 the/DT
 idea/NN
 ./.
+Earlier/RB
 this/DT
 month/NN
 ,/,
@@ -68,6 +69,7 @@ the/DT
 Gramm-Rudman/NNP
 act/NN
 ./.
+But/CC
 now/RB
 that/IN
 Congress/NNP
@@ -138,6 +140,7 @@ secretary/NN
 Marlin/NNP
 Fitzwater/NNP
 ./.
+On/IN
 Capitol/NNP
 Hill/NNP
 ,/,
@@ -196,6 +199,7 @@ tax/NN
 cut/NN
 there/RB
 ./.
+Meanwhile/RB
 ,/,
 President/NNP
 Bush/NNP

@@ -32,6 +32,7 @@ in/IN
 New/NNP
 York/NNP
 ./.
+According/VBG
 to/TO
 Securities/NNPS
 and/CC
@@ -203,6 +204,7 @@ with/IN
 BellSouth/NNP
 Corp/NNP
 ./.
+In/IN
 national/JJ
 over-the-counter/JJ
 trading/NN

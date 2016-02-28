@@ -147,6 +147,7 @@ until/IN
 July/NNP
 1990/CD
 ./.
+Under/IN
 the/DT
 new/JJ
 Northeast/NNP
@@ -280,6 +281,7 @@ $/$
 165/CD
 million/CD
 ./.
+In/IN
 addition/NN
 ,/,
 Northeast/NNP

@@ -161,6 +161,7 @@ company/NN
 's/POS
 problems/NNS
 ./.
+``/``
 I/PRP
 think/VBP
 the/DT
@@ -320,6 +321,7 @@ a/DT
 leveraged/JJ
 buy-out/NN
 ./.
+Through/IN
 investment/NN
 banker/NN
 Drexel/NNP
@@ -466,6 +468,7 @@ expires/VBZ
 Nov./NNP
 16/CD
 ./.
+At/IN
 the/DT
 same/JJ
 time/NN

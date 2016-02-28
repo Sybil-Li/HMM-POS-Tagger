@@ -99,6 +99,7 @@ $/$
 1.01/CD
 billion/CD
 ./.
+In/IN
 New/NNP
 York/NNP
 Stock/NNP
@@ -231,6 +232,7 @@ and/CC
 specialty/NN
 magazines/NNS
 ./.
+For/IN
 1989/CD
 's/POS
 first/JJ
@@ -322,3 +324,4 @@ show/NN
 ``/``
 Roseanne/NNP
 ./.
+''/''

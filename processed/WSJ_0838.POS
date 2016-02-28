@@ -1,3 +1,4 @@
+When/WRB
 Adolph/NNP
 Coors/NNP
 Co./NNP
@@ -23,6 +24,7 @@ least/JJS
 not/RB
 officially/RB
 ./.
+But/CC
 the/DT
 announcement/NN
 by/IN
@@ -144,6 +146,7 @@ for/IN
 several/JJ
 years/NNS
 ./.
+But/CC
 Coors/NNP
 insists/VBZ
 the/DT
@@ -227,6 +230,7 @@ nine-member/JJ
 board/NN
 ./.
 )/)
+According/VBG
 to/TO
 analysts/NNS
 ,/,
@@ -281,6 +285,7 @@ Philip/NNP
 Morris/NNP
 Cos/NNP
 ./.
+``/``
 It/PRP
 's/VBZ
 gray-beard/JJ
@@ -372,6 +377,7 @@ top/NN
 he/PRP
 said/VBD
 ./.
+In/IN
 a/DT
 brief/JJ
 telephone/NN
@@ -476,6 +482,7 @@ its/PRP$
 diversification/NN
 efforts/NNS
 ./.
+But/CC
 overall/RB
 ,/,
 ``/``
@@ -582,6 +589,7 @@ company/NN
 's/POS
 history/NN
 ./.
+``/``
 Peter/NNP
 had/VBD
 a/DT
@@ -622,6 +630,7 @@ the/DT
 shots/NNS
 ./.
 ''/''
+In/IN
 yesterday/NN
 's/POS
 interview/NN
@@ -676,6 +685,7 @@ driving/JJ
 force/NN
 ./.
 ''/''
+And/CC
 Peter/NNP
 will/MD
 continue/VB
@@ -842,3 +852,4 @@ going/VBG
 to/TO
 continue/VB
 ./.
+''/''

@@ -90,6 +90,7 @@ York/NNP
 Stock/NNP
 Exchange/NNP
 ./.
+Aside/RB
 from/IN
 the/DT
 takeover/NN
@@ -269,6 +270,7 @@ Board/NNP
 composite/JJ
 trading/NN
 ./.
+With/IN
 stocks/NNS
 having/VBG
 been/VBN
@@ -423,6 +425,7 @@ and/CC
 index/NN
 futures/NNS
 ./.
+``/``
 People/NNS
 are/VBP
 looking/VBG
@@ -476,6 +479,7 @@ the/DT
 latest/JJS
 session/NN
 ./.
+But/CC
 traders/NNS
 also/RB
 said/VBD
@@ -532,6 +536,7 @@ industry/NN
 takeover/NN
 targets/NNS
 ./.
+Within/IN
 the/DT
 paper/NN
 sector/NN
@@ -688,6 +693,7 @@ firmed/VBD
 to/TO
 38/CD
 ./.
+Also/RB
 ,/,
 SmithKline/NNP
 Beecham/NNP

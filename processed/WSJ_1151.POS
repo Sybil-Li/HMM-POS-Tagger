@@ -149,6 +149,7 @@ $/$
 face/NN
 amount/NN
 ./.
+As/IN
 the/DT
 stock/NN
 market/NN
@@ -210,6 +211,7 @@ bolster/VB
 bond/NN
 prices/NNS
 ./.
+On/IN
 the/DT
 surface/NN
 ,/,
@@ -303,6 +305,7 @@ is/VBZ
 bogging/VBG
 down/RP
 ./.
+Although/IN
 analysts/NNS
 do/VBP
 n't/RB
@@ -427,6 +430,7 @@ down/RB
 only/RB
 modestly/RB
 ./.
+In/IN
 major/JJ
 market/NN
 activity/NN

@@ -45,6 +45,7 @@ only/RB
 in/IN
 Filipino/NNP
 ./.
+``/``
 Batibot/NNP
 ,/,
 ''/''
@@ -83,6 +84,7 @@ daily/JJ
 television/NN
 show/NN
 ./.
+In/IN
 the/DT
 process/NN
 ,/,
@@ -154,6 +156,7 @@ television/NN
 talk/NN
 show/NN
 ./.
+``/``
 When/WRB
 we/PRP
 started/VBD
@@ -571,6 +574,7 @@ mostly/RB
 in/IN
 English/NNP
 ./.
+But/CC
 many/JJ
 proponents/NNS
 of/IN
@@ -599,6 +603,7 @@ a/DT
 crucial/JJ
 role/NN
 ./.
+According/VBG
 to/TO
 chief/JJ
 scriptwriter/NN
@@ -680,6 +685,7 @@ country/NN
 five/CD
 networks/NNS
 ./.
+With/IN
 an/DT
 audience/NN
 totaling/VBG
@@ -718,6 +724,7 @@ program/NN
 will/MD
 fold/VB
 ./.
+``/``
 Batibot/NNP
 ''/''
 lacks/VBZ
@@ -757,6 +764,7 @@ named/VBN
 Kiko/NNP
 Matsing/NNP
 ./.
+But/CC
 the/DT
 production/NN
 is/VBZ
@@ -796,6 +804,7 @@ and/CC
 the/DT
 environment/NN
 ./.
+Not/RB
 that/IN
 the/DT
 language/NN

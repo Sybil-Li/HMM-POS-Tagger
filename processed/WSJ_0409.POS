@@ -273,6 +273,7 @@ days/NNS
 for/IN
 exercise/NN
 ./.
+That/IN
 's/POS
 good/JJ
 news/NN
@@ -345,6 +346,7 @@ fitness/NN
 products/NNS
 healthy/JJ
 ./.
+For/IN
 instance/NN
 ,/,
 sales/NNS
@@ -397,6 +399,7 @@ for/IN
 the/DT
 1990s/CD
 ./.
+But/CC
 even/RB
 that/DT
 group/NN
@@ -478,6 +481,7 @@ with/IN
 them/PRP
 ./.
 ''/''
+Still/RB
 ,/,
 the/DT
 average/JJ
@@ -790,6 +794,7 @@ bound/VBN
 to/TO
 exaggerate/VB
 ./.
+``/``
 People/NNS
 say/VBP
 they/PRP
@@ -851,6 +856,7 @@ done/VBN
 anything/NN
 ./.
 ''/''
+While/IN
 she/PRP
 applauds/VBZ
 the/DT
@@ -995,6 +1001,7 @@ the/DT
 year/NN
 2000/CD
 ./.
+But/CC
 even/RB
 that/DT
 goal/NN
@@ -1049,6 +1056,7 @@ for/IN
 the/DT
 decline/NN
 ./.
+Only/RB
 walking/NN
 and/CC
 golf/NN
@@ -1201,6 +1209,7 @@ right/RB
 off/RP
 ./.
 ''/''
+Only/RB
 about/RB
 a/DT
 quarter/NN
@@ -1256,6 +1265,7 @@ need/VBP
 it/PRP
 ./.
 ''/''
+But/CC
 fully/RB
 90/CD
 %/NN
@@ -1325,6 +1335,7 @@ work/VB
 out/RP
 ./.
 ''/''
+But/CC
 at/IN
 least/JJS
 they/PRP
@@ -1373,6 +1384,7 @@ their/PRP$
 once-sacred/JJ
 workout/NN
 ./.
+Even/RB
 so/RB
 ,/,
 the/DT
@@ -1505,6 +1517,7 @@ good/JJ
 workout/NN
 ./.
 ''/''
+Perhaps/RB
 the/DT
 most/RBS
 disturbing/JJ
@@ -1568,6 +1581,7 @@ declined/VBN
 this/DT
 decade/NN
 ./.
+To/TO
 find/VB
 out/RP
 why/WRB
@@ -1639,6 +1653,7 @@ the/DT
 report/NN
 said/VBD
 ./.
+But/CC
 not/RB
 Richard/NNP
 Cottrell/NNP
@@ -1669,6 +1684,7 @@ of/IN
 his/PRP$
 doctor/NN
 ./.
+``/``
 It/PRP
 's/VBZ
 good/JJ

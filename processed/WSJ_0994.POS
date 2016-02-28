@@ -90,6 +90,7 @@ million-gallon/JJ
 saltwater/NN
 aquarium/NN
 ./.
+At/IN
 the/DT
 core/NN
 of/IN
@@ -130,6 +131,7 @@ of/IN
 the/DT
 deep/JJ
 ./.
+And/CC
 oh/UH
 ,/,
 yes/UH
@@ -206,6 +208,7 @@ like/IN
 it/PRP
 before/IN
 ./.
+Not/RB
 for/IN
 15/CD
 years/NNS
@@ -266,6 +269,7 @@ opens/VBZ
 in/IN
 1990/CD
 ./.
+If/IN
 MGM/NNP
 Grand/NNP
 Inc./NNP
@@ -608,6 +612,7 @@ and/CC
 municipal/JJ
 services/NNS
 ./.
+``/``
 Traffic/NN
 is/VBZ
 certainly/RB
@@ -859,6 +864,7 @@ to/TO
 keep/VB
 up/IN
 ./.
+Where/WRB
 's/VBZ
 this/DT
 huge/JJ
@@ -939,6 +945,7 @@ Bank/NNP
 of/IN
 Nevada/NNP
 ./.
+Will/MD
 the/DT
 investments/NNS
 pay/VB
@@ -1013,6 +1020,7 @@ huge/JJ
 family/NN
 trade/NN
 ./.
+``/``
 If/IN
 you/PRP
 build/VBP
@@ -1088,6 +1096,7 @@ Wild/NNP
 water/NN
 park/NN
 ./.
+``/``
 Two/CD
 generations/NNS
 ago/IN
@@ -1145,6 +1154,7 @@ resort/NN
 environment/NN
 ./.
 ''/''
+Only/RB
 a/DT
 decade/NN
 or/CC
@@ -1196,6 +1206,7 @@ are/VBP
 being/VBG
 designed/VBN
 ./.
+Despite/IN
 the/DT
 new/JJ
 emphasis/NN
@@ -1365,6 +1376,7 @@ the/DT
 early/JJ
 1980s/CD
 ./.
+Yet/RB
 that/DT
 has/VBZ
 n't/RB
@@ -1411,6 +1423,7 @@ appropriately/RB
 spectacular/JJ
 place/NN
 ./.
+Even/RB
 before/IN
 the/DT
 huge/JJ
@@ -2047,6 +2060,7 @@ of/IN
 them/PRP
 suites/NNS
 ./.
+Despite/IN
 the/DT
 proliferation/NN
 of/IN
@@ -2128,3 +2142,4 @@ sight/NN
 of/IN
 that/DT
 ./.
+''/''

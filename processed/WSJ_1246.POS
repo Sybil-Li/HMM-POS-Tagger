@@ -21,6 +21,7 @@ preserving/VBG
 healthy/JJ
 cells/NNS
 ./.
+If/IN
 further/JJ
 experiments/NNS
 are/VBP
@@ -68,6 +69,7 @@ to/TO
 cure/VB
 it/PRP
 ./.
+But/CC
 several/JJ
 analysts/NNS
 and/CC
@@ -365,6 +367,7 @@ to/TO
 the/DT
 antibody/NN
 ./.
+``/``
 The/DT
 results/NNS
 seem/VBP
@@ -654,3 +657,4 @@ viability/NN
 of/IN
 Retrovir/NNP
 ./.
+''/''

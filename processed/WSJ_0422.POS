@@ -24,6 +24,7 @@ over/IN
 program/NN
 trading/NN
 ./.
+After/IN
 hitting/VBG
 two-year/JJ
 highs/NNS
@@ -64,6 +65,7 @@ some/DT
 analysts/NNS
 say/VBP
 ./.
+``/``
 Confidence/NN
 was/VBD
 starting/VBG
@@ -240,6 +242,7 @@ became/VBD
 net/JJ
 buyers/NNS
 ./.
+But/CC
 the/DT
 stock/NN
 market/NN
@@ -270,6 +273,7 @@ some/DT
 analysts/NNS
 say/VBP
 ./.
+``/``
 The/DT
 public/NN
 is/VBZ
@@ -461,6 +465,7 @@ funds/NNS
 this/DT
 month/NN
 ./.
+At/IN
 Fidelity/NNP
 Investments/NNP
 ,/,
@@ -571,6 +576,7 @@ the/DT
 13th/JJ
 plunge/NN
 ./.
+``/``
 If/IN
 that/DT
 follows/VBZ
@@ -809,6 +815,7 @@ fund/NN
 specialists/NNS
 say/VBP
 ./.
+``/``
 There/EX
 will/MD
 be/VB

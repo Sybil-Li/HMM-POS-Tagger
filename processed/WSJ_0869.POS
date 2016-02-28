@@ -1,3 +1,4 @@
+After/IN
 more/RBR
 than/IN
 a/DT
@@ -489,6 +490,7 @@ Seagram/NNP
 and/CC
 Mattel/NNP
 ./.
+But/CC
 in/IN
 an/DT
 interview/NN
@@ -725,6 +727,7 @@ Martin/NNP
 he/PRP
 said/VBD
 ./.
+``/``
 I/PRP
 've/VBP
 always/RB

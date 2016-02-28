@@ -38,6 +38,7 @@ turnaround/NN
 next/IN
 year/NN
 ./.
+At/IN
 the/DT
 same/JJ
 time/NN
@@ -76,6 +77,7 @@ and/CC
 defense-electronics/NNS
 concern/NN
 ./.
+``/``
 Unisys/NNP
 is/VBZ
 getting/VBG
@@ -409,6 +411,7 @@ of/IN
 the/DT
 year/NN
 ./.
+Still/RB
 ,/,
 Unisys/NNP
 said/VBD
@@ -519,6 +522,7 @@ anyone/NN
 's/POS
 machines/NNS
 ./.
+In/IN
 addition/NN
 ,/,
 Unisys/NNP
@@ -693,6 +697,9 @@ companies/NNS
 have/VBP
 been/VBN
 used/VBN
+to/TO
+./.
+``/``
 We/PRP
 've/VBP
 approached/VBN
@@ -881,6 +888,7 @@ the/DT
 fourth/JJ
 quarter/NN
 ./.
+So/IN
 Steve/NNP
 Milunovich/NNP
 at/IN
@@ -974,6 +982,7 @@ enough/RB
 he/PRP
 asked/VBD
 ./.
+Reflecting/VBG
 the/DT
 concern/NN
 ,/,

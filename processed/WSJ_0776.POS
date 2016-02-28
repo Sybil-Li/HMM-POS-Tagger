@@ -29,6 +29,7 @@ Britain/NNP
 ailing/VBG
 economy/NN
 ./.
+``/``
 The/DT
 last/JJ
 thing/NN
@@ -193,6 +194,7 @@ than/IN
 2/CD
 %/NN
 ./.
+Increasingly/RB
 ,/,
 the/DT
 financial/JJ
@@ -241,6 +243,7 @@ close/VB
 at/IN
 2129.4/CD
 ./.
+``/``
 We/PRP
 are/VBP
 expecting/VBG
@@ -518,6 +521,7 @@ in/IN
 the/DT
 district/NN
 ./.
+``/``
 There/EX
 's/VBZ
 a/DT
@@ -664,6 +668,7 @@ district/NN
 head-hunting/NN
 firm/NN
 ./.
+But/CC
 after/IN
 trading/NN
 losses/NNS
@@ -806,6 +811,7 @@ will/MD
 come/VB
 down/RP
 ./.
+``/``
 If/IN
 prices/NNS
 in/IN
@@ -995,6 +1001,7 @@ Hole/NNP
 ,/,
 Wyo/NNP
 ./.
+``/``
 I/PRP
 'm/VBP
 glad/JJ
@@ -1087,3 +1094,4 @@ horn/NN
 in/IN
 anger/NN
 ./.
+''/''

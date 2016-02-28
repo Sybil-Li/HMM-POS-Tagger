@@ -115,6 +115,7 @@ Bristol-Myers/NNP
 Squibb/NNP
 Co/NNP
 ./.
+In/IN
 the/DT
 first/JJ
 nine/CD
@@ -157,6 +158,7 @@ a/DT
 year/NN
 earlier/RBR
 ./.
+Citing/VBG
 current/JJ
 stock/NN
 market/NN

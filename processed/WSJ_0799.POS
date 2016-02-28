@@ -60,6 +60,7 @@ $/$
 44.1/CD
 million/CD
 ./.
+But/CC
 in/IN
 1988/CD
 ,/,
@@ -306,6 +307,7 @@ year/NN
 first/JJ
 half/NN
 ./.
+In/IN
 the/DT
 belief/NN
 that/DT
@@ -474,6 +476,7 @@ off/IN
 that/DT
 trend/NN
 ?/.
+Among/IN
 the/DT
 company/NN
 's/POS
@@ -558,6 +561,7 @@ the/DT
 military/NN
 used/VBD
 ./.
+In/IN
 another/DT
 approach/NN
 ,/,
@@ -626,6 +630,7 @@ personal-computer/NN
 business/NN
 ./.
 ''/''
+Earlier/RB
 this/DT
 month/NN
 ,/,
@@ -750,6 +755,7 @@ in/IN
 microwave/NN
 ovens/NNS
 ./.
+``/``
 We/PRP
 're/VBP
 trying/VBG
@@ -1131,6 +1137,7 @@ loss/NN
 since/IN
 1974/CD
 ./.
+``/``
 Our/PRP$
 ordnance/NN
 business/NN
@@ -1180,3 +1187,4 @@ we/PRP
 used/VBD
 to/TO
 ./.
+''/''

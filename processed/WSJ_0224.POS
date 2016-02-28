@@ -1,3 +1,4 @@
+In/IN
 a/DT
 surprise/NN
 move/NN
@@ -213,6 +214,7 @@ under/IN
 30/CD
 %/NN
 ./.
+But/CC
 the/DT
 government/NN
 's/POS
@@ -654,6 +656,7 @@ start/VB
 now/RB
 ./.
 ''/''
+In/IN
 a/DT
 statement/NN
 ,/,
@@ -887,6 +890,7 @@ it/PRP
 now/RB
 owns/VBZ
 ./.
+In/IN
 a/DT
 prepared/JJ
 statement/NN
@@ -1007,6 +1011,7 @@ the/DT
 company/NN
 first/RB
 ./.
+Indeed/RB
 ,/,
 the/DT
 government/NN
@@ -1155,6 +1160,7 @@ Thatcher/NNP
 's/POS
 cabinet/NN
 ./.
+At/IN
 the/DT
 same/JJ
 time/NN

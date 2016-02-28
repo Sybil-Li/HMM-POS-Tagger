@@ -59,6 +59,7 @@ thrift/NN
 holding/VBG
 company/NN
 ./.
+Recently/RB
 ,/,
 the/DT
 boards/NNS
@@ -135,6 +136,7 @@ the/DT
 company/NN
 said/VBD
 ./.
+In/IN
 the/DT
 second/JJ
 quarter/NN

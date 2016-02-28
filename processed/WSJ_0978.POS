@@ -1,3 +1,4 @@
+For/IN
 all/DT
 of/IN
 this/DT
@@ -188,6 +189,7 @@ PaineWebber/NNP
 declined/VBD
 comment/NN
 ./.
+When/WRB
 it/PRP
 owns/VBZ
 stocks/NNS
@@ -373,6 +375,7 @@ and/CC
 Treasury/NNP
 bills/NNS
 ./.
+At/IN
 the/DT
 time/NN
 ,/,
@@ -451,6 +454,7 @@ with/IN
 Treasury/NNP
 bills/NNS
 ./.
+So/RB
 why/WRB
 does/VBZ
 Renaissance/NNP
@@ -479,6 +483,7 @@ Dow/NNP
 at/IN
 2200/CD
 ?/.
+``/``
 With/IN
 the/DT
 decline/NN
@@ -630,6 +635,7 @@ tipped/VBD
 its/PRP$
 hand/NN
 ./.
+But/CC
 everything/NN
 is/VBZ
 relative/JJ
@@ -746,6 +752,7 @@ tactical/JJ
 asset/NN
 allocation/NN
 ./.
+Competing/VBG
 asset-allocation/JJ
 firms/NNS
 march/VBP

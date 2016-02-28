@@ -121,6 +121,7 @@ a/DT
 reorganization/NN
 plan/NN
 ./.
+Also/RB
 under/IN
 Chapter/NNP
 11/CD
@@ -346,6 +347,7 @@ in/IN
 the/DT
 red/NN
 ./.
+``/``
 If/IN
 bought/VBN
 at/IN
@@ -373,6 +375,7 @@ Co./NNP
 ,/,
 Cleveland/NNP
 ./.
+In/IN
 addition/NN
 ,/,
 Revco/NNP
@@ -664,6 +667,7 @@ in/IN
 claims/NNS
 outstanding/JJ
 ./.
+``/``
 It/PRP
 's/VBZ
 not/RB
@@ -711,6 +715,7 @@ healthy/JJ
 Revco/NNP
 ./.
 ''/''
+But/CC
 Mr./NNP
 Schulte/NNP
 ,/,

@@ -27,6 +27,7 @@ old/JJ
 tin/NN
 can/NN
 ./.
+Playing/VBG
 black/JJ
 in/IN
 the/DT
@@ -85,6 +86,7 @@ lost/VBD
 even/RB
 faster/RBR
 ./.
+Well/UH
 ,/,
 mankind/NN
 can/MD
@@ -380,6 +382,7 @@ second/JJ
 from/IN
 720,000/CD
 ./.
+But/CC
 the/DT
 handlers/NNS
 mistakenly/RB
@@ -432,6 +435,7 @@ very/RB
 good/JJ
 ones/NNS
 ./.
+After/IN
 eight/CD
 moves/NNS
 by/IN
@@ -558,6 +562,7 @@ of/IN
 chess/NN
 fans/NNS
 ./.
+By/IN
 move/NN
 21/CD
 ,/,
@@ -705,6 +710,7 @@ prompting/VBG
 more/JJR
 derision/NN
 ./.
+While/IN
 D.T./NNP
 shuffled/VBD
 its/PRP$
@@ -763,6 +769,7 @@ the/DT
 computer/NN
 resigned/VBD
 ./.
+Now/RB
 ,/,
 with/IN
 the/DT
@@ -819,6 +826,7 @@ Queen/NNP
 Gambit/NNP
 Accepted/NNP
 ./.
+As/RB
 early/RB
 as/IN
 move/NN
@@ -880,6 +888,7 @@ of/IN
 kingside/NN
 development/NN
 ./.
+``/``
 In/IN
 a/DT
 new/JJ
@@ -930,6 +939,7 @@ right/RB
 now/RB
 ./.
 ''/''
+After/IN
 only/RB
 11/CD
 moves/NNS
@@ -1005,6 +1015,7 @@ the/DT
 queen/NN
 move/NN
 ./.
+Now/RB
 ,/,
 after/IN
 only/RB
@@ -1090,6 +1101,7 @@ computer/NN
 much/JJ
 hope/NN
 ./.
+In/IN
 a/DT
 hopeless/JJ
 position/NN

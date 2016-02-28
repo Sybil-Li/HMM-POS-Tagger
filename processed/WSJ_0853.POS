@@ -112,6 +112,7 @@ such/PDT
 a/DT
 move/NN
 ./.
+But/CC
 on/IN
 Oct./NNP
 25/CD
@@ -213,6 +214,7 @@ product/NN
 he/PRP
 said/VBD
 ./.
+In/IN
 Copiague/NNP
 ,/,
 N.Y./NNP
@@ -276,6 +278,7 @@ two/CD
 generic/JJ
 drugs/NNS
 ./.
+Meanwhile/RB
 ,/,
 the/DT
 FDA/NNP
@@ -319,6 +322,7 @@ Procter/NNP
 Gamble/NNP
 Co/NNP
 ./.
+Although/IN
 no/DT
 health/NN
 problems/NNS
@@ -351,6 +355,7 @@ equivalent/NN
 of/IN
 Macrodantin/NNP
 ./.
+In/IN
 American/NNP
 Stock/NNP
 Exchange/NNP

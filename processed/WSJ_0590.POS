@@ -25,6 +25,7 @@ intelligence/NN
 operations/NNS
 abroad/RB
 ./.
+After/IN
 years/NNS
 of/IN
 mistrust/NN
@@ -101,6 +102,7 @@ seen/VBN
 in/IN
 years/NNS
 ./.
+Over/IN
 the/DT
 past/JJ
 week/NN
@@ -190,6 +192,7 @@ honor/VB
 the/DT
 ban/NN
 ./.
+Despite/IN
 objections/NNS
 by/IN
 the/DT
@@ -219,6 +222,7 @@ the/DT
 CIA/NNP
 director/NN
 ./.
+In/IN
 return/NN
 ,/,
 the/DT
@@ -294,6 +298,7 @@ the/DT
 assassination/NN
 game/NN
 ./.
+``/``
 We/PRP
 've/VBP
 finally/RB
@@ -690,6 +695,7 @@ to/TO
 be/VB
 settled/VBN
 ./.
+Moreover/RB
 ,/,
 both/DT
 sides/NNS
@@ -775,6 +781,7 @@ Iran/NNP
 arms/NNS
 sales/NNS
 ./.
+But/CC
 if/IN
 the/DT
 cooperative/JJ

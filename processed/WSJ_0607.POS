@@ -23,6 +23,7 @@ System/NNP
 last/JJ
 week/NN
 ./.
+On/IN
 the/DT
 Big/NNP
 Board/NNP
@@ -66,6 +67,7 @@ for/IN
 insurance/NN
 companies/NNS
 ./.
+Also/RB
 beginning/VBG
 trading/VBG
 today/NN
@@ -119,6 +121,7 @@ management/NN
 investment/NN
 company/NN
 ./.
+On/IN
 the/DT
 Nasdaq/NNP
 over-the-counter/JJ

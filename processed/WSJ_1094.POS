@@ -1,3 +1,4 @@
+As/IN
 a/DT
 presidential/JJ
 candidate/NN
@@ -36,6 +37,7 @@ decision/NN
 legalizing/VBG
 abortion/NN
 ?/.
+``/``
 I/PRP
 happen/VBP
 to/TO
@@ -85,6 +87,7 @@ n't/RB
 end/VB
 there/RB
 ./.
+Just/RB
 a/DT
 month/NN
 ago/RB
@@ -155,6 +158,7 @@ rape/NN
 and/CC
 incest/NN
 ./.
+But/CC
 only/RB
 four/CD
 days/NNS
@@ -198,6 +202,7 @@ measure/NN
 last/JJ
 weekend/NN
 ./.
+So/RB
 what/WP
 does/VBZ
 George/NNP
@@ -548,6 +553,7 @@ strong/JJ
 ideological/JJ
 base/NN
 ./.
+By/IN
 his/PRP$
 moderate/JJ
 Republican/NNP
@@ -627,6 +633,7 @@ overcome/VBP
 such/JJ
 conflicts/NNS
 ./.
+But/CC
 Mr./NNP
 Bush/NNP
 and/CC
@@ -667,6 +674,7 @@ the/DT
 Webster/NNP
 case/NN
 ./.
+``/``
 It/PRP
 was/VBD
 one/CD
@@ -769,6 +777,7 @@ of/IN
 the/DT
 issue/NN
 ./.
+In/IN
 1974/CD
 ,/,
 as/IN
@@ -842,6 +851,7 @@ of/IN
 the/DT
 mother/NN
 ./.
+In/IN
 his/PRP$
 Rolling/NNP
 Stone/NNP
@@ -898,6 +908,7 @@ promising/JJ
 to/TO
 promote/VB
 ./.
+As/IN
 Mr./NNP
 Reagan/NNP
 's/POS
@@ -952,6 +963,7 @@ woman/NN
 's/POS
 life/NN
 ./.
+Throughout/IN
 the/DT
 early/JJ
 1980s/NNS
@@ -1091,6 +1103,7 @@ amendment/NN
 outlawing/VBG
 abortion/NN
 ./.
+But/CC
 when/WRB
 the/DT
 high/JJ
@@ -1290,6 +1303,7 @@ any/DT
 new/JJ
 curbs/NNS
 ./.
+Now/RB
 ,/,
 some/DT
 see/VBP
@@ -1355,3 +1369,4 @@ itself/PRP
 out/IN
 of/IN
 ./.
+''/''

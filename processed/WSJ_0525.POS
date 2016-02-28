@@ -1,3 +1,4 @@
+While/IN
 Wall/NNP
 Street/NNP
 is/VBZ
@@ -30,6 +31,7 @@ trading/VBG
 executives/NNS
 say/VBP
 ./.
+Bowing/VBG
 to/TO
 a/DT
 mounting/VBG
@@ -97,6 +99,7 @@ big/JJ
 stock-market/NN
 swings/NNS
 ./.
+Though/IN
 the/DT
 trading/NN
 halts/NNS
@@ -233,6 +236,7 @@ one/CD
 program-trading/JJ
 executive/NN
 ./.
+Consequently/RB
 ,/,
 abrupt/JJ
 swings/NNS
@@ -686,6 +690,7 @@ in/IN
 program/NN
 trading/NN
 ./.
+Though/IN
 it/PRP
 is/VBZ
 still/RB
@@ -744,6 +749,7 @@ in/IN
 recent/JJ
 months/NNS
 ./.
+Indeed/RB
 ,/,
 Morgan/NNP
 Stanley/NNP
@@ -783,6 +789,7 @@ induces/VBZ
 stock-market/NN
 volatility/NN
 ./.
+``/``
 We/PRP
 have/VBP
 to/TO
@@ -825,6 +832,7 @@ is/VBZ
 critical/JJ
 ./.
 ''/''
+Joining/VBG
 the/DT
 call/NN
 for/IN
@@ -1023,6 +1031,7 @@ the/DT
 first/JJ
 place/NN
 ./.
+``/``
 There/EX
 has/VBZ
 to/TO
@@ -1059,3 +1068,4 @@ all/DT
 equity/NN
 products/NNS
 ./.
+''/''

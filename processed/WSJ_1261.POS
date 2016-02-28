@@ -76,6 +76,7 @@ for/IN
 ad/NN
 campaigns/NNS
 ./.
+Earlier/RBR
 this/DT
 year/NN
 ,/,
@@ -409,6 +410,7 @@ to/TO
 new/JJ
 homeowners/NNS
 ./.
+``/``
 Five/CD
 years/NNS
 ago/IN
@@ -465,3 +467,4 @@ looking/VBG
 for/IN
 ideas/NNS
 ./.
+''/''

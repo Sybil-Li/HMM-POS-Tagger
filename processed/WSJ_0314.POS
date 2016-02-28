@@ -1,3 +1,4 @@
+After/IN
 20/CD
 years/NNS
 of/IN
@@ -227,6 +228,7 @@ with/IN
 health/NN
 matters/NNS
 ./.
+Because/IN
 the/DT
 Bush/NNP
 administration/NN
@@ -357,6 +359,7 @@ higher/JJR
 care/NN
 prices/NNS
 ./.
+At/IN
 11.1/CD
 %/NN
 of/IN
@@ -624,6 +627,7 @@ bill/NN
 than/IN
 business/NN
 ./.
+So/RB
 far/RB
 neither/CC
 the/DT
@@ -765,6 +769,7 @@ report/VB
 next/JJ
 summer/NN
 ./.
+``/``
 No/DT
 magic/JJ
 bullet/NN
@@ -951,6 +956,7 @@ inappropriate/JJ
 or/CC
 unnecessary/JJ
 ./.
+Limiting/VBG
 care/NN
 wo/MD
 n't/RB

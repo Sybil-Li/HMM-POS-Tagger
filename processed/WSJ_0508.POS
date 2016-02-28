@@ -121,6 +121,7 @@ if/IN
 called/VBN
 on/IN
 ./.
+Perhaps/RB
 the/DT
 Halloween/NNP
 season/NN
@@ -149,6 +150,7 @@ Career/NNP
 Officer/NNP
 New/NNP
 York/NNP
+Where/WRB
 does/VBZ
 Mr./NNP
 Lehman/NNP
@@ -232,6 +234,7 @@ own/JJ
 air/NN
 force/NN
 ./.
+Of/IN
 course/NN
 these/DT
 turf/JJ
@@ -284,6 +287,7 @@ Lehman/NNP
 100/CD
 %/NN
 !/.
+Is/VBZ
 n't/RB
 this/DT
 the/DT

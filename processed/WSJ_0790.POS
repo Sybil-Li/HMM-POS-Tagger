@@ -1,3 +1,4 @@
+On/IN
 the/DT
 hungry/JJ
 streets/NNS
@@ -332,6 +333,7 @@ each/DT
 other/JJ
 ./.
 ''/''
+``/``
 The/DT
 Beginning/NN
 and/CC
@@ -516,6 +518,7 @@ embarrassing/JJ
 siblings/NNS
 dead/JJ
 ./.
+As/IN
 a/DT
 critique/NN
 of/IN
@@ -643,6 +646,7 @@ in/IN
 the/DT
 book/NN
 ./.
+If/IN
 the/DT
 setting/NN
 is/VBZ
@@ -763,6 +767,7 @@ Dostoevski/NNP
 St./NNP
 Petersburg/NNP
 ./.
+``/``
 The/DT
 Thief/NN
 and/CC
@@ -853,6 +858,7 @@ holy/JJ
 fire/NN
 !/.
 ''/''
+Said/NNP
 's/POS
 story/NN
 reflects/VBZ
@@ -1195,6 +1201,7 @@ to/TO
 take/VB
 ./.
 ''/''
+``/``
 Wedding/NN
 Song/NN
 ''/''

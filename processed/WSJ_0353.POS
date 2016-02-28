@@ -66,6 +66,7 @@ other/JJ
 government/NN
 units/NNS
 ./.
+After/IN
 the/DT
 GASB/NNP
 was/VBD
@@ -195,6 +196,7 @@ under/IN
 GASB/NNP
 rules/NNS
 ./.
+``/``
 Managers/NNS
 of/IN
 government/NN

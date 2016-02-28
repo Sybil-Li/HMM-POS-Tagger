@@ -237,6 +237,7 @@ New/NNP
 Zealand/NNP
 government/NN
 ./.
+Barred/VBN
 by/IN
 its/PRP$
 budget/NN
@@ -398,6 +399,7 @@ bail/VB
 it/PRP
 out/RP
 ./.
+``/``
 It/PRP
 may/MD
 very/RB
@@ -618,6 +620,7 @@ other/JJ
 run/VBP
 deep/RB
 ./.
+In/IN
 the/DT
 past/JJ
 year/NN
@@ -705,4 +708,5 @@ brought/VBN
 the/DT
 two/CD
 institutions/NNS
-face-to-face/RB./.
+face-to-face/RB
+./.

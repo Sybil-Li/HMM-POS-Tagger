@@ -53,6 +53,7 @@ with/IN
 Torstar/NNP
 Corp/NNP
 ./.
+When/WRB
 that/DT
 agreement/NN
 expires/VBZ
@@ -206,6 +207,7 @@ the/DT
 year-ago/JJ
 quarter/NN
 ./.
+``/``
 To/TO
 be/VB
 profitable/JJ

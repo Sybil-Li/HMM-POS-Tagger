@@ -1,3 +1,4 @@
+When/WRB
 Thomas/NNP
 W./NNP
 Wathen/NNP
@@ -176,6 +177,7 @@ of/IN
 unforeseen/JJ
 problems/NNS
 ./.
+``/``
 We/PRP
 cleared/VBD
 out/RP
@@ -267,6 +269,7 @@ around/IN
 the/DT
 country/NN
 ./.
+Yet/CC
 although/IN
 California/NNP
 Plant/NNP
@@ -477,6 +480,7 @@ business/NN
 anyway/RB
 ./.
 ''/''
+But/CC
 there/EX
 were/VBD
 hitches/NNS
@@ -1028,6 +1032,7 @@ a/DT
 modest/JJ
 profit/NN
 ./.
+Now/RB
 Pinkerton/NNP
 's/POS
 could/MD
@@ -1132,6 +1137,7 @@ some/DT
 labor/NN
 controversies/NNS
 ./.
+``/``
 We/PRP
 have/VBP
 previously/RB
@@ -1185,6 +1191,7 @@ further/JJ
 comment/NN
 ./.
 ''/''
+And/CC
 then/RB
 there/EX
 's/VBZ
@@ -1388,3 +1395,4 @@ work/NN
 mine/PRP
 is/VBZ
 ./.
+''/''

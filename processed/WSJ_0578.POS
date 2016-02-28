@@ -1,3 +1,4 @@
+If/IN
 this/DT
 battle/NN
 were/VBD
@@ -21,6 +22,7 @@ scene/NN
 in/IN
 common/NN
 ./.
+In/IN
 the/DT
 opener/NN
 ,/,
@@ -161,6 +163,7 @@ Warner/NNP
 tells/VBZ
 another/DT
 ./.
+In/IN
 the/DT
 affidavits/NNS
 ,/,
@@ -625,6 +628,7 @@ relationship/NN
 with/IN
 Warner/NNP
 ./.
+At/IN
 the/DT
 center/NN
 of/IN
@@ -735,6 +739,7 @@ on/IN
 the/DT
 matter/NN
 ./.
+Just/RB
 how/WRB
 rancorous/JJ
 the/DT
@@ -995,6 +1000,7 @@ Baird/NNP
 told/VBD
 them/PRP
 ./.
+That/IN
 ,/,
 says/VBZ
 Warner/NNP
@@ -1476,6 +1482,7 @@ of/IN
 money/NN
 ./.
 ''/''
+Moreover/RB
 ,/,
 Mr./NNP
 Guber/NNP
@@ -1655,6 +1662,7 @@ Warner/NNP
 he/PRP
 says/VBZ
 ./.
+But/CC
 Mr./NNP
 Guber/NNP
 indicates/VBZ
@@ -1706,6 +1714,7 @@ at/IN
 least/JJS
 76/CD
 ./.
+As/IN
 for/IN
 the/DT
 projects/NNS
@@ -1738,3 +1747,4 @@ for/IN
 our/PRP$
 projects/NNS
 ./.
+''/''

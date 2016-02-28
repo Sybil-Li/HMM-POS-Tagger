@@ -100,6 +100,7 @@ split/VBD
 last/JJ
 May/NNP
 ./.
+In/IN
 a/DT
 statement/NN
 ,/,
@@ -176,6 +177,7 @@ the/DT
 third/JJ
 quarter/NN
 ./.
+In/IN
 New/NNP
 York/NNP
 Stock/NNP
@@ -242,6 +244,7 @@ overseas/RB
 he/PRP
 said/VBD
 ./.
+Despite/IN
 health-care/NN
 cost/NN
 controls/NNS
@@ -277,6 +280,7 @@ Johnson/NNP
 Johnson/NNP
 said/VBD
 ./.
+But/CC
 domestic/JJ
 consumer/NN
 sales/NNS
@@ -429,6 +433,7 @@ than/IN
 he/PRP
 said/VBD
 ./.
+While/IN
 the/DT
 third/JJ
 period/NN

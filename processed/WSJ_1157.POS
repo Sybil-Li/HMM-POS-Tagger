@@ -242,6 +242,7 @@ inspectors/VBZ
 is/VBZ
 continuing/VBG
 ./.
+Among/IN
 the/DT
 insider/NN
 sales/NNS
@@ -637,6 +638,7 @@ SEC/NNP
 insider/NN
 filings/NNS
 ./.
+But/CC
 previous/JJ
 sales/NNS
 have/VBP
@@ -929,6 +931,7 @@ declined/VBD
 to/TO
 comment/VB
 ./.
+On/IN
 Wall/NNP
 Street/NNP
 ,/,
@@ -1021,6 +1024,7 @@ be/VB
 sold/VBN
 ./.
 ''/''
+Yesterday/NN
 ,/,
 in/IN
 composite/JJ

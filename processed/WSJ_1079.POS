@@ -125,6 +125,7 @@ $/$
 4.7/CD
 billion/CD
 ./.
+In/IN
 New/NNP
 York/NNP
 Stock/NNP
@@ -147,6 +148,7 @@ $/$
 a/DT
 share/NN
 ./.
+In/IN
 addition/NN
 to/TO
 insurance/NN
@@ -179,6 +181,7 @@ and/CC
 information/NN
 services/NNS
 ./.
+``/``
 Hurricane/NNP
 Hugo/NNP
 losses/NNS
@@ -372,6 +375,7 @@ at/IN
 the/DT
 time/NN
 ./.
+``/``
 The/DT
 company/NN
 's/POS

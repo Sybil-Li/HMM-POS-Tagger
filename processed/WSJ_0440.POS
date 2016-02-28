@@ -32,6 +32,7 @@ F.W./NNP
 Dodge/NNP
 Group/NNP
 ./.
+Through/IN
 the/DT
 first/JJ
 nine/CD
@@ -170,6 +171,7 @@ of/IN
 in/IN
 1982/CD
 ./.
+Newly/RB
 contracted/VBN
 residential/JJ
 work/NN
@@ -197,6 +199,7 @@ very/RB
 weak/JJ
 August/NNP
 ./.
+``/``
 At/IN
 the/DT
 end/NN
@@ -244,6 +247,7 @@ past/JJ
 five/CD
 months/NNS
 ./.
+Contracting/VBG
 for/IN
 non-residential/JJ
 buildings/NNS
@@ -301,6 +305,7 @@ surge/NN
 in/IN
 August/NNP
 ./.
+Although/IN
 the/DT
 third/JJ
 quarter/NN

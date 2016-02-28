@@ -1,3 +1,4 @@
+Early/RB
 this/DT
 century/NN
 ,/,
@@ -136,6 +137,7 @@ back/RP
 300/CD
 yards/NNS
 ./.
+``/``
 If/IN
 there/EX
 's/POS
@@ -160,6 +162,7 @@ Beers/NNP
 engineering/NN
 manager/NN
 ./.
+Here/RB
 ,/,
 wedged/VBN
 between/IN
@@ -262,6 +265,7 @@ to/TO
 industrial/JJ
 use/NN
 ./.
+Since/IN
 this/DT
 treasure/NN
 chest/NN
@@ -497,6 +501,7 @@ seems/VBZ
 to/TO
 stop/VB
 ./.
+Still/RB
 ,/,
 miners/NNS
 from/IN
@@ -628,6 +633,7 @@ a/DT
 mining/NN
 engineer/NN
 ./.
+Despite/IN
 fears/NNS
 the/DT
 mine/NN
@@ -741,6 +747,7 @@ criss-cross/VBP
 the/DT
 beach/NN
 ./.
+Then/RB
 there/EX
 is/VBZ
 the/DT
@@ -841,6 +848,7 @@ against/IN
 the/DT
 waves/NNS
 ./.
+``/``
 The/DT
 Caterpillar/NNP
 people/NNS
@@ -874,6 +882,7 @@ good/JJ
 advert/NN
 ./.
 ''/''
+Despite/IN
 all/PDT
 these/DT
 innovations/NNS
@@ -995,6 +1004,7 @@ years/NNS
 in/IN
 jail/NN
 ./.
+Still/RB
 ,/,
 employees/NNS
 do/VBP

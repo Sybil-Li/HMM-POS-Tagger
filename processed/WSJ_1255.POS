@@ -24,6 +24,7 @@ canned/VBN
 Chinese/JJ
 mushrooms/NNS
 ./.
+``/``
 The/DT
 agency/NN
 has/VBZ
@@ -83,6 +84,7 @@ prevent/VB
 bacterial/JJ
 contamination/NN
 ./.
+On/IN
 May/NNP
 19/CD
 ,/,
@@ -174,6 +176,7 @@ in/IN
 early/JJ
 March/NNP
 ./.
+In/IN
 1987/CD
 ,/,
 China/NNP

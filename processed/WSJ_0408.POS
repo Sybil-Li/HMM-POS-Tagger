@@ -171,6 +171,7 @@ the/DT
 sources/NNS
 said/VBD
 ./.
+Like/IN
 Mr./NNP
 Geffen/NNP
 's/POS
@@ -378,3 +379,4 @@ than/IN
 run/VB
 one/CD
 ./.
+''/''

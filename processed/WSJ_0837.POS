@@ -209,6 +209,7 @@ an/DT
 increased/JJ
 expense/NN
 ./.
+In/IN
 New/NNP
 York/NNP
 Stock/NNP
@@ -232,6 +233,7 @@ of/IN
 million/CD
 shares/NNS
 ./.
+Excluding/VBG
 the/DT
 stock/NN
 appreciation/NN
@@ -324,6 +326,7 @@ flown/VBN
 one/CD
 mile/NN
 ./.
+For/IN
 the/DT
 nine/CD
 months/NNS
@@ -397,6 +400,7 @@ a/DT
 year/NN
 earlier/RBR
 ./.
+Separately/RB
 ,/,
 the/DT
 leadership/NN

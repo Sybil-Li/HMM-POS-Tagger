@@ -78,6 +78,7 @@ a/DT
 trumpet/NN
 fanfare/NN
 ./.
+To/TO
 many/JJ
 ,/,
 it/PRP
@@ -214,6 +215,7 @@ a/DT
 disquieting/JJ
 picture/NN
 ./.
+According/VBG
 to/TO
 testimony/NN
 in/IN
@@ -335,6 +337,7 @@ in/IN
 Cambria/NNP
 County/NNP
 ./.
+In/IN
 testimony/NN
 recorded/VBN
 in/IN
@@ -570,6 +573,7 @@ rulings/NNS
 against/IN
 them/PRP
 ./.
+``/``
 I/PRP
 do/VBP
 n't/RB
@@ -604,6 +608,7 @@ into/IN
 action/NN
 ./.
 ''/''
+Even/RB
 if/IN
 only/RB
 some/DT
@@ -716,6 +721,7 @@ rural/JJ
 justice/NN
 issues/NNS
 ./.
+As/IN
 a/DT
 result/NN
 ,/,
@@ -1036,6 +1042,7 @@ interviewing/VBG
 local/JJ
 lawyers/NNS
 ./.
+``/``
 He/PRP
 probably/RB
 was/VBD
@@ -1100,6 +1107,7 @@ an/DT
 eye/NN
 ./.
 ''/''
+For/IN
 more/JJR
 than/IN
 a/DT
@@ -1250,6 +1258,7 @@ to/TO
 complain/VB
 ./.
 ''/''
+Certainly/RB
 not/RB
 the/DT
 lawyers/NNS
@@ -1321,6 +1330,7 @@ when/WRB
 he/PRP
 visited/VBD
 ./.
+When/WRB
 Mr./NNP
 Green/NNP
 won/VBD
@@ -1382,6 +1392,7 @@ suggested/VBD
 a/DT
 kickback/NN
 ./.
+``/``
 Do/VBP
 n't/RB
 you/PRP
@@ -1462,6 +1473,7 @@ at/IN
 his/PRP$
 trial/NN
 ./.
+Like/IN
 most/JJS
 of/IN
 Cambria/NNP
@@ -1504,6 +1516,7 @@ to/TO
 be/VB
 printed/VBN
 ./.
+``/``
 I/PRP
 do/VBP
 n't/RB
@@ -1541,6 +1554,7 @@ Edward/NNP
 F./NNP
 Peduzzi/NNP
 ./.
+Says/VBZ
 another/DT
 lawyer/NN
 :/:
@@ -1738,6 +1752,7 @@ abilities/NNS
 and/CC
 accomplishments/NNS
 ./.
+``/``
 My/PRP$
 name/NN
 is/VBZ
@@ -1784,6 +1799,7 @@ Judge/NNP
 O'Kicki/NNP
 ./.
 ''/''
+Yet/RB
 ,/,
 despite/IN
 the/DT
@@ -1815,6 +1831,7 @@ County/NNP
 bar/NN
 association/NN
 ./.
+``/``
 The/DT
 arrogance/NN
 of/IN
@@ -1998,6 +2015,7 @@ lender/NN
 Laurel/NNP
 Bank/NNP
 ./.
+Then/RB
 ,/,
 as/IN
 an/DT
@@ -2035,6 +2053,7 @@ the/DT
 loan/NN
 documents/NNS
 ./.
+But/CC
 when/WRB
 the/DT
 judge/NN
@@ -2082,6 +2101,7 @@ to/TO
 the/DT
 report/NN
 ./.
+Later/RBR
 ,/,
 the/DT
 judge/NN
@@ -2121,6 +2141,7 @@ judge/NN
 wrote/VBD
 again/RB
 ./.
+``/``
 I/PRP
 find/VBP
 myself/PRP
@@ -2477,6 +2498,7 @@ oppression/NN
 remains/VBZ
 intact/JJ
 ./.
+``/``
 If/IN
 I/PRP
 lose/VBP
@@ -2515,3 +2537,4 @@ correct/JJ
 and/CC
 innocent/JJ
 ./.
+''/''

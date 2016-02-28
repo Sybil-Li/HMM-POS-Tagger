@@ -71,6 +71,7 @@ Tracer/NNP
 for/IN
 Ford/NNP
 ./.
+As/IN
 a/DT
 result/NN
 of/IN
@@ -254,6 +255,7 @@ charge/NN
 to/TO
 owners/NNS
 ./.
+For/IN
 owners/NNS
 who/WP
 have/VBP

@@ -113,6 +113,7 @@ RISC/NNP
 ,/,
 technology/NN
 ./.
+At/IN
 that/DT
 price/NN
 ,/,
@@ -300,6 +301,7 @@ the/DT
 internal/JJ
 software/NN
 ./.
+For/IN
 Mips/NNP
 ,/,
 which/WDT

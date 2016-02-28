@@ -119,6 +119,7 @@ quarter/NN
 Avon/NNP
 added/VBD
 ./.
+``/``
 Third-quarter/JJ
 net/NN
 was/VBD
@@ -198,6 +199,7 @@ and/CC
 decorative/JJ
 lines/NNS
 ./.
+In/IN
 New/NNP
 York/NNP
 Stock/NNP
@@ -276,6 +278,7 @@ cash/NN
 and/CC
 notes/NNS
 ./.
+In/IN
 the/DT
 nine/CD
 months/NNS

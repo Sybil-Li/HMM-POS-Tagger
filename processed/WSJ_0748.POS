@@ -1,3 +1,4 @@
+When/WRB
 President/NNP
 Bush/NNP
 travels/VBZ
@@ -130,6 +131,7 @@ attempt/NN
 in/IN
 Panama/NNP
 ./.
+``/``
 I/PRP
 believe/VBP
 it/PRP
@@ -225,6 +227,7 @@ dictator/NN
 Manuel/NNP
 Noriega/NNP
 ./.
+At/IN
 the/DT
 same/JJ
 time/NN
@@ -359,6 +362,7 @@ necessary/JJ
 as/IN
 ever/RB
 ./.
+``/``
 We/PRP
 are/VBP
 crossing/VBG
@@ -440,6 +444,7 @@ peace/NN
 in/IN
 Nicaragua/NNP
 ./.
+However/RB
 ,/,
 peace/NN
 efforts/NNS
@@ -511,6 +516,7 @@ administration/NN
 would/MD
 prefer/VB
 ./.
+``/``
 I/PRP
 think/VBP
 Bush/NNP
@@ -695,6 +701,7 @@ less/RBR
 developed/JJ
 countries/NNS
 ./.
+``/``
 Let/VB
 me/PRP
 say/VB
@@ -750,3 +757,4 @@ very/RB
 important/JJ
 issues/NNS
 ./.
+''/''

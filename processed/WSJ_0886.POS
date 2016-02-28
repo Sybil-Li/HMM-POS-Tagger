@@ -56,6 +56,7 @@ nation/NN
 garbage/NN
 crisis/NN
 ./.
+Under/IN
 the/DT
 program/NN
 ,/,
@@ -182,6 +183,7 @@ president/NN
 environmental/JJ
 affairs/NNS
 ./.
+However/RB
 ,/,
 it/PRP
 will/MD
@@ -519,6 +521,7 @@ across/IN
 the/DT
 nation/NN
 ./.
+``/``
 Political/JJ
 pressure/NN
 has/VBZ
@@ -663,3 +666,4 @@ use/VB
 china/NN
 plates/NNS
 ?/.
+''/''

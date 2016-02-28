@@ -14,6 +14,7 @@ retired/VBD
 last/JJ
 May/NNP
 ./.
+As/IN
 he/PRP
 handed/VBD
 over/IN
@@ -169,6 +170,7 @@ five/CD
 months/NNS
 ago/RB
 ./.
+In/IN
 addition/NN
 ,/,
 USX/NNP
@@ -327,6 +329,7 @@ Icahn/NNP
 's/POS
 pressure/NN
 ./.
+With/IN
 his/PRP$
 recent/JJ
 purchases/NNS
@@ -542,6 +545,7 @@ block/VB
 his/PRP$
 opponent/NN
 ./.
+Although/IN
 the/DT
 board/NN
 believed/VBD
@@ -578,6 +582,7 @@ a/DT
 %/NN
 stake/NN
 ./.
+Now/RB
 ,/,
 it/PRP
 's/VBZ
@@ -670,6 +675,7 @@ his/PRP$
 USX/NNP
 move/NN
 ./.
+And/CC
 although/IN
 the/DT
 recent/JJ
@@ -761,6 +767,7 @@ Lorain/NNP
 ,/,
 Ohio/NNP
 ./.
+In/IN
 fact/NN
 ,/,
 it/PRP
@@ -965,6 +972,7 @@ get/VB
 angry/JJ
 ./.
 ''/''
+Yet/CC
 ,/,
 the/DT
 unassuming/JJ
@@ -1005,6 +1013,7 @@ $/$
 5.9/CD
 billion/CD
 ./.
+Nevertheless/RB
 ,/,
 Mr./NNP
 Corry/NNP
@@ -1100,6 +1109,7 @@ Marathon/NNP
 's/POS
 home/NN
 ./.
+And/CC
 ,/,
 earlier/RBR
 this/DT
@@ -1631,6 +1641,7 @@ served/VBD
 as/IN
 chairman/NN
 ./.
+``/``
 Dave/NNP
 thought/VBD
 the/DT
@@ -1700,6 +1711,7 @@ day/NN
 longer/RB
 ./.
 ''/''
+However/RB
 ,/,
 shedding/VBG
 steel/NN
@@ -1791,6 +1803,7 @@ Wall/NNP
 Street/NNP
 ./.
 ''/''
+Moreover/RB
 ,/,
 the/DT
 opportunity/NN
@@ -1867,6 +1880,7 @@ ventures/NNS
 he/PRP
 adds/VBZ
 ./.
+With/IN
 Mr./NNP
 Icahn/NNP
 breathing/VBG
@@ -1987,6 +2001,7 @@ the/DT
 North/NNP
 Sea/NNP
 ./.
+Should/MD
 USX/NNP
 be/VB
 left/VBN
@@ -2182,6 +2197,7 @@ chemicals/NNS
 to/TO
 construction/NN
 ./.
+When/WRB
 negotiating/VBG
 ,/,
 Mr./NNP
@@ -2273,6 +2289,7 @@ and/CC
 investor-relations/JJ
 firm/NN
 ./.
+Ever/RB
 the/DT
 pragmatist/NN
 ,/,
@@ -2297,6 +2314,7 @@ the/DT
 country/NN
 ./.
 ''/''
+``/``
 It/PRP
 's/VBZ
 part/NN

@@ -26,6 +26,7 @@ wants/VBZ
 it/PRP
 now/RB
 ./.
+Not/RB
 so/IN
 fast/RB
 ,/,
@@ -244,6 +245,7 @@ has/VBZ
 the/DT
 right/NN
 ./.
+Although/IN
 that/DT
 may/MD
 sound/VB
@@ -380,6 +382,7 @@ least/JJS
 next/JJ
 year/NN
 ./.
+Still/RB
 ,/,
 Mr./NNP
 Bush/NNP
@@ -898,6 +901,7 @@ in/IN
 mind/NN
 ./.
 ''/''
+In/IN
 addition/NN
 to/TO
 giving/VBG
@@ -1131,6 +1135,7 @@ official/JJ
 bills/NNS
 themselves/PRP
 ./.
+Still/RB
 ,/,
 proponents/NNS
 contend/VB
@@ -1254,6 +1259,7 @@ works/VBZ
 he/PRP
 notes/VBZ
 ./.
+Indeed/RB
 ,/,
 although/IN
 a/DT
@@ -1348,6 +1354,7 @@ very/JJ
 same/JJ
 conservatives/NNS
 ./.
+``/``
 Every/DT
 order/NN
 ,/,
@@ -1436,6 +1443,7 @@ a/DT
 bill/NN
 ./.
 ''/''
+--/:
 The/DT
 Constitution/NNP
 ,/,

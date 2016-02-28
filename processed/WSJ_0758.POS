@@ -176,6 +176,7 @@ has/VBZ
 turned/VBN
 cynic/JJ
 ./.
+But/CC
 his/PRP$
 is/VBZ
 a/DT
@@ -250,6 +251,7 @@ ultimate/JJ
 present/NN
 ./.
 ''/''
+To/TO
 understand/VB
 what/WP
 Mr./NNP
@@ -646,6 +648,7 @@ says/VBZ
 Mr./NNP
 Engelken/NNP
 ./.
+And/CC
 Bobby/NNP
 Thomson/NNP
 was/VBD
@@ -889,6 +892,7 @@ of/IN
 the/DT
 poet/NN
 ./.
+And/CC
 when/WRB
 Mr./NNP
 Engelken/NNP
@@ -1066,6 +1070,7 @@ had/VBD
 an/DT
 idea/NN
 ./.
+On/IN
 her/PRP$
 husband/NN
 's/POS
@@ -1146,6 +1151,7 @@ off/IN
 Exit/NN
 10/CD
 ./.
+``/``
 It/PRP
 sounded/VBD
 like/IN
@@ -1160,6 +1166,7 @@ Mr./NNP
 Engelken/NNP
 recalls/VBZ
 ./.
+At/IN
 the/DT
 appointed/JJ
 exit/NN
@@ -1190,6 +1197,7 @@ down/RP
 the/DT
 window/NN
 ./.
+In/IN
 a/DT
 matter/NN
 of/IN
@@ -1242,6 +1250,7 @@ Bobby/NNP
 Thomson/NNP
 ./.
 ''/''
+``/``
 And/CC
 there/EX
 he/PRP
@@ -1474,6 +1483,7 @@ do/VB
 it/PRP
 ./.
 ''/''
+In/IN
 an/DT
 interview/NN
 ,/,
@@ -1543,6 +1553,7 @@ in/IN
 recent/JJ
 years/NNS
 ./.
+In/IN
 response/NN
 to/TO
 the/DT
@@ -1607,6 +1618,7 @@ says/VBZ
 he/PRP
 thought/VBD
 ./.
+When/WRB
 the/DT
 Engelken/NNP
 family/NN
@@ -1695,6 +1707,7 @@ richer/JJR
 for/IN
 it/PRP
 ./.
+``/``
 Take/VB
 heart/NN
 ,/,
@@ -1748,3 +1761,4 @@ New/NNP
 Jersey/NNP
 Turnpike/NNP
 ./.
+''/''

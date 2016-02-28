@@ -1,3 +1,4 @@
+As/IN
 the/DT
 Soviet/NNP
 Union/NNP
@@ -104,6 +105,7 @@ the/DT
 social/JJ
 consequences/NNS
 ./.
+While/IN
 many/JJ
 solutions/NNS
 to/TO
@@ -132,6 +134,7 @@ presumed/VBN
 high-level/JJ
 authorship/NN
 ./.
+Although/IN
 it/PRP
 was/VBD
 published/VBN
@@ -196,6 +199,7 @@ on/IN
 economic/JJ
 reform/NN
 ./.
+``/``
 It/PRP
 's/VBZ
 clearly/RB
@@ -259,6 +263,7 @@ and/CC
 later/RB
 dropped/VBD
 ./.
+But/CC
 the/DT
 proposals/NNS
 also/RB
@@ -460,6 +465,7 @@ steps/NNS
 advocated/VBN
 include/VBP
 :/:
+--/:
 PROPERTY/NN
 ./.
 Rigid/JJ
@@ -570,6 +576,7 @@ blocking/VBG
 economic/JJ
 reform/NN
 ./.
+--/:
 FINANCES/NNS
 ./.
 Emergency/NN
@@ -687,6 +694,7 @@ purchase/VB
 an/DT
 apartment/NN
 ./.
+--/:
 LABOR/NN
 ./.
 A/DT
@@ -746,6 +754,7 @@ and/CC
 unemployment/NN
 benefits/NNS
 ./.
+--/:
 PRICES/NN
 ./.
 The/DT
@@ -866,6 +875,7 @@ n't/RB
 suffer/VB
 unduly/RB
 ./.
+--/:
 FOREIGN/JJ
 TRADE/NN
 ./.

@@ -161,6 +161,7 @@ begins/VBZ
 in/IN
 January/NNP
 ./.
+``/``
 What/WP
 we/PRP
 've/VBP
@@ -206,6 +207,7 @@ of/IN
 a/DT
 day/NN
 ./.
+In/IN
 California/NNP
 and/CC
 New/NNP
@@ -242,6 +244,7 @@ getting/VBG
 the/DT
 programs/NNS
 ./.
+Subscribing/VBG
 schools/NNS
 get/VBP
 the/DT
@@ -456,6 +459,7 @@ was/VBD
 being/VBG
 aired/VBN
 ./.
+``/``
 The/DT
 number/NN
 of/IN

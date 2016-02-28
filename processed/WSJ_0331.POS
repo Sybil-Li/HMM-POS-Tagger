@@ -10,6 +10,7 @@ Wall/NNP
 Street/NNP
 loved/VBD
 ./.
+Since/IN
 the/DT
 value/NN
 of/IN
@@ -83,6 +84,7 @@ worth/IN
 a/DT
 share/NN
 ./.
+And/CC
 why/WRB
 should/MD
 holders/NNS
@@ -148,6 +150,7 @@ maximize/VB
 values/NNS
 ./.
 ''/''
+But/CC
 value/NN
 ,/,
 it/PRP
@@ -243,6 +246,7 @@ $/$
 3/CD
 billion/CD
 ./.
+``/``
 The/DT
 implied/JJ
 current/JJ
@@ -288,12 +292,14 @@ an/DT
 intangible/NN
 ./.
 ''/''
+So/RB
 what/WP
 is/VBZ
 Santa/NNP
 Fe/NNP
 worth/IN
 ?/.
+If/IN
 the/DT
 railroad/NN
 is/VBZ
@@ -508,6 +514,7 @@ the/DT
 whole/NN
 ./.
 ''/''
+But/CC
 it/PRP
 is/VBZ
 n't/RB
@@ -673,6 +680,7 @@ recommend/VB
 it/PRP
 ./.
 ''/''
+First/RB
 Boston/NNP
 's/POS
 Graeme/NNP
@@ -721,6 +729,7 @@ for/IN
 the/DT
 door/NN
 ./.
+Quoting/VBG
 from/IN
 the/DT
 report/NN
