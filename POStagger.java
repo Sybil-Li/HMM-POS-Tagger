@@ -85,8 +85,7 @@ public class POStagger {
 			String line = null;
 			while ((line = br.readLine()) != null) {
 				String[] pair = line.split("\\/");
-				//TODO fix this
-				String[] tags = pair[pair.length-1].split("|");
+				String[] tags = pair[pair.length-1].split("\\|");
 				// iterate through each pair of words and tags
 				for (int j = 0; j < tags.length; j++) {
 					String tag = tags[j];
