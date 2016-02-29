@@ -43,16 +43,16 @@ public class POStagger {
 			allTags[i] = (String) temp[i];
 		}
 
-		for (Map.Entry<String,HashMap<String,Integer>> entry : cat2cat.entrySet()) {
-			String key = entry.getKey();
-			HashMap<String,Integer> value = entry.getValue();
-			System.out.println("category: "  + key);
-			// for (Map.Entry<String,Integer> occurences : value.entrySet()) {
-			// 	String k = occurences.getKey();
-			// 	Integer v = occurences.getValue();
-			// 	System.out.println(k + " = " + v);
-			// }
-		}
+		// for (Map.Entry<String,HashMap<String,Integer>> entry : cat2cat.entrySet()) {
+		// 	String key = entry.getKey();
+		// 	HashMap<String,Integer> value = entry.getValue();
+		// 	System.out.println("category: "  + key);
+		// 	// for (Map.Entry<String,Integer> occurences : value.entrySet()) {
+		// 	// 	String k = occurences.getKey();
+		// 	// 	Integer v = occurences.getValue();
+		// 	// 	System.out.println(k + " = " + v);
+		// 	// }
+		// }
 
 		int totalpredicted = 0;
 		int totalcorrect = 0;
