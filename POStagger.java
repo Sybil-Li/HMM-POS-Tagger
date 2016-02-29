@@ -43,37 +43,39 @@ public class POStagger {
 			allTags[i] = (String) temp[i];
 		}
 
-		// for (Map.Entry<String,HashMap<String,Integer>> entry : cat2cat.entrySet()) {
-		// 	String key = entry.getKey();
-		// 	HashMap<String,Integer> value = entry.getValue();
-		// 	System.out.println("category: "  + key);
-		// 	// for (Map.Entry<String,Integer> occurences : value.entrySet()) {
-		// 	// 	String k = occurences.getKey();
-		// 	// 	Integer v = occurences.getValue();
-		// 	// 	System.out.println(k + " = " + v);
-		// 	// }
-		// }
+		for (Map.Entry<String,HashMap<String,Integer>> entry : cat2cat.entrySet()) {
+			String key = entry.getKey();
+			HashMap<String,Integer> value = entry.getValue();
+			System.out.println("category: "  + key);
+			// for (Map.Entry<String,Integer> occurences : value.entrySet()) {
+			// 	String k = occurences.getKey();
+			// 	Integer v = occurences.getValue();
+			// 	System.out.println(k + " = " + v);
+			// }
+		}
 
 		int totalpredicted = 0;
 		int totalcorrect = 0;
 
-		// for (int i = 2; i < 3; i++){
-		// 	for (int j = i*100; j < i*100+100; j++) {
-		// 		Path file_path = Paths.get("processed/WSJ_0" + j + ".POS");
-		// 		int[] accuracy = testModel(file_path);
-		// 		System.out.println("tested processed/WSJ_0" + j + ".POS");
-		// 		totalpredicted += accuracy[0];
-		// 		totalcorrect += accuracy[1];
-		// 	}	
-		// }
+		for (int i = 2; i < 3; i++){
+			for (int j = i*100; j < i*100+100; j++) {
+				Path file_path = Paths.get("processed/WSJ_0" + j + ".POS");
+				int[] accuracy = testModel(file_path);
+				System.out.println("tested processed/WSJ_0" + j + ".POS");
+				totalpredicted += accuracy[0];
+				totalcorrect += accuracy[1];
+			}	
+		}
 
-		// System.out.println("total number of words: " + totalpredicted);
-		// System.out.println("correctly predicted: " + totalcorrect);
+		System.out.println("total number of words: " + totalpredicted);
+		System.out.println("correctly predicted: " + totalcorrect);
+		System.out.println("percentage: " + totalcorrect/1.0/totalpredicted);
+
 
 		// testing code
-		int[] accuracy = testModel(Paths.get("processed/WSJ_0200.POS"));
-		System.out.println("total number of words: " + accuracy[0]);
-		System.out.println("correctly predicted: " + accuracy[1]);	
+		// int[] accuracy = testModel(Paths.get("processed/WSJ_0200.POS"));
+		// System.out.println("total number of words: " + accuracy[0]);
+		// System.out.println("correctly predicted: " + accuracy[1]);
 
 	}
 
@@ -162,7 +164,6 @@ public class POStagger {
 		String posString = null;
 		try {
 	    	byte[] posArray = Files.readAllBytes(file_path);
-
 	    	posString = new String(posArray);
 	    } catch (IOException e) {
 	    	System.out.println(e);
@@ -173,6 +174,7 @@ public class POStagger {
 	    for (int i = 0; i < tokens.length; i++){
 	    	words_tags[i] = tokens[i].split("\\/");
 	    }
+	    
 	    // debugging code for word-tag split
 	    // for (int i = 0; i < tokens.length; i++){
 		// 	System.out.println(words_tags[i][0] + " " + words_tags[i][1]);
@@ -203,7 +205,7 @@ public class POStagger {
 		double[][] score = new double[K][N];
 		int[][] backpointer = new int[K][N];
 
-		String w = words_tags[0][0];
+		String w = getWord(words_tags[0][0]);
 		String t = null;
 		String prevt = "**start**";
 
@@ -239,7 +241,7 @@ public class POStagger {
 
 		// induction
 		for (int j = 1; j < N; j++) {
-			w = words_tags[j][0];
+			w = getWord(words_tags[j][0]);
 			//System.out.println(w + " " +word2cat.containsKey(w));
 			for (int i = 0; i < K; i++) {
 				t = allTags[i];
@@ -301,6 +303,20 @@ public class POStagger {
 			results[i] = allTags[maxt];
 		}
 		return results;
+	}
+
+	/** 
+	 * Get the first word from the string in form of "word1\/word2\/..."
+	 * All words in string have the same tag
+	 * @param input string
+	 * @return first word without \
+	 */
+	public static String getWord(String s){
+		String[] words = s.split("\\/");
+		if (words[0].charAt(words[0].length()-1) != '\\') {
+			return words[0];
+		}
+		return words[0].substring(0, words[0].length()-1);
 	}
 
 }
