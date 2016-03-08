@@ -20,28 +20,28 @@ public class POStagger {
 		// cross validation
 		// should be a number between 0-9 inclusive
 		// 0 means x00-x09 will be testset
-		// if using whole set then set tset = 10
-		int tset = 2;
+		// if using whole set then set testset = 10
+		int testset = 10;
 
 		// Read file content into String
 		for (int i = 2; i < 10; i++){
-			for (int j = i*100; j < i*100+10*tset; j++) {
+			for (int j = i*100; j < i*100+10*testset; j++) {
 				Path file_path = Paths.get("processed/WSJ_0" + j + ".POS");
 				trainModel(file_path);
 			}	
 
-			for (int j = i*100+10*tset+10; j < i*100+100; j++) {
+			for (int j = i*100+10*testset+10; j < i*100+100; j++) {
 				Path file_path = Paths.get("processed/WSJ_0" + j + ".POS");
 				trainModel(file_path);
 			}	
 		}
 		for (int i = 10; i < 13; i++){
-			for (int j = i*100; j < i*100+10*tset; j++) {
+			for (int j = i*100; j < i*100+10*testset; j++) {
 				Path file_path = Paths.get("processed/WSJ_" + j + ".POS");
 				trainModel(file_path);
 			}	
 
-			for (int j = i*100+10*tset+10; j < i*100+100; j++) {
+			for (int j = i*100+10*testset+10; j < i*100+100; j++) {
 				Path file_path = Paths.get("processed/WSJ_" + j + ".POS");
 				trainModel(file_path);
 			}
@@ -59,6 +59,8 @@ public class POStagger {
 			allTags[i] = (String) temp[i];
 		}
 
+		// DEBUGGING CODE
+		// checking map entries
 		// for (Map.Entry<String,HashMap<String,Integer>> entry : cat2cat.entrySet()) {
 		// 	String key = entry.getKey();
 		// 	HashMap<String,Integer> value = entry.getValue();
@@ -73,23 +75,48 @@ public class POStagger {
 		int totalpredicted = 0;
 		int totalcorrect = 0;
 
-		for (int i = 2; i < 10; i++){
-			for (int j = i*100+10*tset; j < i*100+10*tset+10; j++) {
-				Path file_path = Paths.get("processed/WSJ_0" + j + ".POS");
-				int[] accuracy = testModel(file_path);
-				System.out.println("tested processed/WSJ_0" + j + ".POS");
-				totalpredicted += accuracy[0];
-				totalcorrect += accuracy[1];
-			}	
+
+		// if using cross validation
+		if (testset != 10) {
+			for (int i = 2; i < 10; i++){
+				for (int j = i*100+10*testset; j < i*100+10*testset+10; j++) {
+					Path file_path = Paths.get("processed/WSJ_0" + j + ".POS");
+					int[] accuracy = testModel(file_path);
+					System.out.println("tested processed/WSJ_0" + j + ".POS");
+					totalpredicted += accuracy[0];
+					totalcorrect += accuracy[1];
+				}	
+			}
+			for (int i = 10; i < 13; i++){
+				for (int j = i*100+10*testset; j < i*100+10*testset+10; j++) {
+					Path file_path = Paths.get("processed/WSJ_" + j + ".POS");
+					int[] accuracy = testModel(file_path);
+					System.out.println("tested processed/WSJ_" + j + ".POS");
+					totalpredicted += accuracy[0];
+					totalcorrect += accuracy[1];
+				}	
+			}
 		}
-		for (int i = 10; i < 13; i++){
-			for (int j = i*100+10*tset; j < i*100+10*tset+10; j++) {
-				Path file_path = Paths.get("processed/WSJ_" + j + ".POS");
-				int[] accuracy = testModel(file_path);
-				System.out.println("tested processed/WSJ_" + j + ".POS");
-				totalpredicted += accuracy[0];
-				totalcorrect += accuracy[1];
-			}	
+		else {
+			// using default testset of first 10 files of each group
+			for (int i = 2; i < 10; i++){
+				for (int j = i*100; j < i*100+10; j++) {
+					Path file_path = Paths.get("processed/WSJ_0" + j + ".POS");
+					int[] accuracy = testModel(file_path);
+					System.out.println("tested processed/WSJ_0" + j + ".POS");
+					totalpredicted += accuracy[0];
+					totalcorrect += accuracy[1];
+				}	
+			}
+			for (int i = 10; i < 13; i++){
+				for (int j = i*100; j < i*100+10; j++) {
+					Path file_path = Paths.get("processed/WSJ_" + j + ".POS");
+					int[] accuracy = testModel(file_path);
+					System.out.println("tested processed/WSJ_" + j + ".POS");
+					totalpredicted += accuracy[0];
+					totalcorrect += accuracy[1];
+				}	
+			}
 		}
 
 		System.out.println("total number of words: " + totalpredicted);
@@ -101,6 +128,20 @@ public class POStagger {
 		// int[] accuracy = testModel(Paths.get("processed/WSJ_0200.POS"));
 		// System.out.println("total number of words: " + accuracy[0]);
 		// System.out.println("correctly predicted: " + accuracy[1]);
+
+		// accuracy from cross validation
+		// testset = 0: 0.9031452545765015
+		// testset = 1: 0.9014382757463938
+		// testset = 2: 0.9073844407542093
+		// testset = 3: 0.9050330122307609
+		// testset = 4: 0.9041593976677991
+		// testset = 5: 0.8987972622765632
+		// testset = 6: 0.8977001006795872
+		// testset = 7: 0.9086563610454734
+		// testset = 8: 0.9016036428430014
+		// testset = 9: 0.8992036011080332
+		// testset = 10(no unknow words): 0.9186052916659017
+
 
 	}
 
@@ -248,7 +289,7 @@ public class POStagger {
 					pWordInCat = -(Math.log(1)-Math.log(wordTotal.get(w)+K));
 				}
 			}
-			else {
+			else { // if word is unknown, just assume 0. i.e w|t constant for all t
 				pWordInCat = 0;
 			}
 			
@@ -289,7 +330,7 @@ public class POStagger {
 							pWordInCat = -(Math.log(1)-Math.log(wordTotal.get(w)+K));
 						}
 					}
-					else {
+					else { // if word is unknown, just assume 0. i.e w|t constant for all t
 						pWordInCat = 0;
 					}	
 
