@@ -17,15 +17,31 @@ public class POStagger {
 	private static HashMap<String, HashMap<String, Integer>> word2cat = new HashMap<String, HashMap<String, Integer>>();
 	private static String[] allTags = null;
 	public static void main (String[] args) {
+		// cross validation
+		// should be a number between 0-9 inclusive
+		// 0 means x00-x09 will be testset
+		// if using whole set then set tset = 10
+		int tset = 2;
+
 		// Read file content into String
 		for (int i = 2; i < 10; i++){
-			for (int j = i*100; j < i*100+100; j++) {
+			for (int j = i*100; j < i*100+10*tset; j++) {
+				Path file_path = Paths.get("processed/WSJ_0" + j + ".POS");
+				trainModel(file_path);
+			}	
+
+			for (int j = i*100+10*tset+10; j < i*100+100; j++) {
 				Path file_path = Paths.get("processed/WSJ_0" + j + ".POS");
 				trainModel(file_path);
 			}	
 		}
 		for (int i = 10; i < 13; i++){
-			for (int j = i*100; j < i*100+100; j++) {
+			for (int j = i*100; j < i*100+10*tset; j++) {
+				Path file_path = Paths.get("processed/WSJ_" + j + ".POS");
+				trainModel(file_path);
+			}	
+
+			for (int j = i*100+10*tset+10; j < i*100+100; j++) {
 				Path file_path = Paths.get("processed/WSJ_" + j + ".POS");
 				trainModel(file_path);
 			}
@@ -43,25 +59,34 @@ public class POStagger {
 			allTags[i] = (String) temp[i];
 		}
 
-		for (Map.Entry<String,HashMap<String,Integer>> entry : cat2cat.entrySet()) {
-			String key = entry.getKey();
-			HashMap<String,Integer> value = entry.getValue();
-			System.out.println("category: "  + key);
-			// for (Map.Entry<String,Integer> occurences : value.entrySet()) {
-			// 	String k = occurences.getKey();
-			// 	Integer v = occurences.getValue();
-			// 	System.out.println(k + " = " + v);
-			// }
-		}
+		// for (Map.Entry<String,HashMap<String,Integer>> entry : cat2cat.entrySet()) {
+		// 	String key = entry.getKey();
+		// 	HashMap<String,Integer> value = entry.getValue();
+		// 	System.out.println("category: "  + key);
+		// 	// for (Map.Entry<String,Integer> occurences : value.entrySet()) {
+		// 	// 	String k = occurences.getKey();
+		// 	// 	Integer v = occurences.getValue();
+		// 	// 	System.out.println(k + " = " + v);
+		// 	// }
+		// }
 
 		int totalpredicted = 0;
 		int totalcorrect = 0;
 
-		for (int i = 2; i < 3; i++){
-			for (int j = i*100; j < i*100+100; j++) {
+		for (int i = 2; i < 10; i++){
+			for (int j = i*100+10*tset; j < i*100+10*tset+10; j++) {
 				Path file_path = Paths.get("processed/WSJ_0" + j + ".POS");
 				int[] accuracy = testModel(file_path);
 				System.out.println("tested processed/WSJ_0" + j + ".POS");
+				totalpredicted += accuracy[0];
+				totalcorrect += accuracy[1];
+			}	
+		}
+		for (int i = 10; i < 13; i++){
+			for (int j = i*100+10*tset; j < i*100+10*tset+10; j++) {
+				Path file_path = Paths.get("processed/WSJ_" + j + ".POS");
+				int[] accuracy = testModel(file_path);
+				System.out.println("tested processed/WSJ_" + j + ".POS");
 				totalpredicted += accuracy[0];
 				totalcorrect += accuracy[1];
 			}	
@@ -213,14 +238,20 @@ public class POStagger {
 		for (int i = 0; i < K; i++) {
 			t = allTags[i];
 			double pWordInCat = 0;
-			if (word2cat.get(w).containsKey(t)) {
-				// calculate smoothed probability
-				pWordInCat = -(Math.log(word2cat.get(w).get(t)+1)-Math.log(wordTotal.get(w)+K));
+			if (word2cat.containsKey(w)){
+				if (word2cat.get(w).containsKey(t)) {
+					// calculate smoothed probability
+					pWordInCat = -(Math.log(word2cat.get(w).get(t)+1)-Math.log(wordTotal.get(w)+K));
+				}
+				else {
+					// calculate default probability
+					pWordInCat = -(Math.log(1)-Math.log(wordTotal.get(w)+K));
+				}
 			}
 			else {
-				// calculate default probability
-				pWordInCat = -(Math.log(1)-Math.log(wordTotal.get(w)+K));
+				pWordInCat = 0;
 			}
+			
 			//System.out.println(pWordInCat);
 
 			double pCatAfterCat = 0; 
@@ -248,14 +279,19 @@ public class POStagger {
 				for (int k = 0; k < K; k++) {
 					prevt = allTags[k];
 					double pWordInCat = 0;
-					if (word2cat.containsKey(w) && word2cat.get(w).containsKey(t)) {
-						// calculate smoothed probability
-						pWordInCat = -(Math.log(word2cat.get(w).get(t)+1)-Math.log(wordTotal.get(w)+K));
+					if (word2cat.containsKey(w)) {
+						if (word2cat.get(w).containsKey(t)) {
+							// calculate smoothed probability
+							pWordInCat = -(Math.log(word2cat.get(w).get(t)+1)-Math.log(wordTotal.get(w)+K));
+						}
+						else {
+							// calculate default probability
+							pWordInCat = -(Math.log(1)-Math.log(wordTotal.get(w)+K));
+						}
 					}
 					else {
-						// calculate default probability
-						pWordInCat = -(Math.log(1)-Math.log(wordTotal.get(w)+K));
-					}
+						pWordInCat = 0;
+					}	
 
 					double pCatAfterCat = 0; 
 					if (cat2cat.containsKey(t) && cat2cat.get(t).containsKey(prevt)) {
